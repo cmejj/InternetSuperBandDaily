@@ -27,7 +27,7 @@
 * [服务层分片——RDB分片新思路](http://dwz.cn/6s1c0o) 
 
 > Misc
-* [玄宗:我的十年阿里路](https://yq.aliyun.com/articles/184264?spm=5176.100239.bloglist.51.Na50c3) -
+* [玄宗:我的十年阿里路](https://yq.aliyun.com/articles/184264?spm=5176.100239.bloglist.51.Na50c3) 
 * [年薪百万工程师钱多事少的日常](http://dwz.cn/6s1b4Z) 
 * [程序员王小波](http://dwz.cn/6s1bqm)
 * [马化腾打赏的男人：老道消息，精致利己的坏分子，还是打破藩篱的冒险家？](http://dwz.cn/6s1cc9)
