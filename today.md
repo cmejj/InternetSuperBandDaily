@@ -1,26 +1,29 @@
-## 2017-09-01
+## 2017-09-02
 
 > News
-* [火狐创始人加入Uber，兼职负责产品战略](http://www.donews.com/news/detail/1/2965639.html)
+* [甲骨文加盟超级账本hyperledger](http://geek.csdn.net/news/detail/234768)
+* [腾讯音乐拟IPO前出售3%股份融资 估值100亿美元](http://tech.ifeng.com/a/20170901/44671484_0.shtml)
 
 > Github Repo
-* [openalpr](https://github.com/openalpr/openalpr) - 车牌号识别系统。Star: 4982. Lang: C++.
-* [paxosstore](https://github.com/Tencent/paxosstore) - wechat存储系统。Star: 82. Lang: C++.
-* [cherami-server](https://github.com/uber/cherami-server) - 一种高可用、可持久消息数据、分布式、可扩展的MQ。Star: 1013. Lang: Golang.
-* [rsa_cgo](https://github.com/Bulesxz/rsa_cgo) - 基于openssl，cgo与go进行性能测试对比。Star: 1. Lang: Golang.
-* [xsv](https://github.com/BurntSushi/xsv) - csv文件处理库。Star: 1270. Lang: Golang.
-* [babun](https://github.com/babun/babun) - windows shell，在windows上运行unix命令。Star: 7256. Lang: Bash.
-* [elasticsearch-definitive-guide](https://github.com/elasticsearch-cn/elasticsearch-definitive-guide) - es使用建议中文版。Star: 990. Lang: Markdown.
+* [tinycthread](https://github.com/tinycthread/tinycthread) - 跨平台线程库。Star: 306. Lang: C.
+* [HanLP](https://github.com/hankcs/HanLP) - HanLP是由一系列模型与算法组成的Java工具包，目标是普及自然语言处理在生产环境中的应用。HanLP具备功能完善、性能高效、架构清晰、语料时新、可自定义的特点。Star: 3460. Lang: Java.
+* [akka-raft](https://github.com/invkrh/akka-raft) - 基于akka框架的raft实现。Star: 3. Lang: Java.
+* [gobgp](https://github.com/osrg/gobgp) - go实现的bgp系统。Star: 1024. Lang: Golang.
+* [murmur3](https://github.com/spaolacci/murmur3) - murmur3 Go实现。Star: 175. Lang: Golang.
+* [csvq](https://github.com/mithrandie/csvq) - 使用类sql语句操作csv文件。Star: 7. Lang: Golang.
+* [goderive](https://github.com/awalterschulze/goderive) - go code generator, 可为一个struct生成equal、compare、deepcopy、gostring等需要递归赋值或者判断的函数，以及keys、sort、unique、set、min、max、contains、intersectheunion等集合操作函数。Star: 304. Lang: Golang.
+* [qqbot](https://github.com/pandolia/qqbot) - qq聊天机器人。Star: 1255. Lang: Python.
+* [wtfPython](https://github.com/satwikkansal/wtfPython) - Python魔法。Star: 799. Lang: Python.
+* [vim-go](https://github.com/fatih/vim-go) - vim go插件。Star: 7090. Lang: vim script.
+* [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - bitcoin圣经第二版。Star: 3759. Lang: Markdown.
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love) - 计算机各个领域的相关研究论文列表。Star: 24444. Lang: Markdown.
 
 > Blog
-* [从YouTube算法论文反推其推荐机制](http://geek.csdn.net/news/detail/234518) 
-* [github中issue里面如何插入代码段](http://top.jobbole.com/37409/) 
-* [Cruise Control：大规模Kafka集群的管理利器](http://dwz.cn/6s1aKb) 
-* [服务层分片——RDB分片新思路](http://dwz.cn/6s1c0o) 
+* [bitmap使用场景](https://mp.weixin.qq.com/s/EkfYiSgPNI8Kr9IfEa4A1g) 
+* [有趣的代码注释](https://mp.weixin.qq.com/s/YqtqitW9T8bREp5VQWcw5A) 
+* [youtube推荐算法](https://mp.weixin.qq.com/s/yvkOgurrBXloxahOVXln6A) 
+* [Spark RPC解析](https://mp.weixin.qq.com/s/ooVr8NqZPZiCiGofUiSbfg) 
 
 > Misc
-* [玄宗:我的十年阿里路](https://yq.aliyun.com/articles/184264?spm=5176.100239.bloglist.51.Na50c3) 
-* [年薪百万工程师钱多事少的日常](http://dwz.cn/6s1b4Z) 
-* [程序员王小波](http://dwz.cn/6s1bqm)
-* [马化腾打赏的男人：老道消息，精致利己的坏分子，还是打破藩篱的冒险家？](http://dwz.cn/6s1cc9)
-* [音乐市场战记](http://dwz.cn/6s1ci7)
+* [CIA新工具AngelFire： 针对Windows系统的永久恶意框架](http://www.freebuf.com/news/146345.html)
+* [维基解密CIA泄露工具盘点](http://www.freebuf.com/special/145818.html)
