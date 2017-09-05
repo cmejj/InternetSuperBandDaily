@@ -1,22 +1,26 @@
-## 2017-09-04
+## 2017-09-05
 
 > News
-* [富士康曝光iPhone 8首批产量：只有500万](http://www.donews.com/news/detail/1/2965815.html)
-* [人类祖先可能很早“走出非洲”](http://www.cnbeta.com/articles/tech/647981.htm)
+* [Linux桌面市场份额突破3%](https://news.cnblogs.com/n/577494/)
+* [腾讯WeGame上线 功能与自家的TGP相似](http://www.donews.com/news/detail/3/2965938.html)
+* [冯鑫：同样是负债、质押股权和多元生态 但我们跟乐视不同](http://www.donews.com/news/detail/1/2965856.html)
 
 > Github Repo
-* [Boxer](https://github.com/alunbestor/Boxer) - Mac平台之上的dos模拟器。Star: 452. Lang: C++.
-* [db_tutorial](https://github.com/cstack/db_tutorial) - 从头开始写sqlite。Star: 74. Lang: C.
-* [unicorn](https://github.com/unicorn-engine/unicorn) - ARM, AArch64, M68K, Mips, Sparc, X86等CPU仿真框架。Star: 1. Lang: C.
-* [ponyc](https://github.com/ponylang/ponyc) - 一种actor模型的语言，可与C/C++相互调用。Star: 2490. Lang: C.
-* [china_ip_list](https://github.com/LisonFan/china_ip_list) - 本 China IP 库是由 IPIP 和 APNIC 合并而来。数据每小时更新一次。。Star: 15. Lang: Markdown.
+* [redsocks](https://github.com/semigodking/redsocks) - 基于libevent的一个网络代理，允许重定向TCP连接、udp包，集成了shadowsocks，也可作为https和双向NAT代理。Star: 515. Lang: C.
+* [interpose](https://github.com/ccurtsinger/interpose) - 一种中间语言，可以很方便地编写跨mac os和linux两种平台的函数库。Star: 15. Lang: C++.
+* [Poker](https://github.com/BlueSky-07/Poker) - 一种称为斗牛的扑克牌游戏实现，跨多种语言。Star: 4. Lang: C & Java & Js & PHP & Python.
+* [happylifeplat-transaction](https://github.com/yu199195/happylifeplat-transaction) - 碧桂园旺生活平台强一致性分布式事务，是基于三阶段提交+本地事务补偿机制来实现。基于java语言来开发（JDK1.8），事务发起者，参与者与协调者底层基于netty长连接通信. 支持dubbo，springcloud进行分布式事务。Star: 173. Lang: Java.
+* [python-mysql-replication](https://github.com/noplay/python-mysql-replication) - 基于PyMYSQL库，实现了mysql书库复制协议，从而可以获取mysql的插入、删除和更新 event，以及sql查询语句。Star: 844. Lang: Python.
+* [how2heap](https://github.com/shellphish/how2heap) - C语言中访问heap内存区域各种tricky工具以及相关文档。Star: 1711. Lang: Markdown.
 
 > Blog
-* [MQ消息可达性+幂等性+延时性架构设计](https://mp.weixin.qq.com/s/8oX7u8XcLL80_nNdN-UkvQ) 
-* [高阶类型 Higher Kinded Type](https://mp.weixin.qq.com/s/0aN6NTVPPNBW9qCRoCPKsw) 
+* [交互式语音验证码](http://www.freebuf.com/articles/network/146246.html) 
+* [kafka sql](https://mp.weixin.qq.com/s/29bcM1o0AS2VGiRQQvZQwQ) 
+* [无限容量数据库架构设计](https://mp.weixin.qq.com/s/ad4tpM6cdi9r6vgfbaTzxg)
+* [基于Java、Kafka、ElasticSearch的搜索框架的设计与实现](https://mp.weixin.qq.com/s/D5AgCVDXm30RezSeyE8L2A)
+* [民生银行：我们的 ELK 日志分析平台](https://mp.weixin.qq.com/s/b6pYnwjTiC5Fb4RYHrLA5A) 
+* [推荐系统“始祖”亚马逊：回顾个性化推荐20年变迁之路](https://mp.weixin.qq.com/s/WT8-wCmqs37C5HmA-v-oPw)
 
 > Misc
-* [美国科技公司的研发投入哪家最多？](https://mp.weixin.qq.com/s/-thLkutpmcpvxrg0LPZMCg) 
-* [美团和大众点评两大数据平台是怎么融合的](https://mp.weixin.qq.com/s/XOCLP8fgj7FmJou56L1VXQ) 
-* [一线城市互联网公司分布](https://mp.weixin.qq.com/s/VXR-YR2CjeMnNJP_gmVxRw) 
-* [一个来自农村女博士的困惑：我们差距在哪？](https://mp.weixin.qq.com/s/JFXeniwFoWkHrnMDC8jYJw)
+* [MySQL发展史](https://news.cnblogs.com/n/577472/) 
+* [映客为什么这么赚钱？](https://mp.weixin.qq.com/s/AYL2fU3gyrbNxBuuQ4oM6g)  
