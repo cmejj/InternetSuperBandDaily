@@ -13,7 +13,7 @@
 | [jOOR](https://github.com/jOOQ/jOOR) | 1283 | Java | 一个易用的java反射函数库 |
 | [NMapGUI](https://github.com/danicuestasuarez/NMapGUI) | 64 | Java | nmap可视化界面 | 
 | [gocog](https://github.com/natefinch/gocog) | 46 | Go | 作者声称可以基于idl生成任何想要的语言 |
-| muxado](https://github.com/inconshreveable/muxado) | 391 | Go | 在同一个链接上进行multiplexing操作的网络库 |
+| [muxado](https://github.com/inconshreveable/muxado) | 391 | Go | 在同一个链接上进行multiplexing操作的网络库 |
 | [redsync](https://github.com/go-redsync/redsync) | 92 | Go | 基于redis的分布式独占锁 |
 | [c2goasm](https://github.com/minio/c2goasm) | 437 | Go | 把c代码以go assembly的形式被go调用 | 
 | [peb-dns](https://github.com/pahf-ops/peb-dns) | 7 | Python | 国人开发的适用于中小型公司的分布式DNS管理平台 |
