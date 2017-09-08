@@ -5,7 +5,8 @@
 * [Google宣布关闭桌面端Google Drive应用](http://www.cnbeta.com/articles/soft/649565.htm)
 * [百度Doc宣布停服](https://mp.weixin.qq.com/s/W-iAKtoXXj0Iyl8-kl1xiQ)
 
-> Github Repo
+> Github Repo.  
+
 | Project Name | Stars | Lang | Description |
 | ------------ | ----- | ----- | ----------- |
 | [ctti](https://github.com/Manu343726/ctti) | 130 | C++ | 编译时变量类型获取库 |
