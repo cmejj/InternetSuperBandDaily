@@ -1,39 +1,34 @@
-## 2017-09-08
+## 2017-09-09
 
 > News
-* [阿里嘉年华](http://www.donews.com/news/detail/1/2966419.html)
-* [Google宣布关闭桌面端Google Drive应用](http://www.cnbeta.com/articles/soft/649565.htm)
-* [百度Doc宣布停服](https://mp.weixin.qq.com/s/W-iAKtoXXj0Iyl8-kl1xiQ)
+* [dubbo 2.5.4发布](https://www.oschina.net/news/88477/dubbo-2-5-4) - 重点看评论，自古评论出人才
+* [传监控部门将关闭比特币交易平台](http://www.donews.com/news/detail/1/2966573.html)
 
-> Github Repo.  
+> Github Repo
 
 | Project Name | Stars | Lang | Description |
 | ------------ | ----- | ----- | ----------- |
-| [ctti](https://github.com/Manu343726/ctti) | 130 | C++ | 编译时变量类型获取库 |
-| [jOOR](https://github.com/jOOQ/jOOR) | 1283 | Java | 一个易用的java反射函数库 |
-| [NMapGUI](https://github.com/danicuestasuarez/NMapGUI) | 64 | Java | nmap可视化界面 | 
-| [gocog](https://github.com/natefinch/gocog) | 46 | Go | 作者声称可以基于idl生成任何想要的语言 |
-| [muxado](https://github.com/inconshreveable/muxado) | 391 | Go | 在同一个链接上进行multiplexing操作的网络库 |
-| [redsync](https://github.com/go-redsync/redsync) | 92 | Go | 基于redis的分布式独占锁 |
-| [c2goasm](https://github.com/minio/c2goasm) | 437 | Go | 把c代码以go assembly的形式被go调用 | 
-| [peb-dns](https://github.com/pahf-ops/peb-dns) | 7 | Python | 国人开发的适用于中小型公司的分布式DNS管理平台 |
-| [scuttlebot](https://github.com/ssbc/scuttlebot) | 536 | Js  | Gossip实现，可以用于数据存储、消息系统以及P2P数据存储 |
-| [terminus](https://github.com/Eugeny/terminus) | 1728 | Js | 一个js实现的跨平台终端系统，作者自称这款终端很摩登 | 
-|[phabricator](https://github.com/phacility/phabricator) | 8787 | Php |一个计算机软件工程游戏，可以帮助工程师提高编码水平 | 
-| [assemblyscript](https://github.com/AssemblyScript/assemblyscript) | 822 | typescript | 一个js编译器，可以把typescript的一个子集编译成WebAssembly | 
-| [missed-optimizations](https://github.com/gergo-/missed-optimizations) | 156 | Markdown | C程序优化技巧 | 
-|[go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) | 93 | Markdown | go web框架列表 | 
-| [json-to-go](https://github.com/mholt/json-to-go) | 811 | Js | js工具，把json转换为对应的go struct代码 | 
-| [jcseg](https://github.com/lionsoul2014/jcseg) | 418 | Java | 基于mmseg算法的一个轻量级中文分词器，同时集成了关键字提取，关键短语提取，关键句子提取和文章自动摘要等功能 |
+| [cell-gc](https://github.com/jorendorff/cell-gc) | 17 | Rust | Rust实现的一款gc库 |
+| [libvips](https://github.com/jcupitt/libvips) | 1360 | C++ | 一个图像处理库，作者声称优点是内存使用量少 |
+| [sanitizers](https://github.com/google/sanitizers) | 1660 | C++ & Bash | 谷歌出品的包括AddressSanitizer、ThreadSanitizer和MemorySanitizer的Sanitizer，其中ThreadSanitizer可以检测go和C++程序 |
+| [swapdb](https://github.com/JRHZRD/swapdb) | 63 | C | 京东金融出品的支持ssd的redis |
+| [cidranger](https://github.com/yl2chen/cidranger) | 151 | Go | 用trie数据结构存储ip block，以加快ip查找 |
+| [https://github.com/jteeuwen/go-bindata](go-binddata) | 3126 | Go | 把静态资源嵌入go程序的工具 |
+| [wagon](https://github.com/go-interpreter/wagon) | 168 | Go | 基于WebAssembly的Go解释器 |
+| [bbllive](https://github.com/gqf2008/bbllive) | 80 | Go | rtmp协议流媒体服务器 |
+| [imaging](https://github.com/disintegration/imaging) | 1261 | Go | 图像处理库 |
+| [dingo-hunter](https://github.com/nickng/dingo-hunter) | 165 | Go | 死锁发现工具 |
+| [gobenchui](https://github.com/divan/gobenchui) | 385 | Go | 以UI形式展示benchmark测试过程中的cpu&memory消耗以及panic所在 |
+| [hugo](https://github.com/gohugoio/hugo) | 19448 | Go | 搭建静态网站利器 |
+| [design](https://github.com/WebAssembly/design) | 7788 | Markdown | WebAssembly设计文档 |
+| [sdn-handbook](https://github.com/feiskyer/sdn-handbook) | 107 | Markdown | SDN网络指南 |
+| [awesome-rust](https://github.com/rustcc/awesome-rust) | 197 | Markdown | Rust框架、库和资源的汇总 |
 
 > Blog
-* [厘清关于区块链、比特币的所有误区](http://geek.csdn.net/news/detail/235638) 
-* [数据科学和 ML 领域常用的 Python 库](http://python.jobbole.com/88521/) 
-* [定位服务器数据丢弃包问题](https://mp.weixin.qq.com/s/R7ruf7r6a0CuopN14FTBBg) 
-* [Redis 如何分布式，来看京东金融的设计与实践](https://mp.weixin.qq.com/s/3iN8ZozP6lhPnz_KAmgc-w) 
+* [一个小时学会Git](http://www.cnblogs.com/best/p/7474442.html#!comments) 
+* [99%的时间在使用的Git命令](http://imtuzi.com/post/most-used-git-cmd.html) 
 
 > Misc
-* [Facebook微软联手推AI生态系统](http://www.donews.com/news/detail/1/2966426.html) 
-* [2000年的腾讯](https://mp.weixin.qq.com/s/zxBQ_gVX8D-mv7ieqb7khQ) 
-* [熊明华8年腾讯经历](https://mp.weixin.qq.com/s/slDzzqbtSrra8PyZi-G-Fw) 
-
+* [MySQL创始人：好的代码是写过一次就永远不需要再碰的那种](http://www.techug.com/post/mysql-michael-monty-widenius.html) 
+* [程序员被前妻逼死事件经过](https://mp.weixin.qq.com/s/743IJedgRbyXVuYR7KHLow) 
+* [马化腾：腾讯初创时快速成长的8个经验](https://mp.weixin.qq.com/s/51kgCvghja9CllxvrhkTZg) 
