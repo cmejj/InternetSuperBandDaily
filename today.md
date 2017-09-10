@@ -31,3 +31,4 @@
 
 > Misc
 * [清华大学副校长施一公：比起他们来我太幸运了](https://news.cnblogs.com/n/577940/) 
+* [提高工作韧性](https://mp.weixin.qq.com/s/qQCwcdugyVMn85vMlT15Dw)
