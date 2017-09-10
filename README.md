@@ -56,7 +56,7 @@
 | [sanitizers](https://github.com/google/sanitizers) | 1660 | C++ & Bash | 谷歌出品的包括AddressSanitizer、ThreadSanitizer和MemorySanitizer的Sanitizer，其中ThreadSanitizer可以检测go和C++程序 |
 | [swapdb](https://github.com/JRHZRD/swapdb) | 63 | C | 京东金融出品的支持ssd的redis |
 | [cidranger](https://github.com/yl2chen/cidranger) | 151 | Go | 用trie数据结构存储ip block，以加快ip查找 |
-| [https://github.com/jteeuwen/go-bindata](go-binddata) | 3126 | Go | 把静态资源嵌入go程序的工具 |
+| [go-binddata](https://github.com/jteeuwen/go-bindata) | 3126 | Go | 把静态资源嵌入go程序的工具 |
 | [wagon](https://github.com/go-interpreter/wagon) | 168 | Go | 基于WebAssembly的Go解释器 |
 | [bbllive](https://github.com/gqf2008/bbllive) | 80 | Go | rtmp协议流媒体服务器 |
 | [imaging](https://github.com/disintegration/imaging) | 1261 | Go | 图像处理库 |
