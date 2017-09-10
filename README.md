@@ -8,7 +8,7 @@
 
 ## 2017-09-10
 
-> News
+
 * [因配合有关部门工作，BlogBus网站暂时停止访问](http://www.blogbus.com) - 这。。。。。。
 * [施一公摘得2017未来科学大奖生命科学奖](https://news.cnblogs.com/n/577932/)
 * [小米舞弊案件：1台湾人被逮捕](http://geek.csdn.net/news/detail/235847)
@@ -39,7 +39,7 @@
 
 > Misc
 * [清华大学副校长施一公：比起他们来我太幸运了](https://news.cnblogs.com/n/577940/) 
-
+* [提高工作韧性](https://mp.weixin.qq.com/s/qQCwcdugyVMn85vMlT15Dw)
 
 ## 2017-09-09
 
