@@ -1,34 +1,33 @@
-## 2017-09-09
+## 2017-09-10
 
 > News
-* [dubbo 2.5.4发布](https://www.oschina.net/news/88477/dubbo-2-5-4) - 重点看评论，自古评论出人才
-* [传监控部门将关闭比特币交易平台](http://www.donews.com/news/detail/1/2966573.html)
+* [因配合有关部门工作，BlogBus网站暂时停止访问](http://www.blogbus.com) - 这。。。。。。
+* [施一公摘得2017未来科学大奖生命科学奖](https://news.cnblogs.com/n/577932/)
+* [小米舞弊案件：1台湾人被逮捕](http://geek.csdn.net/news/detail/235847)
+* [程序员身后事](http://geek.csdn.net/news/detail/235846) - 重点看评论，什么中东不中东的^_^
+* [流行Chrome插件User-Agent Switcher为木马程序，请尽快卸载](http://www.freebuf.com/news/147188.html)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
-| ------------ | ----- | ----- | ----------- |
-| [cell-gc](https://github.com/jorendorff/cell-gc) | 17 | Rust | Rust实现的一款gc库 |
-| [libvips](https://github.com/jcupitt/libvips) | 1360 | C++ | 一个图像处理库，作者声称优点是内存使用量少 |
-| [sanitizers](https://github.com/google/sanitizers) | 1660 | C++ & Bash | 谷歌出品的包括AddressSanitizer、ThreadSanitizer和MemorySanitizer的Sanitizer，其中ThreadSanitizer可以检测go和C++程序 |
-| [swapdb](https://github.com/JRHZRD/swapdb) | 63 | C | 京东金融出品的支持ssd的redis |
-| [cidranger](https://github.com/yl2chen/cidranger) | 151 | Go | 用trie数据结构存储ip block，以加快ip查找 |
-| [https://github.com/jteeuwen/go-bindata](go-binddata) | 3126 | Go | 把静态资源嵌入go程序的工具 |
-| [wagon](https://github.com/go-interpreter/wagon) | 168 | Go | 基于WebAssembly的Go解释器 |
-| [bbllive](https://github.com/gqf2008/bbllive) | 80 | Go | rtmp协议流媒体服务器 |
-| [imaging](https://github.com/disintegration/imaging) | 1261 | Go | 图像处理库 |
-| [dingo-hunter](https://github.com/nickng/dingo-hunter) | 165 | Go | 死锁发现工具 |
-| [gobenchui](https://github.com/divan/gobenchui) | 385 | Go | 以UI形式展示benchmark测试过程中的cpu&memory消耗以及panic所在 |
-| [hugo](https://github.com/gohugoio/hugo) | 19448 | Go | 搭建静态网站利器 |
-| [design](https://github.com/WebAssembly/design) | 7788 | Markdown | WebAssembly设计文档 |
-| [sdn-handbook](https://github.com/feiskyer/sdn-handbook) | 107 | Markdown | SDN网络指南 |
-| [awesome-rust](https://github.com/rustcc/awesome-rust) | 197 | Markdown | Rust框架、库和资源的汇总 |
+|:------------ |:----- |:----- |:----------- |
+| [metal](https://github.com/brunocodutra/metal) | 129 | C++ | C++ template封装，对很多容器共有的操作进行了抽象 |
+| [dataurl](https://github.com/vincent-petithory/dataurl) | 44 | Go | url schema解析器 |
+| [complete](https://github.com/posener/complete) | 257 | Go | 用go实现的bash&zsh completion |
+| [tiny-compiler](https://github.com/thejameskyle/the-super-tiny-compiler) | 8762 | Js | 一个超小而微的编译器 |
+| [flatpickr](https://github.com/chmln/flatpickr) | 8504 | Js | 无依赖的日历实现 |
+| [aiohttp](https://github.com/aio-libs/aiohttp) | 3685 | Python | 异步http框架 |
+| [pulsar](https://github.com/quantmind/pulsar) | 1489 | Python | 一个异步编程并发框架，可以在不同进程或线程中运行一个或多个event |
+| [jupyter4kids](https://github.com/mikkokotila/jupyter4kids) | 83 | Python | 教孩子学习Python和数学 |
+| [simplified-deeplearning](https://github.com/exacity/simplified-deeplearning) | 497 | Markdown | DeepLearningBook读书笔记 |
+| [awesome-python](https://github.com/vinta/awesome-python) | 38371 | Markdown | awesome python |
+
 
 > Blog
-* [一个小时学会Git](http://www.cnblogs.com/best/p/7474442.html#!comments) 
-* [99%的时间在使用的Git命令](http://imtuzi.com/post/most-used-git-cmd.html) 
+* [浅谈Windows系统下的网站备份与恢复](http://www.freebuf.com/articles/system/146675.html) 
+* [揭秘盗取“羊毛党”比特币的钓鱼攻击事件](http://www.freebuf.com/articles/network/145985.html) 
+* [一句话说清分布式锁](http://www.cnblogs.com/intsmaze/p/6384105.html) 
+* [跟vczh看实例学编译原理](http://www.cppblog.com/vczh/archive/2014/01/19/205468.html) 
 
 > Misc
-* [MySQL创始人：好的代码是写过一次就永远不需要再碰的那种](http://www.techug.com/post/mysql-michael-monty-widenius.html) 
-* [程序员被前妻逼死事件经过](https://mp.weixin.qq.com/s/743IJedgRbyXVuYR7KHLow) 
-* [马化腾：腾讯初创时快速成长的8个经验](https://mp.weixin.qq.com/s/51kgCvghja9CllxvrhkTZg) 
+* [清华大学副校长施一公：比起他们来我太幸运了](https://news.cnblogs.com/n/577940/) 
