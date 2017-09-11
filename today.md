@@ -1,34 +1,36 @@
-## 2017-09-10
+## 2017-09-11
 
 > News
-* [因配合有关部门工作，BlogBus网站暂时停止访问](http://www.blogbus.com) - 这。。。。。。
-* [施一公摘得2017未来科学大奖生命科学奖](https://news.cnblogs.com/n/577932/)
-* [小米舞弊案件：1台湾人被逮捕](http://geek.csdn.net/news/detail/235847)
-* [程序员身后事](http://geek.csdn.net/news/detail/235846) - 重点看评论，什么中东不中东的^_^
-* [流行Chrome插件User-Agent Switcher为木马程序，请尽快卸载](http://www.freebuf.com/news/147188.html)
+* [Blued获得《新京报》数千万元人民币融资](http://www.igeekbar.com/igeekbar/post/407.htm)
+* [苏享茂之死背后](http://www.cnbeta.com/articles/tech/650379.htm)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
-|:------------ |:----- |:----- |:----------- |
-| [metal](https://github.com/brunocodutra/metal) | 129 | C++ | C++ template封装，对很多容器共有的操作进行了抽象 |
-| [dataurl](https://github.com/vincent-petithory/dataurl) | 44 | Go | url schema解析器 |
-| [complete](https://github.com/posener/complete) | 257 | Go | 用go实现的bash&zsh completion |
-| [tiny-compiler](https://github.com/thejameskyle/the-super-tiny-compiler) | 8762 | Js | 一个超小而微的编译器 |
-| [flatpickr](https://github.com/chmln/flatpickr) | 8504 | Js | 无依赖的日历实现 |
-| [aiohttp](https://github.com/aio-libs/aiohttp) | 3685 | Python | 异步http框架 |
-| [pulsar](https://github.com/quantmind/pulsar) | 1489 | Python | 一个异步编程并发框架，可以在不同进程或线程中运行一个或多个event |
-| [jupyter4kids](https://github.com/mikkokotila/jupyter4kids) | 83 | Python | 教孩子学习Python和数学 |
-| [simplified-deeplearning](https://github.com/exacity/simplified-deeplearning) | 497 | Markdown | DeepLearningBook读书笔记 |
-| [awesome-python](https://github.com/vinta/awesome-python) | 38371 | Markdown | awesome python |
-
+| ------------ | ----- | ----- | ----------- |
+| [nghttp2](https://github.com/nghttp2/nghttp2) | 1941 | C | http2协议实现，包括server、client和proxy，另外提供了C++封装以及对应的python包 |
+| [FreeRDP](https://github.com/FreeRDP/FreeRDP) | 1911 | C | 远程桌面协议实现 |
+| [proxychains-ng](https://github.com/rofl0r/proxychains-ng) | 2849 | C | socket/http proxy实现，是从sourceforge.net上迁移过来的一个项目 |
+| [sqlcheck](https://github.com/jarulraj/sqlcheck) | 1224 | C++ | sql语句范式检查工具 |
+| [etcher](https://github.com/resin-io/etcher) | 5696 | C++ | 将OS镜像安全又方便地刻录到SD卡和USB设备上 |
+| [scylla](https://github.com/scylladb/scylla) | 3266 | C++ | 基于seastar的NoSQL系统，兼容Cassandra |
+| [rusticsearch](https://github.com/kaedroho/rusticsearch) | 135 | Rust | 一个轻量的兼容elasticsearch的查询引擎 |
+| [rust-san](https://github.com/japaric/rust-san) | 78 | Rust | rust代码静态检查工具 |
+| [sled](https://github.com/spacejam/sled) | 114 | Rust | 一个以库形式实现的db，实现了cas、无锁、基于ssd优化的log存储、zstd压缩等feature |
+| [ripgrep](https://github.com/BurntSushi/ripgrep) | 5694 | Rust | grep rust实现，可在linux、Max和Windows上使用 |
+| [goflyway](https://github.com/coyove/goflyway) | 709 | Go | http隧道实现，如果使用私有协议其运行速度超过shadowsocks |
+| [gorun](https://github.com/erning/gorun) | 232 | Go | 一个工具，可以让python程序执行python脚本一样运行go代码 |
+| [overseer](https://github.com/jpillora/overseer) | 849 | Go | 自动重启和热更新库 |
+| [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) | 3855 | Python | 关闭windows 10系统跟踪的工具 |
+| [awesome-emails](https://github.com/jonathandion/awesome-emails) | 314 | Markdown | email快速处理以及生成相关工具列表  |
+| [notablepython](https://github.com/tukkek/notablepython) | 63 | Markdown | 不常用python语法特性 |
 
 > Blog
-* [浅谈Windows系统下的网站备份与恢复](http://www.freebuf.com/articles/system/146675.html) 
-* [揭秘盗取“羊毛党”比特币的钓鱼攻击事件](http://www.freebuf.com/articles/network/145985.html) 
-* [一句话说清分布式锁](http://www.cnblogs.com/intsmaze/p/6384105.html) 
-* [跟vczh看实例学编译原理](http://www.cppblog.com/vczh/archive/2014/01/19/205468.html) 
+* [iOS监控：卡顿方案思考](http://ios.jobbole.com/93267/) 
+* [一起游戏私服同行发起的DDoS攻击：样本分析与溯源](http://www.freebuf.com/articles/network/146772.html) 
+* [如何使用PowerShell实现命令控制以及安全检查绕过](http://www.freebuf.com/articles/system/146251.html) 
+* [HDR10+介绍](http://biz.51cto.com/art/201709/551081.htm) 
 
 > Misc
-* [清华大学副校长施一公：比起他们来我太幸运了](https://news.cnblogs.com/n/577940/) 
-* [提高工作韧性](https://mp.weixin.qq.com/s/qQCwcdugyVMn85vMlT15Dw)
+* [《对自杀说不》 开源协议](https://www.oschina.net/news/88566/say-no-to-suicide-public-license) 
+* [专访深信服首席架构师：后IOE时代国产风来袭！](http://bbs.chinaunix.net/thread-4186630-1-1.html) 
