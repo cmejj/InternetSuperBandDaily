@@ -1,35 +1,34 @@
-## 2017-09-12
+## 2017-09-13
 
 > News
-* [阿里音乐、腾讯音乐宣布达成互相转授版权合作](http://www.cnbeta.com/articles/tech/650609.htm) 
-* [Uber新任CEO将退出纽约时报董事会](http://www.donews.com/news/detail/4/2966735.html)
-* [高通向苹果代工厂索要专利费被驳回](http://www.donews.com/news/detail/1/2966739.html)
-* [Facebook同股不同权 扎克伯格又要出庭了](http://www.donews.com/news/detail/1/2966597.html)
-* [施尧耘加盟阿里](http://mp.weixin.qq.com/s/wdd8-T80OacPHNnaa6ozoA)
+* [大逃杀爆发前夜：腾讯网易大厂争相入局](http://www.donews.com/news/detail/3/2966826.html)
+* [原微软亚太科技董事长申元庆加盟京东 执掌京东云](http://www.donews.com/news/detail/1/2966763.html)
+* [十几只猴子同时死亡 专家:可能是被老虎吼声吓死的](http://hot.cnbeta.com/articles/funny/650791.htm)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
-| ------------ | ----- | ----- | ----------- |
-| [xkcptun](https://github.com/liudf0716/xkcptun) | 156 | C | 基于OpenWRT&LEDE的kcp隧道库 |
-| [json](https://github.com/nlohmann/json) | 6508 | C++ | C++ Json lib |
-| [pikkr](https://github.com/pikkr/pikkr) | 236 | Rust | Rust Json Parser |
-| [uavstack](https://github.com/uavorg/uavstack) | 131 | Java | 宜信技术研发中心推出的研发运维一体化的解决方案 |
-| [DBus](https://github.com/BriData/DBus) | 65 | Java | 宜信公司技术研发中心Bridata团体开发的一款实时数据同步产品，专注于数据的收集及实时数据流计算 |
-| [go-proto-validators](https://github.com/mwitkow/go-proto-validators) | 91 | Go | 一个protobuf插件，基于proto文件生成Validate函数 |
-| [onionscan](https://github.com/s-rah/onionscan) | 941 | Go | 暗网信息蜘蛛 |
-| [quadtree-go](https://github.com/JamesMilnerUK/quadtree-go) | 111 | Go | 四叉树实现，GIS常用数据结构 |
-| [qrcode](https://github.com/tuotoo/qrcode) | 16 | Go | 二维码解析库 |
-| [PassiveScanner](https://github.com/jjf012/PassiveScanner) | 64 | Python | 基于Mitmproxy和Arachni的被动式扫描器 |
-| [knex](https://github.com/tgriesser/knex) | 5221 | Js | SQL查询构建器，支持MySQL、Mongodb和sqllite3 |
+| :----------- | :---- | :--- | :---------- |
+| [mulle-concurrent](https://github.com/mulle-nat/mulle-concurrent) | 60 | C | 无锁hashtable和array实现 |
+| [L4](https://github.com/Microsoft/L4) | 31 | C++ | 微软出品的L4 hashtable，可以跨平台，大小固定，通过一个Epoch Queue可以做到读无锁，接下来微软会给它添加跨进程访问特性 |
+| [highwayhash](https://github.com/google/highwayhash) | 467 | C++ | SipHash/HighwayHash C++实现 |
+| [blackfriday](https://github.com/russross/blackfriday) | 2602 | Go | Markdown解析器，可以把markdown文件转换为html文件 |
+| [qt](https://github.com/therecipe/qt) | 2894 | Go | qt go支持，通过这个库可以调用qt编写跨平台的GUI程序 |
+| [bigcache](https://github.com/allegro/bigcache) | 1062 | Go | 能有效存储千兆字节量数据的缓存 |
+| [goSynPortScanner](https://github.com/feimyy/goSynPortScanner) | 4 | Go | 可能是最快的tcp端口扫描器 |
+| [slab](https://github.com/funny/slab) | 72 | Go | slab内存池实现 |
+| [ws](https://github.com/gobwas/ws) | 866 | Go | websocket golang实现 |
+| [Sublist3r](https://github.com/aboul3la/Sublist3r) | 1180 | Python | 通过枚举方式获取一个域名的所有子域名集合 |
+| [gifify](https://github.com/vvo/gifify) | 3765 | Js | 把视频文件转换为gif动画的高效工具 |
+| [fullstack-webdev-path](https://github.com/shovanch/fullstack-webdev-path) | 1102 | Markdown | web全栈开发技术栈 |
 
 > Blog
-* [西方红玫瑰和辣条先生黑产组织深度分析报告](http://www.freebuf.com/articles/paper/145777.html) 
-* [使用 Redis实现trie树](http://blog.jobbole.com/112358/) 
-* [语言处理中的分词问题](http://mp.weixin.qq.com/s/SiHSMrn8lxCmrtHbcwL-NQ) 
+* [推荐系统框架](http://geek.csdn.net/news/detail/235983) 
+* [软件供应链来源攻击分析报告](http://www.freebuf.com/articles/paper/147403.html) 
+* [基于Lua插件化的Pcap流量监听代理](http://www.freebuf.com/news/146841.html) 
+* [P4级专家揭秘腾讯培养产品经理第一步](https://mp.weixin.qq.com/s/DAm3LVleLmtUMwpP2xDv9A) 
 
 > Misc
-* [iPhone十年进化史](http://www.donews.com/news/detail/1/2966728.html) 
-* [部级高官：东北到底怎么了？](http://mp.weixin.qq.com/s/igQf0UoqTjdyC00AFRRiMA)
-* [网络间谍活动的前世今生](http://www.freebuf.com/news/146719.html) 
-* [私立高中的老板们如何绞杀公立高中的校长们？](http://mp.weixin.qq.com/s/-ct6yMit8gVmdtmTWt_Z8Q) 
+* [Akamai安全报告](http://www.freebuf.com/column/147427.html) 
+* [为什么朝鲜格外关注加密货币](http://www.freebuf.com/news/147425.html) 
+* [周鸿祎：未来的世界属于怪咖](https://mp.weixin.qq.com/s/9msrYCWlQsexIqwEOcvd-w) 
