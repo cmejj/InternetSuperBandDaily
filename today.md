@@ -27,6 +27,5 @@
 * [opentsdb：一个分布式可扩展的时间序列数据库](http://hao.jobbole.com/opentsdb/)
 * [如何实现一个分布式 RPC 框架](http://www.importnew.com/26604.html)
 
-> Misc
-* [cURL 作者谈后门](http://top.jobbole.com/37532/) 
+> Misc 
 * [研究人员利用基因组数据产生肖像](http://www.solidot.org/story?sid=53828) - 方法是利用机器学习工具分析基因组数据
