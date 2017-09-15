@@ -17,6 +17,7 @@
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
+| [bprc](https://github.com/brpc/brpc) | 165 | C++ | 百度rpc，开发者自称是最快的rpc，自创了一套基于pthread的bthread(映射关系是M:N，类似go的CMP？)，项目文档质量也相等不错 |
 | [isa-l](https://github.com/01org/isa-l) | 159 | C & asm | 存储智能加速库 |
 | [cppcoro](https://github.com/lewissbaker/cppcoro) | 45 | C++ | 跨平台coroutine C++封装库 |
 | [disruptorplus](https://github.com/lewissbaker/disruptorplus) | 12 | C++ | disruptor(没有听说过的自己去搜搜)C++实现 |
