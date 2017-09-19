@@ -1,30 +1,30 @@
-## 2017-09-18
+
+## 2017-09-19
 
 > News
-* [苹果修改App Store审核规则：取消打赏抽成](http://www.donews.com/news/detail/1/2967424.html)
+* [系统清理工具CCleaner被植入后门](http://www.freebuf.com/news/148119.html)
+* [谷歌起诉Uber新进展：拿到关键证据](http://www.donews.com/news/detail/1/2967426.html)
+* [思科宣布董事长钱伯斯年底退休](http://www.donews.com/news/detail/1/2967577.html)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [aria2](https://github.com/aria2/aria2) | 6543 | C++ | 跨平台下载工具，支持HTTP/HTTPS, FTP, SFTP, BitTorrent 以及 Metalink等协议 |
-| [lscpu](https://github.com/NanXiao/lscpu) | 31 | C | CPU信息查看工具 |
-| [ring](https://github.com/briansmith/ring) | 598 | Rust | 安全、快速、简洁的rust加密库 |
-| [levigo](https://github.com/jmhodges/levigo) | 309 | Go |leveldb go封装库  |
-| [StockSharp](https://github.com/StockSharp/StockSharp) | 1033 | C# | 基于相关算法，可以自动机型股票、比特币等交易的机器人 |
-| [hatch](https://github.com/ofek/hatch) | 1372 | Python | python工程管理工具 |
-| [fastai](https://github.com/fastai/fastai) | 1051 | Python | 深度学习库以及相关教程 |
-| [europilot](https://github.com/marshq/europilot) | 610 | Python | 自动驾驶引擎 |
-| [wechat_mall_applet](https://github.com/bayetech/wechat_mall_applet) | 242 | Js | 微信商城小程序 |
-| [vue-mall](https://github.com/yucccc/vue-mall) | 276 | Js | 基于 vue+node+mongodb 实现一个电子商城 |
+| [libqrencode](https://github.com/fukuchi/libqrencode) | 839 | C | QR二维码编码包 |
+| [go-sockaddr](https://github.com/hashicorp/go-sockaddr) | 46 | Go | sockaddr相关函数以及unix socket相关操作封装 |
+| [survey](https://github.com/AlecAivazis/survey) | 287 | Go | 跨平台终端操作函数 |
+| [graphviz](https://github.com/xflr6/graphviz) | 213 | Python | graphviz python包 |
+| [face_recognition](https://github.com/ageitgey/face_recognition) | 6031 | Python | 号称最快的人脸识别python包 |
+| [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) | 450 | Markdown | Kubernetes中文指南/实践手册 |
 
 > Blog
-* [MySQL主从同步那点事儿](http://geek.csdn.net/news/detail/236754) -
-* [“大黄蜂”远控挖矿木马分析与溯源](http://www.freebuf.com/articles/network/147301.html) - 大黄蜂作者在评论区跟腾讯撕逼
-* [为什么 GitHub 不能托管 Linux Kernel 社区？](https://mp.weixin.qq.com/s/anbxXwWAzUoyjEENz1o38g) 
-* [Mesos容器引擎的架构设计和实现解析](https://mp.weixin.qq.com/s/OGpMgvjUjgIYk5kVxf66Tg) 
-* [Linux下如何恢复被删除文件](https://mp.weixin.qq.com/s/-ov5w32JLfNJY7Ha1kY80Q)
+* [LANs.py：一款可以实现代码注入，无线渗透和WiFi用户监控的强大工具](http://www.freebuf.com/sectool/147605.html) 
+* [关于搜索需求，搜索架构的一切](https://mp.weixin.qq.com/s/srCizUXJ5mJJZ4w-bW6X1Q) 
+* [让你的 Python 代码优雅又地道](http://python.jobbole.com/88526/) 
+* [QQ中的 “轻应用”](https://mp.weixin.qq.com/s/5k0NF5Kmk10WIJdV2CPOQw) 
+* [Java反射机制，速度提高1000倍](https://mp.weixin.qq.com/s/qwxfVF9pcA8rnybpE0qQ7A)
 
 > Misc
-* [3%的科学论文否认全球变暖](http://www.cnbeta.com/articles/tech/652529.htm)
-* [蓝洞 X Greene成长史](http://www.donews.com/news/detail/3/2967352.html) 
+* [探访2017国家网络安全宣传周](http://www.freebuf.com/fevents/147988.html) 
+* [React 许可证的五宗罪](http://blog.jobbole.com/112503/) 
+* [盲人程序员如何写代码](http://blog.jobbole.com/112473/) - 一个赞扬windows、抛弃notepad++拥抱intellij idea的故事
