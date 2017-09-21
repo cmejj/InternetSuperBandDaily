@@ -1,44 +1,36 @@
-## 2017-09-20
+## 2017-09-21
 
 > News
-* [汽车政策有了新变化 利好特斯拉](http://www.donews.com/news/detail/4/2967764.html)
-* [刘强东接受金融时报专访：我从没卖过一件假货](http://www.cnbeta.com/articles/tech/653051.htm)
-* [吴恩达让员工每周工作70小时](https://mp.weixin.qq.com/s/BiKy4blDNIXgWT0-6LfpSw)
+* [Facebook或明年入华](http://www.donews.com/news/detail/1/2967778.html)
+* [Xbox负责人为公司副总裁 直接向CEO纳德拉汇报](http://www.donews.com/news/detail/3/2967822.html)
+* [美司法部对Uber亚洲业务展开反腐调查 包括中国](http://www.donews.com/news/detail/1/2967863.html)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [RHash](https://github.com/rhash/RHash) | 131 | C++ | 跨平台Hash库，实现了CRC32, MD4, MD5, SHA1, SHA256, SHA512, SHA3,   AICH,  ED2K,  Tiger,  DC++ TTH,  BitTorrent BTIH,   GOST R 34.11-94, RIPEMD-160, HAS-160, EDON-R, Whirlpool and Snefru等hash函数 |
-| [ThreadPool](https://github.com/progschj/ThreadPool) | 1041 | C++ | C++11 线程池 |
-| [envoy](https://github.com/envoyproxy/envoy) | 2222 | C++ | 七层代理 |
-| [crossbeam](https://github.com/crossbeam-rs/crossbeam) | 743 | Rust | Rust并行库，有通过mutex包装的stacks, queues, deques, bags, sets and maps等数据结构，以及对线程、同步操作以及内存管理的封装 |
-| [bigchaindb](https://github.com/bigchaindb/bigchaindb) | 1464 | Go | 可伸缩区块链数据库 |
-| [go-mocket](https://github.com/Selvatico/go-mocket) | 25 | Go | GORM & SQL mock库 |
-| [](https://github.com/dchest/captcha) | 1 | Go |  |
-| [tyk](https://github.com/TykTechnologies/tyk) | 2336 | Go | API网关实现，有restful、多种认证协议实现、限速、快速宕机重启、ip白名单等众多特性 |
-| [noms](https://github.com/attic-labs/noms) | 6206 | Go | 支持Fork，混合版本，同步等特性的数据库 |
-| [regexp2](https://github.com/dlclark/regexp2) | 70 | Go | 移植自.net System.Text.RegularExpressions.Regex类的regex引擎  |
-| [speechpy](https://github.com/astorfi/speechpy) | 1 | Python | 语音处理和识别 |
-| [pyecharts](https://github.com/chenjiandongx/pyecharts) | 1346 | Python | Echarts Python封装包 |
-| [appletoo](https://github.com/nicholasbs/appletoo) | 47 | Js | Js实现的Apple II模拟器 |
-| [protobuf.js](https://github.com/dcodeIO/protobuf.js) | 3441 | Js | protobuf js实现 |
-| [nekomy-platform](https://github.com/nekomy/nekomy-platform) | 97 | Js | 在线学习网站开源版 |
-| [papers](https://github.com/xiang90/papers) | 20 | Markdown | Spanner和Raft原始论文中文版 |
-| [CFWheels.gitignore](https://github.com/github/gitignore/blob/master/CFWheels.gitignore) | 54810 | git | 各种语言相关工程下gitignore模板 |
+| [proxygen](https://github.com/facebook/proxygen) | 5061 | C++ | facebook出品的HTTP包，包含客户端、代理以及服务端，遵循HTTP/1.1, SPDY/3, SPDY/3.1, and HTTP/2等HTTP标准。 |
+| [wireshark](https://github.com/boundary/wireshark) | 23 | C++ & Python | wireshark源代码 |
+| [mrustc](https://github.com/thepowersgang/mrustc) | 164 | C++ | 一款C++实现的Rust编译器 |
+| [MemoryPool](https://github.com/cacay/MemoryPool) | 224 | C++ | MemoryPool C++实现 |
+| [h2](https://github.com/carllerche/h2) | 125 | Rust | Rust HTTP2实现 |
+| []() | 1 | Java |  |
+| [migrate](https://github.com/mattes/migrate) | 1574 | Go | 把数据导入数据库工具，具体内容请阅读readme |
+| [mgq](https://github.com/YoungPioneers/mgq) | 56 | Go | 兼容memcached协议、基于NOSQL数据库BerkeleyDB实现的FIFO消息队列，其父亲mcq是最早应用于weibo的基础消息中间件，有着高性能，解耦的优点，使得其广泛应用于微博 |
+| [go-chart](https://github.com/wcharczuk/go-chart) | 1431 | Go | 类似于echarts的绘图包 |
+| [tendermint](https://github.com/tendermint/tendermint) | 733 | Go | Byzantine Fault Tolerant实现 |
 
 
 > Blog
-* [Noms：灵感来自Git的数据库](http://geek.csdn.net/news/detail/108223) 
-* [卡巴斯基2017年第二季度IT威胁及演变](http://www.freebuf.com/articles/paper/147562.html) 
-* [每个程序员都该知道的五大定律](http://blog.jobbole.com/112474/) 
-* [对待棘手bug，新手与大牛的差距在哪里？](https://mp.weixin.qq.com/s/wHRp5by5dEyqa4NdGZvlEQ) 
-* [千亿关系链下的新增共同好友计算](https://mp.weixin.qq.com/s/dBaXjxBpHRzK9d9o9KlYOA)
-* [Go 在证券行情系统中的应用](https://mp.weixin.qq.com/s/MuUBiMo59CGJ1M9PCcBYbw)
+* [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html) 
+* [「AI系统首次实现真正自主编程」利用遗传算法，完爆初级程序员](http://www.toutiao.com/a6467710082221146381/) 
+* [关于SQL注入的一些技巧分享](http://database.51cto.com/art/201709/552141.htm) 
+* [程序世界里的不信任原则](http://codebay.cn/post/5466.html) - 防御编程秘笈
+* [Polling + Inotify 组合下的日志保序采集方案](https://yq.aliyun.com/articles/204554?spm=5176.100239.bloglist.201.RMOije)
+* [PostgreSQL9.5架构图及外存图](https://yq.aliyun.com/articles/205674?spm=5176.100239.bloglist.171.RMOije)
 
 > Misc
-* [Facebook 开源协议争议](http://dwz.cn/6wNJPQ) 
-* [王劲：从百度离开的这半年](http://www.pingwest.com/jingchi-wangjing-afer-baidu/) 
-* [中国第一封 Email 发出 30 年](http://top.jobbole.com/37575/) 
-* [印尼国民军总司令强令所有军人观看反共纪录片](https://mp.weixin.qq.com/s/irhwp_wyVIGRZKm5kgJAqw)
-* [职场“35岁危机”：这是我看过的最棒建议](https://mp.weixin.qq.com/s/MgiC4V1OeLAXEFTEISqm0Q)
+* [一图秒懂中国数据库的40年江湖](http://database.51cto.com/art/201709/551533.htm) 
+* [科技大公司正在颠覆资本主义的基本规则](http://www.donews.com/article/detail/4089/10277.html) 
+* [因中国移动数据丢失事件华为被罚5亿](https://mp.weixin.qq.com/s/WY7WUFMaEhYoMnFveasmgg) 
+* [为腾讯买微信关键专利，S4专家创业一年收入千万](https://mp.weixin.qq.com/s/0QcgDvsEYzPYV1gYtfun8A)
