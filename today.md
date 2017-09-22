@@ -1,36 +1,37 @@
-## 2017-09-21
+## 2017-09-22
 
 > News
-* [Facebook或明年入华](http://www.donews.com/news/detail/1/2967778.html)
-* [Xbox负责人为公司副总裁 直接向CEO纳德拉汇报](http://www.donews.com/news/detail/3/2967822.html)
-* [美司法部对Uber亚洲业务展开反腐调查 包括中国](http://www.donews.com/news/detail/1/2967863.html)
+* [乐视网发函贾跃亭 要求其继续履行借款承诺](http://www.donews.com/news/detail/1/2968141.html)
+* [掌阅科技上市首日股价涨停](http://www.donews.com/news/detail/3/2968113.html)
+* [特斯拉和AMD结盟，共同开发自动驾驶芯片](http://www.donews.com/news/detail/1/2967962.html)
+* [东芝已同意将芯片业务部门出售给贝恩资本](http://www.donews.com/news/detail/1/2967948.html)
+* [北京一高校现“共享校花”](http://hot.cnbeta.com/articles/funny/654109.htm) - 中间有只汪在排队
+
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [proxygen](https://github.com/facebook/proxygen) | 5061 | C++ | facebook出品的HTTP包，包含客户端、代理以及服务端，遵循HTTP/1.1, SPDY/3, SPDY/3.1, and HTTP/2等HTTP标准。 |
-| [wireshark](https://github.com/boundary/wireshark) | 23 | C++ & Python | wireshark源代码 |
-| [mrustc](https://github.com/thepowersgang/mrustc) | 164 | C++ | 一款C++实现的Rust编译器 |
-| [MemoryPool](https://github.com/cacay/MemoryPool) | 224 | C++ | MemoryPool C++实现 |
-| [h2](https://github.com/carllerche/h2) | 125 | Rust | Rust HTTP2实现 |
-| []() | 1 | Java |  |
-| [migrate](https://github.com/mattes/migrate) | 1574 | Go | 把数据导入数据库工具，具体内容请阅读readme |
-| [mgq](https://github.com/YoungPioneers/mgq) | 56 | Go | 兼容memcached协议、基于NOSQL数据库BerkeleyDB实现的FIFO消息队列，其父亲mcq是最早应用于weibo的基础消息中间件，有着高性能，解耦的优点，使得其广泛应用于微博 |
-| [go-chart](https://github.com/wcharczuk/go-chart) | 1431 | Go | 类似于echarts的绘图包 |
-| [tendermint](https://github.com/tendermint/tendermint) | 733 | Go | Byzantine Fault Tolerant实现 |
+| [robomongo](https://github.com/Studio3T/robomongo) | 5949 | C++ | 跨平台mongodb管理工具 |
+| [lia](https://github.com/willcrichton/lia) | 176 | Rust | 一个美国人实现的一种Rust方言(作者自称是一种新语言)，可以方便地使用Rust，并使用一个中文字“俩”作为语言的名称 |
+| [gotest](https://github.com/rakyll/gotest) | 44 | Go | 把go test结果用彩色显示 |
+| [logkit](https://github.com/qiniu/logkit) | 176 | Go | 七牛Pandora开发的一个通用的日志收集工具 |
+| [gcache](https://github.com/bluele/gcache) | 243 | Go | 缓存包，实现了LFU, LRU和ARC.等cache算法 |
+| [go-fastping](https://github.com/tatsushid/go-fastping) | 224 | Go | go icmp包实现 |
+| [mrproxy](https://github.com/zobo/mrproxy) | 11 | Go | 把memcache协议转换为redis协议 |
+| [open_source_team](https://github.com/niezhiyang/open_source_team) | 386 | Markdown | 国内顶尖团队的开源地址 |
 
 
 > Blog
-* [我如何使用Cloud Fuzzing挖到了一个Tcpdump漏洞](http://www.freebuf.com/articles/network/147955.html) 
-* [「AI系统首次实现真正自主编程」利用遗传算法，完爆初级程序员](http://www.toutiao.com/a6467710082221146381/) 
-* [关于SQL注入的一些技巧分享](http://database.51cto.com/art/201709/552141.htm) 
-* [程序世界里的不信任原则](http://codebay.cn/post/5466.html) - 防御编程秘笈
-* [Polling + Inotify 组合下的日志保序采集方案](https://yq.aliyun.com/articles/204554?spm=5176.100239.bloglist.201.RMOije)
-* [PostgreSQL9.5架构图及外存图](https://yq.aliyun.com/articles/205674?spm=5176.100239.bloglist.171.RMOije)
+* [gomock使用](https://my.oschina.net/zeal/blog/1540677)
+* [攻击者如何优雅的控制系统权限](http://www.freebuf.com/articles/system/147985.html)
+* [OreintDB 远程代码执行漏洞](http://www.freebuf.com/vuls/147740.html)
+* [Flash芯片内存提取](http://www.freebuf.com/geek/147847.html) 
+* [专访iDST NLP负责人——淘宝内容搜索、评价归纳的幕后英雄](https://yq.aliyun.com/articles/211984?spm=5176.100239.bloglist.72.USjZaL)
+* [人工智能在线特征系统中的生产调度](https://mp.weixin.qq.com/s/ORZ4MrCPgta8Oeg-ns8cQQ)
+* [阿里硬件加速技术](https://mp.weixin.qq.com/s/v_BsfSFp-LwiCOFKaMIS_g)
 
 > Misc
-* [一图秒懂中国数据库的40年江湖](http://database.51cto.com/art/201709/551533.htm) 
-* [科技大公司正在颠覆资本主义的基本规则](http://www.donews.com/article/detail/4089/10277.html) 
-* [因中国移动数据丢失事件华为被罚5亿](https://mp.weixin.qq.com/s/WY7WUFMaEhYoMnFveasmgg) 
-* [为腾讯买微信关键专利，S4专家创业一年收入千万](https://mp.weixin.qq.com/s/0QcgDvsEYzPYV1gYtfun8A)
+* [渗透神器Burp Suite被曝远程代码执行漏洞](http://www.freebuf.com/vuls/148516.html) 
+* [WePhone背后的生意经 网络电话游走于灰色地带](http://www.donews.com/news/detail/4/2968152.html) 
+* [腾讯19年独家产品秘诀](https://mp.weixin.qq.com/s/8xfuyfqHR58g-7HeSCUUHg) 
