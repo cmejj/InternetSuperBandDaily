@@ -1,37 +1,39 @@
-## 2017-09-22
+
+## 2017-09-23
 
 > News
-* [乐视网发函贾跃亭 要求其继续履行借款承诺](http://www.donews.com/news/detail/1/2968141.html)
-* [掌阅科技上市首日股价涨停](http://www.donews.com/news/detail/3/2968113.html)
-* [特斯拉和AMD结盟，共同开发自动驾驶芯片](http://www.donews.com/news/detail/1/2967962.html)
-* [东芝已同意将芯片业务部门出售给贝恩资本](http://www.donews.com/news/detail/1/2967948.html)
-* [北京一高校现“共享校花”](http://hot.cnbeta.com/articles/funny/654109.htm) - 中间有只汪在排队
+* [惠普企业公司拟裁员5000人](http://www.donews.com/news/detail/1/2968169.html)
+* [今日头条回应人民网 “三评”](http://www.donews.com/article/detail/3673/10289.html)
+* [拉勾拟2019年赴美IPO](http://www.donews.com/news/detail/2/2968154.html)
 
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [robomongo](https://github.com/Studio3T/robomongo) | 5949 | C++ | 跨平台mongodb管理工具 |
-| [lia](https://github.com/willcrichton/lia) | 176 | Rust | 一个美国人实现的一种Rust方言(作者自称是一种新语言)，可以方便地使用Rust，并使用一个中文字“俩”作为语言的名称 |
-| [gotest](https://github.com/rakyll/gotest) | 44 | Go | 把go test结果用彩色显示 |
-| [logkit](https://github.com/qiniu/logkit) | 176 | Go | 七牛Pandora开发的一个通用的日志收集工具 |
-| [gcache](https://github.com/bluele/gcache) | 243 | Go | 缓存包，实现了LFU, LRU和ARC.等cache算法 |
-| [go-fastping](https://github.com/tatsushid/go-fastping) | 224 | Go | go icmp包实现 |
-| [mrproxy](https://github.com/zobo/mrproxy) | 11 | Go | 把memcache协议转换为redis协议 |
-| [open_source_team](https://github.com/niezhiyang/open_source_team) | 386 | Markdown | 国内顶尖团队的开源地址 |
-
+| [rDSN](https://github.com/Microsoft/rDSN) | 602 | C++ | 微软开发的rDSN系统，鲁棒性好，保障能够在分布式系统下稳定运行 |
+| [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) | 414 | C |  AES、SHA-1等基本加解密算法实现 |
+| [origin](https://github.com/openshift/origin) | 3356 | Go | 针对开发者的工业级k8s |
+| [bleve](https://github.com/blevesearch/bleve) | 3492 | Go | 为文本建立索引，只针对西文字符有效，不能对东亚文字进行分词 |
+| [tunny](https://github.com/Jeffail/tunny) | 582 | Go | groutine pool |
+| [gonum](https://github.com/gonum/gonum) | 516 | Go | go 数字计算库 |
+| [proxy](https://github.com/clearcontainers/proxy) | 11 | Go | 基于hypervisor的容器代理 |
+| [fasthash](https://github.com/segmentio/fasthash) | 34 | Go | 高效hash算法实现 |
+| [gorocksdb](https://github.com/tecbot/gorocksdb) | 237 | Go | rocksdb golang接口 |
+| [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | 1515 | | 用于渗透测试或者密码攻击的字典 |
+| [instabot.py](https://github.com/instabot-py/instabot.py) | 1627 | Python | Instagram机器人 |
+| [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) | 8269 | Js | 第三方wechat客户端，可以在mac和linux上运行 |
+| [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 1617 |  | mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开 |
+| [go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 1 | Markdown | golang要点以及代码示例 |
 
 > Blog
-* [gomock使用](https://my.oschina.net/zeal/blog/1540677)
-* [攻击者如何优雅的控制系统权限](http://www.freebuf.com/articles/system/147985.html)
-* [OreintDB 远程代码执行漏洞](http://www.freebuf.com/vuls/147740.html)
-* [Flash芯片内存提取](http://www.freebuf.com/geek/147847.html) 
-* [专访iDST NLP负责人——淘宝内容搜索、评价归纳的幕后英雄](https://yq.aliyun.com/articles/211984?spm=5176.100239.bloglist.72.USjZaL)
-* [人工智能在线特征系统中的生产调度](https://mp.weixin.qq.com/s/ORZ4MrCPgta8Oeg-ns8cQQ)
-* [阿里硬件加速技术](https://mp.weixin.qq.com/s/v_BsfSFp-LwiCOFKaMIS_g)
+* [蜜罐背后的影子系统探秘](http://www.freebuf.com/articles/web/147892.html) 
+* [我是如何通过CSRF拿到Shell的](http://www.freebuf.com/vuls/148257.html) 
+* [di：比 df 更有用的磁盘信息工具](http://blog.jobbole.com/112535/) 
+* [为什么LinkedIn放弃MySQL slowlog？](https://mp.weixin.qq.com/s/1QkJEezkldmH9z_y22soGA)
 
 > Misc
-* [渗透神器Burp Suite被曝远程代码执行漏洞](http://www.freebuf.com/vuls/148516.html) 
-* [WePhone背后的生意经 网络电话游走于灰色地带](http://www.donews.com/news/detail/4/2968152.html) 
-* [腾讯19年独家产品秘诀](https://mp.weixin.qq.com/s/8xfuyfqHR58g-7HeSCUUHg) 
+* [Linux内核爱好者访谈](https://www.oschina.net/question/2720166_2266690) 
+* [NSA内部文件背后的故事](http://www.freebuf.com/articles/others-articles/148161.html)
+* [科技行业什么技能最吃香？](http://www.freebuf.com/articles/neopoints/147937.html) 
+* [中日对中华正统最后的争夺](https://mp.weixin.qq.com/s/ycCrartrD11ExTFkKk3daA)
