@@ -1,39 +1,36 @@
-
-## 2017-09-23
+## 2017-09-24
 
 > News
-* [惠普企业公司拟裁员5000人](http://www.donews.com/news/detail/1/2968169.html)
-* [今日头条回应人民网 “三评”](http://www.donews.com/article/detail/3673/10289.html)
-* [拉勾拟2019年赴美IPO](http://www.donews.com/news/detail/2/2968154.html)
+* [网传酷骑资金紧张](http://www.donews.com/news/detail/1/2968341.html)
+* [神学家：性机器人使用者将会下地狱](http://www.cnbeta.com/articles/tech/654903.htm)
+* [俩大兄弟学中国在硅谷搞无人零售](http://www.pingwest.com/unmanned-vending-box-named-after-bodega-and-its-founders-were-roasted-alive/)
 
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [rDSN](https://github.com/Microsoft/rDSN) | 602 | C++ | 微软开发的rDSN系统，鲁棒性好，保障能够在分布式系统下稳定运行 |
-| [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) | 414 | C |  AES、SHA-1等基本加解密算法实现 |
-| [origin](https://github.com/openshift/origin) | 3356 | Go | 针对开发者的工业级k8s |
-| [bleve](https://github.com/blevesearch/bleve) | 3492 | Go | 为文本建立索引，只针对西文字符有效，不能对东亚文字进行分词 |
-| [tunny](https://github.com/Jeffail/tunny) | 582 | Go | groutine pool |
-| [gonum](https://github.com/gonum/gonum) | 516 | Go | go 数字计算库 |
-| [proxy](https://github.com/clearcontainers/proxy) | 11 | Go | 基于hypervisor的容器代理 |
-| [fasthash](https://github.com/segmentio/fasthash) | 34 | Go | 高效hash算法实现 |
-| [gorocksdb](https://github.com/tecbot/gorocksdb) | 237 | Go | rocksdb golang接口 |
-| [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | 1515 | | 用于渗透测试或者密码攻击的字典 |
-| [instabot.py](https://github.com/instabot-py/instabot.py) | 1627 | Python | Instagram机器人 |
-| [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) | 8269 | Js | 第三方wechat客户端，可以在mac和linux上运行 |
-| [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 1617 |  | mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开 |
-| [go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 1 | Markdown | golang要点以及代码示例 |
+| [sql-parser](https://github.com/hyrise/sql-parser) | 96 | C++ | 根据sql语句生成C++ struct |
+| [AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) | 1724 | C++ | 2D&3D 游戏引擎 |
+| [flowbro](https://github.com/marianogappa/flowbro) | 72 | Go | 基于kafka的实时消息流动态图 |
+| [robotgo](https://github.com/go-vgo/robotgo) | 2129 | Go | Golang 跨平台自动化系统，控制键盘鼠标位图和读取屏幕，窗口句柄以及全局事件监听 |
+| [triangle](https://github.com/esimov/triangle) | 204 | Go | 把图像转换为delaunay三角网图形 |
+| [goth](https://github.com/markbates/goth) | 1343 | Go | 可以在go web程序简单快速地添加认证模块 |
+| [okdc](https://github.com/kubeup/okdc) | 40 | Bash | 一键部署K8S |
+| [opentracing-specification-zh](https://github.com/opentracing-contrib/opentracing-specification-zh) | 135 | Markdown | OpenTracing官方标准-中文版 |
+| [nginx-book](https://github.com/taobao/nginx-book) | 3474 | Markdown | Nginx开发从入门到精通 |
+
 
 > Blog
-* [蜜罐背后的影子系统探秘](http://www.freebuf.com/articles/web/147892.html) 
-* [我是如何通过CSRF拿到Shell的](http://www.freebuf.com/vuls/148257.html) 
-* [di：比 df 更有用的磁盘信息工具](http://blog.jobbole.com/112535/) 
-* [为什么LinkedIn放弃MySQL slowlog？](https://mp.weixin.qq.com/s/1QkJEezkldmH9z_y22soGA)
+* [Go语言：成长的十年](http://tonybai.com/2017/09/24/go-ten-years-and-climbing/) 
+* [Node.js中的内存泄漏分析](http://www.freebuf.com/articles/web/147956.html) 
+* [数据异构的武器-BINLOG+MQ](http://blog.jobbole.com/112466/) -
+* [秒杀，推送，广告，推荐，计数-互联网非典型业务系统架构设计](https://mp.weixin.qq.com/s/bAKti8-4eYylArLJWyw7Qw) 
+* [OpenGL ES和坐标变换概述](https://mp.weixin.qq.com/s/8VXemHIRtRiPFr9hFqxsgw)
+* [Java 内存模型 JMM 浅析](https://mp.weixin.qq.com/s/i4ThsVV3MJY0wh5lA_Kcsg)
 
 > Misc
-* [Linux内核爱好者访谈](https://www.oschina.net/question/2720166_2266690) 
-* [NSA内部文件背后的故事](http://www.freebuf.com/articles/others-articles/148161.html)
-* [科技行业什么技能最吃香？](http://www.freebuf.com/articles/neopoints/147937.html) 
-* [中日对中华正统最后的争夺](https://mp.weixin.qq.com/s/ycCrartrD11ExTFkKk3daA)
+* [没有报酬，有多少开源项目维护者能坚持？](http://blog.jobbole.com/112530/) 
+* [比尔·盖茨评审产品时说 Fk 最少的一次](http://blog.jobbole.com/112524/) 
+* [小米重生故事](https://mp.weixin.qq.com/s/7ERfYSk9reUh5c0SUgYULw) 
+* [张志东(Tony)：谈谈互联网产品的老化](https://mp.weixin.qq.com/s/LVW-u2MigGHLOKUorI4lBA)
