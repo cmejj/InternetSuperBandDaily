@@ -1,36 +1,37 @@
-## 2017-09-24
+## 2017-09-25
 
 > News
-* [网传酷骑资金紧张](http://www.donews.com/news/detail/1/2968341.html)
-* [神学家：性机器人使用者将会下地狱](http://www.cnbeta.com/articles/tech/654903.htm)
-* [俩大兄弟学中国在硅谷搞无人零售](http://www.pingwest.com/unmanned-vending-box-named-after-bodega-and-its-founders-were-roasted-alive/)
+* [GO 输入法被指会收集用户个人信息以及下载危险的可执行代码](http://www.solidot.org/story?sid=53929)
+* [大毒枭巴勃罗的家人起诉Netflix使用Narcos商标 要求赔偿10亿美元](http://hot.cnbeta.com/articles/movie/654703.htm)
+* [微信已放弃对Windows Mobile的支持](http://www.cnbeta.com/articles/soft/655037.htm)
+* [昔日龙头康佳狂奔没落背后：营收百亿利润率不足1%](http://www.cnbeta.com/articles/tech/655027.htm)
 
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [sql-parser](https://github.com/hyrise/sql-parser) | 96 | C++ | 根据sql语句生成C++ struct |
-| [AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) | 1724 | C++ | 2D&3D 游戏引擎 |
-| [flowbro](https://github.com/marianogappa/flowbro) | 72 | Go | 基于kafka的实时消息流动态图 |
-| [robotgo](https://github.com/go-vgo/robotgo) | 2129 | Go | Golang 跨平台自动化系统，控制键盘鼠标位图和读取屏幕，窗口句柄以及全局事件监听 |
-| [triangle](https://github.com/esimov/triangle) | 204 | Go | 把图像转换为delaunay三角网图形 |
-| [goth](https://github.com/markbates/goth) | 1343 | Go | 可以在go web程序简单快速地添加认证模块 |
-| [okdc](https://github.com/kubeup/okdc) | 40 | Bash | 一键部署K8S |
-| [opentracing-specification-zh](https://github.com/opentracing-contrib/opentracing-specification-zh) | 135 | Markdown | OpenTracing官方标准-中文版 |
-| [nginx-book](https://github.com/taobao/nginx-book) | 3474 | Markdown | Nginx开发从入门到精通 |
+| [Non-blocking-Buffers](https://github.com/umbrant/Non-blocking-Buffers) | 8 | C++ | 基于共享内存的单生产者单消费者无锁队列 |
+| [C1000K-Servers](https://github.com/smallnest/C1000K-Servers) | 679 | Java & Go | 使用四种框架分别实现百万websocket常连接的服务器 |
+| [patricia](https://github.com/Kentik/patricia) | 60 | Go | 用redix数据结构存储IP地址数据 |
+| [nes](https://github.com/fogleman/nes) | 2828 | Go | 神奇马里奥 |
+| [stackblur-go](https://github.com/esimov/stackblur-go) | 119 | Go | 高斯模糊图像算法实现 |
+| [faas](https://github.com/openfaas/faas) | 5718 | Go | 一个机遇k8s和docker的serverless框架 |
+| [captcha](https://github.com/dchest/captcha) | 599 | Go | 图片和声音验证码生成库 |
+| [golang-graphics](https://github.com/mholt/golang-graphics) | 115 | Go | 计算机矢量图形和3D图形库，还包括常见的jpg、png、gimp等场景2D图形格式处理库 |
+| [rawkit](https://github.com/darcyclarke/rawkit) | 226 | Js | Node.js app调试工具 |
+| [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) | 9734 | Markdown | 一些神奇的ios ui集合 |
 
 
 > Blog
-* [Go语言：成长的十年](http://tonybai.com/2017/09/24/go-ten-years-and-climbing/) 
-* [Node.js中的内存泄漏分析](http://www.freebuf.com/articles/web/147956.html) 
-* [数据异构的武器-BINLOG+MQ](http://blog.jobbole.com/112466/) -
-* [秒杀，推送，广告，推荐，计数-互联网非典型业务系统架构设计](https://mp.weixin.qq.com/s/bAKti8-4eYylArLJWyw7Qw) 
-* [OpenGL ES和坐标变换概述](https://mp.weixin.qq.com/s/8VXemHIRtRiPFr9hFqxsgw)
-* [Java 内存模型 JMM 浅析](https://mp.weixin.qq.com/s/i4ThsVV3MJY0wh5lA_Kcsg)
+* [工业控制系统安全之——Modbus学习笔记](http://www.freebuf.com/articles/ics-articles/148637.html) 
+* [运维逼格提升心法：从报警到预警，如何有效提升SLO](http://developer.51cto.com/art/201709/552359.htm) 
+* [我对Go语言的错误处理有哪些不满，以及我是如何处理的](http://developer.51cto.com/art/201709/552329.htm) 
+* [深度剖析Service Mesh服务网格新生代Istio](https://mp.weixin.qq.com/s/vdUlWtm8bjTEWldN8gnLZQ) 
+* [阿里正式发布《Java开发手册》](https://mp.weixin.qq.com/s/tW-zX8ajeaDgGFEw38RR5w)
 
 > Misc
-* [没有报酬，有多少开源项目维护者能坚持？](http://blog.jobbole.com/112530/) 
-* [比尔·盖茨评审产品时说 Fk 最少的一次](http://blog.jobbole.com/112524/) 
-* [小米重生故事](https://mp.weixin.qq.com/s/7ERfYSk9reUh5c0SUgYULw) 
-* [张志东(Tony)：谈谈互联网产品的老化](https://mp.weixin.qq.com/s/LVW-u2MigGHLOKUorI4lBA)
+* [微软安全发布2017上半年勒索软件事件分析与统计图](http://www.freebuf.com/articles/paper/147638.html) 
+* [傅盛：每个创业者都应该上一次混沌大学](https://mp.weixin.qq.com/s/4elXG0sSsT3du24HvAonqg) 
+* [为何物质女孩太多，淑女太少](https://mp.weixin.qq.com/s/KcNVtcxwewckGvZDrSXb3Q) -
+* [Google创始人佩奇桀骜人生：永不捐钱给慈善，用好奇心改变世界](https://mp.weixin.qq.com/s/RZSISyjHgHk0hk8B10wwhg)
