@@ -1,37 +1,39 @@
-## 2017-09-25
+## 2017-09-26
 
 > News
-* [GO 输入法被指会收集用户个人信息以及下载危险的可执行代码](http://www.solidot.org/story?sid=53929)
-* [大毒枭巴勃罗的家人起诉Netflix使用Narcos商标 要求赔偿10亿美元](http://hot.cnbeta.com/articles/movie/654703.htm)
-* [微信已放弃对Windows Mobile的支持](http://www.cnbeta.com/articles/soft/655037.htm)
-* [昔日龙头康佳狂奔没落背后：营收百亿利润率不足1%](http://www.cnbeta.com/articles/tech/655027.htm)
+* [人人车得到滴滴出行2亿美元战略投资](http://www.donews.com/news/detail/1/2968349.html)
+* [自杀程序员创办的网络电话：灰色地带还是违规运营？](http://www.donews.com/news/detail/4/2968350.html)
+* [尤达大师和沙特国王](http://hot.cnbeta.com/articles/funny/655053.htm)
 
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [Non-blocking-Buffers](https://github.com/umbrant/Non-blocking-Buffers) | 8 | C++ | 基于共享内存的单生产者单消费者无锁队列 |
-| [C1000K-Servers](https://github.com/smallnest/C1000K-Servers) | 679 | Java & Go | 使用四种框架分别实现百万websocket常连接的服务器 |
-| [patricia](https://github.com/Kentik/patricia) | 60 | Go | 用redix数据结构存储IP地址数据 |
-| [nes](https://github.com/fogleman/nes) | 2828 | Go | 神奇马里奥 |
-| [stackblur-go](https://github.com/esimov/stackblur-go) | 119 | Go | 高斯模糊图像算法实现 |
-| [faas](https://github.com/openfaas/faas) | 5718 | Go | 一个机遇k8s和docker的serverless框架 |
-| [captcha](https://github.com/dchest/captcha) | 599 | Go | 图片和声音验证码生成库 |
-| [golang-graphics](https://github.com/mholt/golang-graphics) | 115 | Go | 计算机矢量图形和3D图形库，还包括常见的jpg、png、gimp等场景2D图形格式处理库 |
-| [rawkit](https://github.com/darcyclarke/rawkit) | 226 | Js | Node.js app调试工具 |
-| [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) | 9734 | Markdown | 一些神奇的ios ui集合 |
-
+| [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning) | 1206 | C++ | 在移动设备上进行低成本的CNN计算 |
+| [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) | 199 | C++ | Excel XLSX文件操作库 |
+| [libpcap](https://github.com/the-tcpdump-group/libpcap) | 631 | C | libpcap源码 |
+| [koka](https://github.com/koka-lang/koka) | 212 | Haskell | koka语言编译器和解释器 |
+| [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) | 3523 | Java & OC | 大牛直播，跨平台(windows/android/iOS)推送(rtmp)、播放器(rtmp/rtsp)，支持录像、导播、动态视频合成、实时快照、水印、音频混音、互动等，国内外为数不多不依赖开源框架，业界真正靠谱的超低延迟(1秒左右) |
+| [skydns](https://github.com/skynetservices/skydns) | 1647 | Go | etcd使用的dns系统 |
+| [godepgraph](https://github.com/kisielk/godepgraph) | 211 | Go | 绘制矢量图工具，可以生产dot文件，用graphviz显示之 |
+| [govaluate](https://github.com/Knetic/govaluate) | 269 | Go | 对数字比较表达式字符串进行数学计算，以及对字符串等值比较字符串进行等值判断 |
+| [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) | 52 | Go | 设计模式 Golang实现 |
+| [jwt-go](https://github.com/dgrijalva/jwt-go) | 2569 | Go | jwt go实现 |
+| [wechat-go](https://github.com/songtianyi/wechat-go) | 397 | Go | 本库提供go版本wechat web api以及消息框架，可用于构建微信机器人 |
+| [frp](https://github.com/fatedier/frp) | 6672 | Go | 一个快速的反向代理库，可以通过internet穿透NAT或者防火墙去访问局域网中某台机器 |
+| [inferno](https://github.com/infernojs/inferno) | 11389 | Js | React-like js框架 |
+| [how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) | 278 | rst | 跟我一起写Makefile |
 
 > Blog
-* [工业控制系统安全之——Modbus学习笔记](http://www.freebuf.com/articles/ics-articles/148637.html) 
-* [运维逼格提升心法：从报警到预警，如何有效提升SLO](http://developer.51cto.com/art/201709/552359.htm) 
-* [我对Go语言的错误处理有哪些不满，以及我是如何处理的](http://developer.51cto.com/art/201709/552329.htm) 
-* [深度剖析Service Mesh服务网格新生代Istio](https://mp.weixin.qq.com/s/vdUlWtm8bjTEWldN8gnLZQ) 
-* [阿里正式发布《Java开发手册》](https://mp.weixin.qq.com/s/tW-zX8ajeaDgGFEw38RR5w)
+* [基于ThinkPHP的2个CMS后台GetShell利用](http://www.freebuf.com/articles/web/148629.html) 
+* [如何让XShell病毒失效](http://www.freebuf.com/articles/network/147444.html) 
+* [Redis 未授权访问漏洞深度利用](http://www.freebuf.com/vuls/148758.html) 
+* [Go in TiDB](https://mp.weixin.qq.com/s/1o7Mw4TbHVmKShwQjdo_BQ) 
+* [六个人如何运维一万台服务器？](https://mp.weixin.qq.com/s/0Mj6LWtqX_SvTgYQZ5JYBA)
 
 > Misc
-* [微软安全发布2017上半年勒索软件事件分析与统计图](http://www.freebuf.com/articles/paper/147638.html) 
-* [傅盛：每个创业者都应该上一次混沌大学](https://mp.weixin.qq.com/s/4elXG0sSsT3du24HvAonqg) 
-* [为何物质女孩太多，淑女太少](https://mp.weixin.qq.com/s/KcNVtcxwewckGvZDrSXb3Q) -
-* [Google创始人佩奇桀骜人生：永不捐钱给慈善，用好奇心改变世界](https://mp.weixin.qq.com/s/RZSISyjHgHk0hk8B10wwhg)
+* [没落的HTC](http://www.donews.com/article/detail/4805/10292.html) 
+* [月球鲜为人知的事实：一个脚印可保存数百年](http://www.cnbeta.com/articles/science/655403.htm) 
+* [Reddit搜索模块发展简史](https://mp.weixin.qq.com/s/9ApQAW1k_wx-7q03CbVtaw) 
+* [三次关键策略，成就腾讯游戏](https://mp.weixin.qq.com/s/4a1z32H73GhbBxGbrnMPOg)
