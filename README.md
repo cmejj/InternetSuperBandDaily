@@ -6,6 +6,79 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-09-28
+
+> News
+* [SQL Server 首次登陆 Linux 平台](http://top.jobbole.com/37615/)
+* [Uber果断抛弃汽车租赁项目](http://www.donews.com/news/detail/4/2968839.html)
+* [扎克伯格真要竞选总统？](http://www.donews.com/news/detail/4/2968556.html)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [abseil-cpp](https://github.com/abseil/abseil-cpp) | 1201 | C++ | 源自google内部的C++源码，作为C++标准库的补充或者替代品，有algorithm、container、memory、data、numeric、strings、synchronization、time和types等子库 |
+| [rax](https://github.com/antirez/rax) | 228 | C | radix tree C实现 |
+| [iperf](https://github.com/esnet/iperf) | 1258 | C | TCP, UDP, and SCTP网络带宽估算工具 |
+| [HP-Socket](https://github.com/ldcsaa/HP-Socket) | 864 | C++ | 一个Tcp&Udp网络库 |
+| [rust-url](https://github.com/servo/rust-url) | 262 | Rust | url parser |
+| [hllpp](https://github.com/retailnext/hllpp) | 48 | Go | HyperLogLog Go实现 |
+| [futhark](https://github.com/diku-dk/futhark) | 419 | Haskell | 一种新的对GPU友好的可并行操作数据的函数式语言 |
+| [SniffAir](https://github.com/Tylous/SniffAir) | 524 | Python | 无限流量分析工具，可用于执行复杂网络攻击 |
+| [gtop](https://github.com/aksakalli/gtop) | 5818 | Js | 基于终端的ASCII图形界面显示top结果 |
+| [vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks) | 4586 | Markdown | vscode操作概要 |
+| [Dapper-translation](https://github.com/bigbully/Dapper-translation) | 471 | Markdown | Dapper分布式跟踪系统中文版 |
+| [openwrt-gfw](https://github.com/hackgfw/openwrt-gfw) | 470 | Markdown | 多种基于Openwrt的翻墙解决方案 |
+| [p3c](https://github.com/alibaba/p3c) | 301 | pdf | 阿里巴巴Java开发手册（终极版） |
+
+> Blog
+* [MongoDB要点](http://geek.csdn.net/news/detail/238003) 
+* [十分钟看懂MongoDB攻防实战](http://www.freebuf.com/articles/database/148823.html) 
+* [如何在使用受限的windows系统上打开命令终端](http://www.freebuf.com/articles/system/149003.html) 
+* [PostgreSQL 10 新特性详解](https://mp.weixin.qq.com/s/J6DHM-61h5qUV9025tQO-A) 
+* [对基于TCP的网络应用在socket非阻塞模式下send调用错误原因的深入分析](https://mp.weixin.qq.com/s/lN8KKIYZNtSIWM3Fo3FKog)
+
+> Misc
+* [OpenSSL开源团队访华纪实](http://www.freebuf.com/fevents/148827.html) 
+* [体育圈的那些黑幕](http://www.freebuf.com/special/146424.html) 
+* [微型黑洞内毁灭中子星过程中或制造出黄金等重元素](http://www.cnbeta.com/articles/science/656227.htm) 
+
+## 2017-09-27
+
+> News
+* [中国将在合肥建造世界最大的量子信息科学国家实验室，占地高达554亩](http://cio.51cto.com/art/201709/552782.htm)
+* [法拉第未来否认内华达工厂项目告吹 称明年底可量产](http://www.donews.com/news/detail/4/2968560.html)
+* [加州考虑禁售燃油车](http://www.cnbeta.com/articles/tech/655837.htm)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [stb](https://github.com/nothings/stb) | 5927 | C/C++ | 通过单个头文件进行某方面的编程，如本库把图像处理相关内容集合在stb_image.h, C语言变成buffer相关实现在stretchy_buffer.h等 |
+| [RTree](https://github.com/nushoin/RTree) | 92 | C++ | 红黑树实现 |
+| [masscan](https://github.com/robertdavidgraham/masscan) | 1 | C++ | TCP端口扫描工具，其实现是通过异步发送SYN包实现的 |
+| [qq-robot](https://github.com/hlpp/qq-robot) | 12 | VC++ | 简单的多功能QQ聊天机器人 |
+| [libsvm](https://github.com/cjlin1/libsvm) | 2275 | C | svm分类器实现 |
+| [xgboost](https://github.com/dmlc/xgboost) | 8863 | Go | 基于Gradient Boosting的机器学习框架 |
+| [gorram](https://github.com/natefinch/gorram) | 825 | Go | 在命令行通过管道输入获取的参数，可以动态执行package中的函数或者method |
+| [hey](https://github.com/rakyll/hey) | 2085 | Go | http压测工具，曾经名字是boom |
+| [dedsploit](https://github.com/ex0dus-0x/dedsploit) | 83 | Python | 网络协议攻击框架 |
+| [nana](https://github.com/aqingsao/nana) | 152 | Bash | ngx log分析脚本工具 |
+| [farmer](https://github.com/huoxy/farmer) | 53 | Js | 基于ansible的异步任务执行web app |
+| [xterm.js](https://github.com/sourcelair/xterm.js) | 2117 | Js | 基于浏览器的终端 |
+
+
+> Blog
+* [如何读懂火焰图？](http://blog.jobbole.com/112555/) 
+* [区块链原理最清晰最直观的解释](http://blog.jobbole.com/112551/) 
+* [面对缓存，有哪些问题需要思考？](https://mp.weixin.qq.com/s/3f1ELMAhpzB5Fcewd4n0FA) 
+
+> Misc
+* [豌豆公主CTO陈超创业体会](http://news.51cto.com/art/201709/551728.htm) 
+* [CCleaner后门事件后续：删除服务器内容，公布受感染公司名单](http://www.freebuf.com/news/148888.html) 
+* [为什么手机电池总是不够用?](http://www.donews.com/article/detail/4660/10299.html) 
+* [泳池里到底有多少尿?](http://hot.cnbeta.com/articles/funny/655695.htm)
+
 ## 2017-09-26
 
 > News

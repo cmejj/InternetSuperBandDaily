@@ -1,39 +1,37 @@
-## 2017-09-26
+
+## 2017-09-28
 
 > News
-* [人人车得到滴滴出行2亿美元战略投资](http://www.donews.com/news/detail/1/2968349.html)
-* [自杀程序员创办的网络电话：灰色地带还是违规运营？](http://www.donews.com/news/detail/4/2968350.html)
-* [尤达大师和沙特国王](http://hot.cnbeta.com/articles/funny/655053.htm)
-
+* [SQL Server 首次登陆 Linux 平台](http://top.jobbole.com/37615/)
+* [Uber果断抛弃汽车租赁项目](http://www.donews.com/news/detail/4/2968839.html)
+* [扎克伯格真要竞选总统？](http://www.donews.com/news/detail/4/2968556.html)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning) | 1206 | C++ | 在移动设备上进行低成本的CNN计算 |
-| [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) | 199 | C++ | Excel XLSX文件操作库 |
-| [libpcap](https://github.com/the-tcpdump-group/libpcap) | 631 | C | libpcap源码 |
-| [koka](https://github.com/koka-lang/koka) | 212 | Haskell | koka语言编译器和解释器 |
-| [SmarterStreaming](https://github.com/daniulive/SmarterStreaming) | 3523 | Java & OC | 大牛直播，跨平台(windows/android/iOS)推送(rtmp)、播放器(rtmp/rtsp)，支持录像、导播、动态视频合成、实时快照、水印、音频混音、互动等，国内外为数不多不依赖开源框架，业界真正靠谱的超低延迟(1秒左右) |
-| [skydns](https://github.com/skynetservices/skydns) | 1647 | Go | etcd使用的dns系统 |
-| [godepgraph](https://github.com/kisielk/godepgraph) | 211 | Go | 绘制矢量图工具，可以生产dot文件，用graphviz显示之 |
-| [govaluate](https://github.com/Knetic/govaluate) | 269 | Go | 对数字比较表达式字符串进行数学计算，以及对字符串等值比较字符串进行等值判断 |
-| [golang-design-pattern](https://github.com/senghoo/golang-design-pattern) | 52 | Go | 设计模式 Golang实现 |
-| [jwt-go](https://github.com/dgrijalva/jwt-go) | 2569 | Go | jwt go实现 |
-| [wechat-go](https://github.com/songtianyi/wechat-go) | 397 | Go | 本库提供go版本wechat web api以及消息框架，可用于构建微信机器人 |
-| [frp](https://github.com/fatedier/frp) | 6672 | Go | 一个快速的反向代理库，可以通过internet穿透NAT或者防火墙去访问局域网中某台机器 |
-| [inferno](https://github.com/infernojs/inferno) | 11389 | Js | React-like js框架 |
-| [how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) | 278 | rst | 跟我一起写Makefile |
+| [abseil-cpp](https://github.com/abseil/abseil-cpp) | 1201 | C++ | 源自google内部的C++源码，作为C++标准库的补充或者替代品，有algorithm、container、memory、data、numeric、strings、synchronization、time和types等子库 |
+| [rax](https://github.com/antirez/rax) | 228 | C | radix tree C实现 |
+| [iperf](https://github.com/esnet/iperf) | 1258 | C | TCP, UDP, and SCTP网络带宽估算工具 |
+| [HP-Socket](https://github.com/ldcsaa/HP-Socket) | 864 | C++ | 一个Tcp&Udp网络库 |
+| [rust-url](https://github.com/servo/rust-url) | 262 | Rust | url parser |
+| [hllpp](https://github.com/retailnext/hllpp) | 48 | Go | HyperLogLog Go实现 |
+| [futhark](https://github.com/diku-dk/futhark) | 419 | Haskell | 一种新的对GPU友好的可并行操作数据的函数式语言 |
+| [SniffAir](https://github.com/Tylous/SniffAir) | 524 | Python | 无限流量分析工具，可用于执行复杂网络攻击 |
+| [gtop](https://github.com/aksakalli/gtop) | 5818 | Js | 基于终端的ASCII图形界面显示top结果 |
+| [vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks) | 4586 | Markdown | vscode操作概要 |
+| [Dapper-translation](https://github.com/bigbully/Dapper-translation) | 471 | Markdown | Dapper分布式跟踪系统中文版 |
+| [openwrt-gfw](https://github.com/hackgfw/openwrt-gfw) | 470 | Markdown | 多种基于Openwrt的翻墙解决方案 |
+| [p3c](https://github.com/alibaba/p3c) | 301 | pdf | 阿里巴巴Java开发手册（终极版） |
 
 > Blog
-* [基于ThinkPHP的2个CMS后台GetShell利用](http://www.freebuf.com/articles/web/148629.html) 
-* [如何让XShell病毒失效](http://www.freebuf.com/articles/network/147444.html) 
-* [Redis 未授权访问漏洞深度利用](http://www.freebuf.com/vuls/148758.html) 
-* [Go in TiDB](https://mp.weixin.qq.com/s/1o7Mw4TbHVmKShwQjdo_BQ) 
-* [六个人如何运维一万台服务器？](https://mp.weixin.qq.com/s/0Mj6LWtqX_SvTgYQZ5JYBA)
+* [MongoDB要点](http://geek.csdn.net/news/detail/238003) 
+* [十分钟看懂MongoDB攻防实战](http://www.freebuf.com/articles/database/148823.html) 
+* [如何在使用受限的windows系统上打开命令终端](http://www.freebuf.com/articles/system/149003.html) 
+* [PostgreSQL 10 新特性详解](https://mp.weixin.qq.com/s/J6DHM-61h5qUV9025tQO-A) 
+* [对基于TCP的网络应用在socket非阻塞模式下send调用错误原因的深入分析](https://mp.weixin.qq.com/s/lN8KKIYZNtSIWM3Fo3FKog)
 
 > Misc
-* [没落的HTC](http://www.donews.com/article/detail/4805/10292.html) 
-* [月球鲜为人知的事实：一个脚印可保存数百年](http://www.cnbeta.com/articles/science/655403.htm) 
-* [Reddit搜索模块发展简史](https://mp.weixin.qq.com/s/9ApQAW1k_wx-7q03CbVtaw) 
-* [三次关键策略，成就腾讯游戏](https://mp.weixin.qq.com/s/4a1z32H73GhbBxGbrnMPOg)
+* [OpenSSL开源团队访华纪实](http://www.freebuf.com/fevents/148827.html) 
+* [体育圈的那些黑幕](http://www.freebuf.com/special/146424.html) 
+* [微型黑洞内毁灭中子星过程中或制造出黄金等重元素](http://www.cnbeta.com/articles/science/656227.htm) 
