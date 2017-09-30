@@ -1,40 +1,43 @@
 
-## 2017-09-29
+## 2017-09-30
 
 > News
-* [微软 + Facebook 完成大西洋光缆铺设工作，带宽 160 Tbps](http://top.jobbole.com/37604/)
-* [量子通信专家遭企业董事长恐吓](http://www.cnbeta.com/articles/science/656549.htm)
-* [著名投资人：特斯拉杠杆太高 盈利遥遥无期](http://www.cnbeta.com/articles/tech/656541.htm)
-* [基于ReRAM技术的SSD要来了 超快读写速度、超高密度](http://www.cnbeta.com/articles/tech/656517.htm)
+* [百亿互联网金融平台救火故事！](http://zhuanlan.51cto.com/art/201709/552964.htm) - 所谓黑客cata要火
+* [MariaDB完成融资 阿里巴巴领投](http://www.cnbeta.com/articles/tech/656863.htm)
+* [潘建伟院士回应彭承志遭死亡威胁公开信:都是真的](http://www.cnbeta.com/articles/tech/656839.htm)
+* [国家存储器基地核心厂房提前封顶](https://mp.weixin.qq.com/s/Zq_aRhmFdSTmGuAAGoCgAQ)
 
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [libva](https://github.com/01org/libva) | 41 | C++ | 视频加速API |
-| [quotient-filter](https://github.com/vedantk/quotient-filter) | 42 | C++ | 功能类似于bloom filter的quotient filter实现 |
-| [mingw-std-threads](https://github.com/meganz/mingw-std-threads) | 116 | C++ | windows c++标准线程api实现 |
-| [lxd](https://github.com/lxc/lxd) | 1473 | Go | 本库基于liblxc，提供REST API用于管理容器 |
-| [xsec-ip-database](https://github.com/netxfly/xsec-ip-database) | 90 | Go | xsec-ip-database为一个恶意IP和域名库 |
-| [fs2](https://github.com/timtadh/fs2) | 135 | Go | 一个基于共享内存、List和B+树实现的小型文件系统 |
-| [gomacro](https://github.com/cosmos72/gomacro) | 55 | Go | 一个纯go实现的命令行系统 |
-| [golem](https://github.com/lucianopuccio/golem) | 151 | Python | 自动化测试框架 |
-| [websocket-monitor](https://github.com/firebug/websocket-monitor) | 116 | Js | 一个firefox插件，可用于监控websocket连接 |
-| [nginx-tutorials](https://github.com/openresty/nginx-tutorials) | 1807 | Js | ngx中文版教程 |
-| [elasticsearch-migration](https://github.com/elastic/elasticsearch-migration) | 239 | Markdown | 文中给出了两个插件，说明如何从es1升级到2以及如何从es2升级到5 |
-| [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) | 437 | rst | Python最佳实践指南 |
-
+| [immer](https://github.com/arximboldi/immer) | 574 | C++ | C++不可改变值变量（即只能赋值一次）实现，类似于erlang的变量，利于并发环境对变量的访问 |
+| [systemd](https://github.com/systemd/systemd) | 2228 | C | systemd源码，系统后台服务管理系统 |
+| [hat-trie](https://github.com/Tessil/hat-trie) | 144 | C++ | hat trie树实现 |
+| [num_cpus](https://github.com/seanmonstar/num_cpus) | 66 | Java | 获取cpu数目 |
+| [go-lua](https://github.com/Shopify/go-lua) | 1057 | Go | go实现的lua vm |
+| [enry](https://github.com/src-d/enry) | 66 | Go | 文件访问封装，比原生API性能提高两倍以上 |
+| [GolangTraining](https://github.com/GoesToEleven/GolangTraining) | 1994 | Go | golang编程实践 |
+| [gopacket](https://github.com/google/gopacket) | 1466 | Go | 提供对网络层数据的访问接口 |
+| [viper](https://github.com/spf13/viper) | 3723 | Go | 一个读取配置文件的集大成者，能够读取JSON, TOML, YAML, HC等配置文件，以及环境变量、命令行等 |
+| [oceanstore](https://github.com/sattiwari/oceanstore) | 1 | Go | oceanstore论文实现 |
+| [confd](https://github.com/kelseyhightower/confd) | 4209 | Go | 通过etcd或者consul实现配置文件内容获取 |
+| [prose](https://github.com/jdkato/prose) | 366 | Go | 文本处理库，可以进行分词、属性标准等任务 |
+| [go-audit](https://github.com/slackhq/go-audit) | 810 | Go | Audit go实现，用于日志分析 |
+| [/Js2Py](https://github.com/PiotrDabkowski/Js2Py) | 429 | Js | 把js代码转换成python代码 |
 
 > Blog
-* [淘宝搜索技术](http://geek.csdn.net/news/detail/238390) 
-* [利用空调系统对隔离网络中的电脑发送指令](http://www.freebuf.com/articles/system/148575.html) 
-* [微博爬虫“免登录”技巧详解及 Java 实现](http://blog.jobbole.com/112507/) 
-* [容量规划+单点优化+配置优化，架构师必须掌握的技能](https://mp.weixin.qq.com/s/VlRodz9wPVJtjW7MyQAlSA)
-* [读懂你性格的个性化推荐](https://mp.weixin.qq.com/s/niPGojlpcz6aQZZUeIussw)
-* [Yahoo开源实时大数据处理服务系统Vespa](https://mp.weixin.qq.com/s/bScT1KlPaDkceyQcRGrdGQ)
+* [10大人工智能技术“加持”的安全公司](http://www.freebuf.com/special/148829.html) 
+* [GraphQL](http://web.jobbole.com/92538/) 
+* [美图在大型容器化平台日志的实践](https://mp.weixin.qq.com/s/TZizagN8f-R0Mzy4peFqrQ) 
+* [从设计理念解读实时操作系统RT-Thread](https://mp.weixin.qq.com/s/e2XoDRywUrIzQMfDIGxdRw) 
 
 > Misc
-* [国产漏洞靶场Webug 3.0发布](http://www.freebuf.com/sectool/148790.html) 
-* [中小型研发团队架构实践三要点](https://mp.weixin.qq.com/s/h7BYkXf_iwH79IdFRganKg) 
-* [李清照这个奇女子](https://mp.weixin.qq.com/s/RcGIZf09aXvV7MR6hbzQpQ) 
+* [LPC 会议宣布：Linux 将使用 Clang 构建内核](https://www.oschina.net/news/89194/linux-build-kernel-with-clang) 
+* [腾讯云服务器亮点解析](http://geek.csdn.net/news/detail/238442) 
+* [虽然生活成本高，但程序员留在硅谷很明智](http://top.jobbole.com/37619/) 
+* [为什么啤酒瓶大多是绿色的？](http://hot.cnbeta.com/articles/funny/656735.htm)
+* [全面屏手机简史](http://www.cnbeta.com/articles/tech/656867.htm)
+* [傅盛分享创业史](https://mp.weixin.qq.com/s/5w7vDNESWrZEUOPp6PpjtA)
+* [李笑来是不是神棍？](https://mp.weixin.qq.com/s/M0JM7we5eMJHAQDIFfhiTQ)
