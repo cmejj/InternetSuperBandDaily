@@ -1,43 +1,42 @@
 
-## 2017-09-30
+## 2017-10-01
 
 > News
-* [百亿互联网金融平台救火故事！](http://zhuanlan.51cto.com/art/201709/552964.htm) - 所谓黑客cata要火
-* [MariaDB完成融资 阿里巴巴领投](http://www.cnbeta.com/articles/tech/656863.htm)
-* [潘建伟院士回应彭承志遭死亡威胁公开信:都是真的](http://www.cnbeta.com/articles/tech/656839.htm)
-* [国家存储器基地核心厂房提前封顶](https://mp.weixin.qq.com/s/Zq_aRhmFdSTmGuAAGoCgAQ)
+* [百度商户遭今日头条销售威胁 涉事员工已被开除](https://news.cnblogs.com/n/579452/)
+* [React v16.0发布](http://top.jobbole.com/37610/)
+* [人人车正式接入滴滴出行](http://www.donews.com/news/detail/1/2969308.html)
+* [朱啸虎：不赚10亿美金的公司不投 摩拜ofo合并待观察](http://www.donews.com/news/detail/4/2969180.html) - 开始装逼了，好了伤疤忘了痛，忘记2011年拉手倒闭的时候那副丧气样子了
+* [来电CEO：共享充电宝死一批很正常](http://www.cnbeta.com/articles/tech/657079.htm)
 
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [immer](https://github.com/arximboldi/immer) | 574 | C++ | C++不可改变值变量（即只能赋值一次）实现，类似于erlang的变量，利于并发环境对变量的访问 |
-| [systemd](https://github.com/systemd/systemd) | 2228 | C | systemd源码，系统后台服务管理系统 |
-| [hat-trie](https://github.com/Tessil/hat-trie) | 144 | C++ | hat trie树实现 |
-| [num_cpus](https://github.com/seanmonstar/num_cpus) | 66 | Java | 获取cpu数目 |
-| [go-lua](https://github.com/Shopify/go-lua) | 1057 | Go | go实现的lua vm |
-| [enry](https://github.com/src-d/enry) | 66 | Go | 文件访问封装，比原生API性能提高两倍以上 |
-| [GolangTraining](https://github.com/GoesToEleven/GolangTraining) | 1994 | Go | golang编程实践 |
-| [gopacket](https://github.com/google/gopacket) | 1466 | Go | 提供对网络层数据的访问接口 |
-| [viper](https://github.com/spf13/viper) | 3723 | Go | 一个读取配置文件的集大成者，能够读取JSON, TOML, YAML, HC等配置文件，以及环境变量、命令行等 |
-| [oceanstore](https://github.com/sattiwari/oceanstore) | 1 | Go | oceanstore论文实现 |
-| [confd](https://github.com/kelseyhightower/confd) | 4209 | Go | 通过etcd或者consul实现配置文件内容获取 |
-| [prose](https://github.com/jdkato/prose) | 366 | Go | 文本处理库，可以进行分词、属性标准等任务 |
-| [go-audit](https://github.com/slackhq/go-audit) | 810 | Go | Audit go实现，用于日志分析 |
-| [/Js2Py](https://github.com/PiotrDabkowski/Js2Py) | 429 | Js | 把js代码转换成python代码 |
+| [easyloggingpp](https://github.com/muflihun/easyloggingpp) | 1389 | C++ | 多线程安全的快速log库 |
+| [curl](https://github.com/curl/curl) | 5753 | C | curl源码 |
+| [wrk](https://github.com/wg/wrk) | 13585 | C | http压测工具 |
+| [darwin-xnu](https://github.com/apple/darwin-xnu) | 1168 | C++ | darwin部分内核代码 |
+| [MTuner](https://github.com/milostosic/MTuner) | 1239 | C++ | 能在windows和ps4以及ps3运行的C/C++程序内存泄漏检查工具 |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | 17072 | C++ | bitcoin代码 |
+| [okhttp](https://github.com/square/okhttp) | 22661 | Java | android http+http/2 客户端 |
+| [blinkdb](https://github.com/sameeragarwal/blinkdb) | 563 | Java | 在大数据之上进行快速近似查询 |
+| [powermock](https://github.com/powermock/powermock) | 1536 | Java | java单测框架 |
+| [stenographer](https://github.com/google/stenographer) | 1040 | Go | 抓包框架，快速把网络包存到磁盘并以简洁的形式展示 |
+| [leanote](https://github.com/leanote/leanote) | 5994 | Go | 记事本 |
+| [librevault](https://github.com/Librevault/librevault) | 833 | Go | p2p文件同步工具 |
+| [lile](https://github.com/lileio/lile) | 286 | Go | 基于grpc封装的更易用的服务框架 |
+| [gofpher](https://github.com/asteris-llc/gofpher) | 20 | Go | 几个函数编程模板 |
+
 
 > Blog
-* [10大人工智能技术“加持”的安全公司](http://www.freebuf.com/special/148829.html) 
-* [GraphQL](http://web.jobbole.com/92538/) 
-* [美图在大型容器化平台日志的实践](https://mp.weixin.qq.com/s/TZizagN8f-R0Mzy4peFqrQ) 
-* [从设计理念解读实时操作系统RT-Thread](https://mp.weixin.qq.com/s/e2XoDRywUrIzQMfDIGxdRw) 
+* [Glide 这样用，更省内存](http://news.51cto.com/art/201709/553363.htm) 
+* [PC傻瓜式安装黑苹果并打造成全能逆向工作站](http://www.freebuf.com/geek/149063.html) 
+* [基于Google搜索结果的命令行漏洞扫描工具](http://www.freebuf.com/sectool/148914.html) 
+* [基于标记数据学习降低误报率的算法优化](http://www.freebuf.com/articles/others-articles/149524.html) 
 
 > Misc
-* [LPC 会议宣布：Linux 将使用 Clang 构建内核](https://www.oschina.net/news/89194/linux-build-kernel-with-clang) 
-* [腾讯云服务器亮点解析](http://geek.csdn.net/news/detail/238442) 
-* [虽然生活成本高，但程序员留在硅谷很明智](http://top.jobbole.com/37619/) 
-* [为什么啤酒瓶大多是绿色的？](http://hot.cnbeta.com/articles/funny/656735.htm)
-* [全面屏手机简史](http://www.cnbeta.com/articles/tech/656867.htm)
-* [傅盛分享创业史](https://mp.weixin.qq.com/s/5w7vDNESWrZEUOPp6PpjtA)
-* [李笑来是不是神棍？](https://mp.weixin.qq.com/s/M0JM7we5eMJHAQDIFfhiTQ)
+* [blin.gy创始人：我搞AR结果当了炮灰，就剩下这点经验](https://news.cnblogs.com/n/579455/) 
+* [缅怀查尔斯·巴赫曼](http://geek.csdn.net/news/detail/238690) 
+* [从 UNIX 到 GitHub：十个关于自由和开源软件历史的重要事件](http://blog.jobbole.com/112559/)
+* [如何保证程序质量](https://mp.weixin.qq.com/s/X48rKIq6W1AyBl9Hs0YDFQ) 
