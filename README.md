@@ -41,6 +41,7 @@
 * [PC傻瓜式安装黑苹果并打造成全能逆向工作站](http://www.freebuf.com/geek/149063.html) 
 * [基于Google搜索结果的命令行漏洞扫描工具](http://www.freebuf.com/sectool/148914.html) 
 * [基于标记数据学习降低误报率的算法优化](http://www.freebuf.com/articles/others-articles/149524.html) 
+* [零拷贝技术](http://www.cnblogs.com/f-ck-need-u/p/7615914.html)
 
 > Misc
 * [blin.gy创始人：我搞AR结果当了炮灰，就剩下这点经验](https://news.cnblogs.com/n/579455/) 
