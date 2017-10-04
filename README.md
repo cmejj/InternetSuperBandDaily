@@ -30,7 +30,6 @@
 | [mage](https://github.com/magefile/mage) | 244 | Go | 一套类似于make的编译系统 |
 | [crowbar](https://github.com/q3k/crowbar) | 295 | Go | 在机器只限制使用80端口的环境下通过http get和post请求构建一个tcp连接通道 |
 | [otto](https://github.com/robertkrimen/otto) | 3214 | Go | 用go实现的js解析器 |
-| []() | 1 | Python |  |
 | [scuttlebutt](https://github.com/dominictarr/scuttlebutt) | 866 | Js | P2P数据复制框架，是实时数据流复制的基础库 |
 | [refined-github](https://github.com/sindresorhus/refined-github) | 2607 | Js | 对github api进行了重新封装，另外添加了很多新feature |
 | [ha-floorplan](https://github.com/pkozul/ha-floorplan) | 332 | Js | 通过输入家庭平面图构造一个家庭助手 |
