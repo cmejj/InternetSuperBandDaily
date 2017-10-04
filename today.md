@@ -1,38 +1,38 @@
-
-## 2017-10-03
+## 2017-10-04
 
 > News
-* [汽车之家又开始内斗，现高层全部被干掉](http://www.donews.com/technology/detail/8667496)
-* [麦克·杨等三位美国科学家获诺贝尔生理学与医学奖](http://www.cnbeta.com/articles/tech/657349.htm)
-* [比特币飙升到4400美元](http://www.cnbeta.com/articles/tech/657327.htm)
-* [腾讯等企业豪掷20亿美元 投资印度打车巨头Ola](http://www.cnbeta.com/articles/tech/657429.htm)
-
+* [比特币价格有望在年底前上涨40%达到6000美元](http://www.cnbeta.com/articles/tech/657725.htm)
+* [高盛CEO贝兰克梵谈比特币：不支持不否定](http://www.donews.com/news/detail/1/2969357.html) 
+* [工作狂有害健康？研究：真正“投入”就无妨](http://www.cnbeta.com/articles/science/657731.htm) - 如果一个人经常加班但是身体不好，那就是工作效率态度^_^
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [libopencm3](https://github.com/libopencm3/libopencm3) | 762 | C | ARM cortex开源单片机固件库 |
-| [DOOM](https://github.com/id-Software/DOOM) | 2475 | C | doom引擎源代码 |
-| [il2cpp](https://github.com/anydream/il2cpp) | 31 | C++ | 把MSIL/C#代码转换成C++代码，仓库中有这个converter的实现原理的详细说明文档 |
-| [AsyncAwait](https://github.com/metalabdesign/AsyncAwait) | 311 | Kotlin | Kotlin 1.1 基于协程的async/await实现 |
-| [lua](https://github.com/milochristiansen/lua) | 228 | Go | 基于go的lua 5.3实现，可以把lua代码嵌入go工程 |
-| [binja_sensei](https://github.com/nccgroup/binja_sensei) | 10 | Python | 基于Binary Ninja的逆向工程教程 |
-| [incubator-superset](https://github.com/apache/incubator-superset) | 16163 | Python | 工业级BI web应用 |
-| [awesome-ipfs](https://github.com/ipfs/awesome-ipfs) | 675 | Markdown | ipfs相关资源集合 |
-| [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) | 1852 | Markdown | 作者整理了好几个程序员能够卖技能的技术交易市场 |
-| [streaming-readings](https://github.com/lw-lin/streaming-readings) | 91 | Markdown | Streaming System 相关的论文读物 |
-| [kubernetes-complete-course](https://github.com/jolestar/kubernetes-complete-course) | 38 | Markdown | k8s完全教程 |
+| [heapster](https://github.com/mariusae/heapster) | 342 | C++ | jvm heap profiles监控工具，生成的文件可以被google perftools读取 |
+| [gproc](https://github.com/uwiger/gproc) | 746 | erlang | 扩展进程注册机制 |
+| [jobs](https://github.com/uwiger/jobs) | 171 | erlang | 任务调度器 |
+| [redis-cell](https://github.com/brandur/redis-cell) | 224 | Rust | redis访问频率限制 |
+| [parity](https://github.com/paritytech/parity) | 2179 | Rust | 以太坊钱包 |
+| [Algorithms](https://github.com/williamfiset/Algorithms) | 11 | Java | 一些AI、地理信息、线性几何、图论、数学、查找算法、排序算法以及字符串算法包 |
+| [cockroach](https://github.com/cockroachdb/cockroach) | 11158 | Go | 蟑螂数据库源码 |
+| [skylark](https://github.com/google/skylark) | 71 | Go | 类似于Python的用go实现的一种新的微型脚本语言 |
+| [gocaml](https://github.com/rhysd/gocaml) | 278 | Go | 一种静态类型的函数式编程语言，语法是OCaml语言的一个子集 |
+| [fscrypt](https://github.com/google/fscrypt) | 41 | Go | ext4文件系统加密管理工具 |
+| [mage](https://github.com/magefile/mage) | 244 | Go | 一套类似于make的编译系统 |
+| [crowbar](https://github.com/q3k/crowbar) | 295 | Go | 在机器只限制使用80端口的环境下通过http get和post请求构建一个tcp连接通道 |
+| [otto](https://github.com/robertkrimen/otto) | 3214 | Go | 用go实现的js解析器 |
+| [scuttlebutt](https://github.com/dominictarr/scuttlebutt) | 866 | Js | P2P数据复制框架，是实时数据流复制的基础库 |
+| [refined-github](https://github.com/sindresorhus/refined-github) | 2607 | Js | 对github api进行了重新封装，另外添加了很多新feature |
+| [ha-floorplan](https://github.com/pkozul/ha-floorplan) | 332 | Js | 通过输入家庭平面图构造一个家庭助手 |
 
 > Blog
-* [MySQL优化原理](http://www.cnblogs.com/zhangyinhua/p/7620964.html) 
-* [ReadyNAS监控系统非认证远程命令执行漏洞分析](http://www.freebuf.com/vuls/149563.html) 
-* [如何通过.NET程序绕过UAC](http://www.freebuf.com/articles/web/148779.html) 
-* [iOS监控：卡顿方案思考](http://ios.jobbole.com/93267/) 
+* [微信全文搜索优化之路](http://blog.csdn.net/byeweiyang/article/details/78157312) 
+* [用 JavaScript 控制 Arduino](http://blog.csdn.net/tangxiaoyin/article/details/78140373) 
+* [如何hack苹果操作系统](http://www.freebuf.com/geek/149063.html) 
+* [Java 9 GC调优](http://mp.weixin.qq.com/s/sRns2XUdb1nfKyPph8bAdg) 
+* [视频场景下的自然语言处理应用](http://mp.weixin.qq.com/s/TbKHqS-ZHIUDSujpqB5Ydg) 
+* [GitHub 的 12 个实用技巧](http://mp.weixin.qq.com/s/ng3Md551Oac0okKI9LHaZw)
 
 > Misc
-* [数字图像处理标准模板lena照片源自花花公子](http://top.jobbole.com/37632/) 
-* [卡西尼号飞船的绚丽一生](http://www.cnbeta.com/articles/tech/657317.htm) 
-* [研究：转基因大豆油对人体健康有利也有弊](http://www.cnbeta.com/articles/science/657433.htm) 
-* [苹果帮助贝恩收购东芝旗下芯片业务内幕揭密](http://www.cnbeta.com/articles/tech/657369.htm)
-* [马化腾和他的天文梦：如何影响了腾讯的太空投资？](http://mp.weixin.qq.com/s/JodOfTcBFef4s3EpbdG7bA)
+* [微生物或许能在火星表面存活](http://www.cnbeta.com/articles/science/657689.htm) 
