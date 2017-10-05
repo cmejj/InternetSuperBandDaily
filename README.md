@@ -25,7 +25,7 @@
 | [jennifer](https://github.com/dave/jennifer) | 518 | Go | go静态代码生成器 |
 | [brook](https://github.com/txthinking/brook) | 761 | Go | 跨平台s5代理 |
 | [pq](https://github.com/lib/pq) | 3214 | Go | 兼容database/sql的Postgres客户端引擎 |
-| [PiSavar](https://github.com/besimaltnok/PiSavar) | 79 | Python | 手机菠萝wifi设备ssid信息并发送无线dos攻击工具 |
+| [PiSavar](https://github.com/besimaltnok/PiSavar) | 79 | Python | 通过收集菠萝wifi设备ssid信息发动无线dos攻击工具 |
 | [habu](https://github.com/portantier/habu) | 1 | Python | 一个集合了ARP污染、ARP欺骗、DSCP发现、LAND攻击、SNMP攻击、SYN攻击、TCP链接分析、TCP端口扫描等无线攻击集合的网络包 |
 | [memcache-info](https://github.com/hyperia-sk/memcache-info) | 65 | Bash | 通过一个脚本轻松获取memcache运行信息 |
 
