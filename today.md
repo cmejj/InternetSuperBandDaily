@@ -1,33 +1,32 @@
-
-## 2017-10-05
+## 2017-10-06
 
 > News
-* [大量最新苹果Mac仍可通过EFI固件漏洞入侵](http://www.freebuf.com/news/149834.html)
-* [安卓摄像头得用两年半才能追上iPhone X](http://www.donews.com/news/detail/4/2969350.html)
-* [1-8月中国生产手机12.6亿部 同比增长2.8%](http://www.donews.com/news/detail/4/2969346.html)
-* [苹果挖来Init.ai公司AI团队开发Siri](http://www.cnbeta.com/articles/tech/657889.htm)
+* [新零售—-办公室无人货架](http://www.donews.com/news/detail/1/2969382.html)
+* [贝恩资本计划3年在内让东芝芯片业务在日本上市](http://www.donews.com/news/detail/1/2969377.html)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [WiFiManager](https://github.com/tzapu/WiFiManager) | 1799 | C++ | 带有web界面的ESP8266 WIFI连接管理器 |
-| [fish-shell](https://github.com/fish-shell/fish-shell) | 8233 | C++ | 无需配置文件的跨平台(Windows & Unix)的对用户友好的命令行脚本系统 |
-| [edlib](https://github.com/Martinsos/edlib) | 84 | C++ | 文本相似度算法Levenshtein实现 |
-| [nzyme](https://github.com/lennartkoopmann/nzyme) | 227 | Java | google大神出品的802.11标准wifi攻击检测报警系统 |
-| [jennifer](https://github.com/dave/jennifer) | 518 | Go | go静态代码生成器 |
-| [brook](https://github.com/txthinking/brook) | 761 | Go | 跨平台s5代理 |
-| [pq](https://github.com/lib/pq) | 3214 | Go | 兼容database/sql的Postgres客户端引擎 |
-| [PiSavar](https://github.com/besimaltnok/PiSavar) | 79 | Python | 通过收集菠萝wifi设备ssid信息发动无线dos攻击工具 |
-| [habu](https://github.com/portantier/habu) | 1 | Python | 一个集合了ARP污染、ARP欺骗、DSCP发现、LAND攻击、SNMP攻击、SYN攻击、TCP链接分析、TCP端口扫描等无线攻击集合的网络包 |
-| [memcache-info](https://github.com/hyperia-sk/memcache-info) | 65 | Bash | 通过一个脚本轻松获取memcache运行信息 |
+| [refcount](https://github.com/jeraymond/refcount) | 9 | C | 引用计数器实现 |
+| [mongoose](https://github.com/cesanta/mongoose) | 3998 | C++ | 一个web server库，包括tcp、http、websocket和mqtt的客户端与服务端实现 |
+| [cryptoBoost](https://github.com/romangol/cryptoBoost) | 5 | C++ | 对boost的加密库进行了封装，提供了更优雅的api |
+| [colly](https://github.com/asciimoo/colly) | 526 | Go | 快速简洁的爬虫框架 |
+| [vuls](https://github.com/future-architect/vuls) | 4605 | Go | 根据本地linux漏洞集合包对系统进行扫描并给系统管理员发送漏洞通知 |
+| [ddev](https://github.com/drud/ddev) | 41 | Go | 本地开发环境管理系统 |
+| [subnet](https://github.com/twitchyliquid64/subnet) | 347 | Go | 简单的vpn实现 |
+| [kbfs](https://github.com/keybase/kbfs) | 661 | Go | 公钥加密系统keybase文件系统 |
+| [minikube](https://github.com/kubernetes/minikube) | 5309 | Go | 一个可以让k8s集群在单机运行起来的系统 |
+| [pyrsistent](https://github.com/tobgu/pyrsistent) | 803 | Python | 函数式编程中一些值不可变类型实现 |
+| [github-to-es](https://github.com/grafana/github-to-es) | 9 | Js | 分析github仓库的issue和comment，并把结果存入es |
+| [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) | 1119 | Markdown | awesome elasticsearch |
 
 > Blog
-* [H.264 全解析](http://blog.csdn.net/Byeweiyang/article/details/78134674) 
-* [无线网络嗅探中的Radiotap](http://www.freebuf.com/articles/wireless/130194.html) 
-* [针对巴西商业公司财务的攻击事件分析](http://www.freebuf.com/articles/web/149428.html) 
-* [Python WSGI协议详解](http://python.jobbole.com/88653/) 
+* [用 Python 撸一个区块链](http://www.cnblogs.com/kidney/p/7627145.html) 
+* [通过MongoDB自带的Explain功能提高检索性能](https://mp.weixin.qq.com/s/xQniuEaUI9g3ICHsI66NRw) 
+* [Facebook 是如何进行大规模代码部署的](https://mp.weixin.qq.com/s/dcPCH1zdzn8N3imr7kFgrQ) 
 
 > Misc
-* [从BAT到独角兽的中秋月饼](http://www.donews.com/news/detail/1/2969355.html) 
-* [9月份发生的16起安全事件盘点](https://mp.weixin.qq.com/s/Wtqbj3nctwByrzUnOK4mBQ) 
+* [.net十年回顾](http://www.cnblogs.com/evilcat/p/7628041.html) 
+* [以心脏的生物特征作为密码](http://bbs.chinaunix.net/forum.php?mod=viewthread&tid=4267621) 
+* [印度的优势](https://mp.weixin.qq.com/s/IcbkRlPErRvch8rHjaN4DA)
