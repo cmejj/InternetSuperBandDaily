@@ -1,32 +1,34 @@
-## 2017-10-06
+
+## 2017-10-07
 
 > News
-* [新零售—-办公室无人货架](http://www.donews.com/news/detail/1/2969382.html)
-* [贝恩资本计划3年在内让东芝芯片业务在日本上市](http://www.donews.com/news/detail/1/2969377.html)
+* [高通CEO：在与苹果的专利斗争中我们将获成功](http://www.cnbeta.com/articles/tech/658483.htm)
+* [即时消息鼻祖AIM将停止运营](https://news.cnblogs.com/n/579672/) 
+* [AI一周热闻盘点：中科院发布步态识别技术；Oracle开放自治数据库](https://mp.weixin.qq.com/s/2bjPrfrGT8ucp3T-y3DYzA)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [refcount](https://github.com/jeraymond/refcount) | 9 | C | 引用计数器实现 |
-| [mongoose](https://github.com/cesanta/mongoose) | 3998 | C++ | 一个web server库，包括tcp、http、websocket和mqtt的客户端与服务端实现 |
-| [cryptoBoost](https://github.com/romangol/cryptoBoost) | 5 | C++ | 对boost的加密库进行了封装，提供了更优雅的api |
-| [colly](https://github.com/asciimoo/colly) | 526 | Go | 快速简洁的爬虫框架 |
-| [vuls](https://github.com/future-architect/vuls) | 4605 | Go | 根据本地linux漏洞集合包对系统进行扫描并给系统管理员发送漏洞通知 |
-| [ddev](https://github.com/drud/ddev) | 41 | Go | 本地开发环境管理系统 |
-| [subnet](https://github.com/twitchyliquid64/subnet) | 347 | Go | 简单的vpn实现 |
-| [kbfs](https://github.com/keybase/kbfs) | 661 | Go | 公钥加密系统keybase文件系统 |
-| [minikube](https://github.com/kubernetes/minikube) | 5309 | Go | 一个可以让k8s集群在单机运行起来的系统 |
-| [pyrsistent](https://github.com/tobgu/pyrsistent) | 803 | Python | 函数式编程中一些值不可变类型实现 |
-| [github-to-es](https://github.com/grafana/github-to-es) | 9 | Js | 分析github仓库的issue和comment，并把结果存入es |
-| [awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch) | 1119 | Markdown | awesome elasticsearch |
+| [winfsp](https://github.com/billziss-gh/winfsp) | 876 | C++ | 类似FUSE的Windows平台下的文件系统代理，支持内存、网络等类型的文件 |
+| [xrtl](https://github.com/google/xrtl) | 55 | C++ | 一个谷歌出品的跨平台实时渲染引擎 |
+| [xenia](https://github.com/benvanik/xenia) | 2710 | C++ | 用于研究的开源xbox 360模拟器 |
+| [obs-studio](https://github.com/jp9000/obs-studio) | C | Go | 一个实时流处理引擎以及屏幕录像工具 |
+| [gbox](https://github.com/tboox/gbox) | 98 | C | 跨平台图形算法库 |
+| [crate](https://github.com/crate/crate) | 1795 | Java | 基于elasticsearch的分布式数据库，支持SQL，可以处理结构化和非结构化数据 |
+| [mapdb](https://github.com/jankotek/mapdb) | 2817 | Java | 一个可作为lib使用的java数据库，支持并发的HashMap、TreeMap、Queue等数据结构，数据存储于磁盘或者堆外 |
+| [arp2http](https://github.com/alash3al/arp2http) | 4 | Go | 监听arp包，当有外设连接/断连的时候，通过http形式向服务端发送通知 |
+| [gost](https://github.com/ginuerzh/gost) | 1 | Go | 一个简单的支持http2、kcp、quic、sock、sock5、udp、tls等协议的隧道 |
+| [BaiduExporter](https://github.com/acgotaku/BaiduExporter) | 6742 | Js | 百度云下载插件 |
+| [random-js](https://github.com/ckknight/random-js) | 296 | Js | 随机函数库 |
 
 > Blog
-* [用 Python 撸一个区块链](http://www.cnblogs.com/kidney/p/7627145.html) 
-* [通过MongoDB自带的Explain功能提高检索性能](https://mp.weixin.qq.com/s/xQniuEaUI9g3ICHsI66NRw) 
-* [Facebook 是如何进行大规模代码部署的](https://mp.weixin.qq.com/s/dcPCH1zdzn8N3imr7kFgrQ) 
+* [分布式系统中生成全局ID的总结与思考](http://www.cnblogs.com/xybaby/p/7616272.html) 
+* [创建一个分布式网络爬虫](http://geek.csdn.net/news/detail/238859) 
+* [内核模式下的进程隐蔽](http://www.freebuf.com/articles/web/148515.html) 
 
 > Misc
-* [.net十年回顾](http://www.cnblogs.com/evilcat/p/7628041.html) 
-* [以心脏的生物特征作为密码](http://bbs.chinaunix.net/forum.php?mod=viewthread&tid=4267621) 
-* [印度的优势](https://mp.weixin.qq.com/s/IcbkRlPErRvch8rHjaN4DA)
+* [全球近3/4的蜂蜜都沾染了杀虫剂](http://www.cnbeta.com/articles/science/658255.htm) 
+* [亚洲水塔内冰川的变化将改变多条河流的命运](http://www.cnbeta.com/articles/science/658435.htm)
+* [荧光棒为啥一掰就发光](http://hot.cnbeta.com/articles/funny/658357.htm)
+* [老程序员给30年轻程序员的忠告](https://mp.weixin.qq.com/s/keULAjSc-AxnuwRHdpi_oQ) 
