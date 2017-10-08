@@ -30,7 +30,8 @@
 | [opentracing-go](https://github.com/opentracing/opentracing-go) | 765 | Go | opentracing go客户端 |
 
 > Blog
-* [C++中命名空间的五大常见用法](https://mp.weixin.qq.com/s/Md2yk7hbTicSHq3uLIk4Ag) 
+* [C++中命名空间的五大常见用法](https://mp.weixin.qq.com/s/Md2yk7hbTicSHq3uLIk4Ag)
+* [剖析Go的读写锁](https://mp.weixin.qq.com/s/cIfBNNZhHIkcpbPE8VKZsQ) 
 * [简易RPC框架-心跳与重连机制](http://www.cnblogs.com/ASPNET2008/p/7615973.html) 
 * [简易RPC框架-过滤器机制](http://www.cnblogs.com/ASPNET2008/p/7636276.html) 
 * [简易RPC框架-私有协议栈](http://www.cnblogs.com/ASPNET2008/p/7588822.html) 
@@ -45,6 +46,7 @@
 > Misc
 * [为何京东股价在中概股里逆势低迷？](https://news.cnblogs.com/n/579691/) 
 * [核心主管纷纷离职：贾跃亭的法乐第怎么了？](http://www.cnbeta.com/articles/tech/658543.htm) 
+
 
 ## 2017-10-07
 
