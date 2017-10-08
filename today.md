@@ -1,34 +1,39 @@
-
-## 2017-10-07
+## 2017-10-08
 
 > News
-* [高通CEO：在与苹果的专利斗争中我们将获成功](http://www.cnbeta.com/articles/tech/658483.htm)
-* [即时消息鼻祖AIM将停止运营](https://news.cnblogs.com/n/579672/) 
-* [AI一周热闻盘点：中科院发布步态识别技术；Oracle开放自治数据库](https://mp.weixin.qq.com/s/2bjPrfrGT8ucp3T-y3DYzA)
+* [微软Edge浏览器今起全面登陆iOS](http://www.cnbeta.com/articles/tech/658517.htm)
+* [内存条将掀起手机涨价潮](http://www.cnbeta.com/articles/tech/658549.htm)
+* [新华社：发展电子支付不能简单地“去现金化”](http://www.cnbeta.com/articles/tech/658501.htm) - 这个社最近的评论总是维护了一部分老旧贵族的利益
+
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [winfsp](https://github.com/billziss-gh/winfsp) | 876 | C++ | 类似FUSE的Windows平台下的文件系统代理，支持内存、网络等类型的文件 |
-| [xrtl](https://github.com/google/xrtl) | 55 | C++ | 一个谷歌出品的跨平台实时渲染引擎 |
-| [xenia](https://github.com/benvanik/xenia) | 2710 | C++ | 用于研究的开源xbox 360模拟器 |
-| [obs-studio](https://github.com/jp9000/obs-studio) | C | Go | 一个实时流处理引擎以及屏幕录像工具 |
-| [gbox](https://github.com/tboox/gbox) | 98 | C | 跨平台图形算法库 |
-| [crate](https://github.com/crate/crate) | 1795 | Java | 基于elasticsearch的分布式数据库，支持SQL，可以处理结构化和非结构化数据 |
-| [mapdb](https://github.com/jankotek/mapdb) | 2817 | Java | 一个可作为lib使用的java数据库，支持并发的HashMap、TreeMap、Queue等数据结构，数据存储于磁盘或者堆外 |
-| [arp2http](https://github.com/alash3al/arp2http) | 4 | Go | 监听arp包，当有外设连接/断连的时候，通过http形式向服务端发送通知 |
-| [gost](https://github.com/ginuerzh/gost) | 1 | Go | 一个简单的支持http2、kcp、quic、sock、sock5、udp、tls等协议的隧道 |
-| [BaiduExporter](https://github.com/acgotaku/BaiduExporter) | 6742 | Js | 百度云下载插件 |
-| [random-js](https://github.com/ckknight/random-js) | 296 | Js | 随机函数库 |
+| [semver](https://github.com/zmarko/semver) | 4 | C++ | 版本号解析库 |
+| [AV_Kernel_Vulns](https://github.com/bee13oy/AV_Kernel_Vulns) | 147 | C++ | 示例如何利用AVG、Avast、Avira、CheckPoint、K7等知名杀软的弱点躲过其查杀 |
+| [fetlang](https://github.com/Property404/fetlang) | 304 | C++ | 一种可以在unix机器上运行的像色情诗一样的静态过程式语言，语法风格机器丑陋(像python一样讲究缩进)，代码可以直接被编译为C代码 |
+| [wingtips](https://github.com/Nike-Inc/wingtips) | 270 | Java | dapper开源实现 |
+| [google-authenticator](https://github.com/google/google-authenticator) | 2497 | Java & Object-C | google authenticator的黑莓以及ios实现 |
+| [google-authenticator-android](https://github.com/google/google-authenticator-android) | 606 | Java | google-authenticator android实现 |
+| [node-problem-detector](https://github.com/kubernetes/node-problem-detector) | 152 | Go | k8s node运行问题检测器，并把发现的问题上报给apiserver |
+| [99c](https://github.com/cznic/99c) | 8 | Go | go实现的遵循c99标准的c代码编译器，可以单独编译c代码，也可以编译cgo代码 |
+| [opposite_of_a_bloom_filter](https://github.com/jmhodges/opposite_of_a_bloom_filter) | 291 | Go & Java | bloom filter实现 |
+| [opentracing-go](https://github.com/opentracing/opentracing-go) | 765 | Go | opentracing go客户端 |
 
 > Blog
-* [分布式系统中生成全局ID的总结与思考](http://www.cnblogs.com/xybaby/p/7616272.html) 
-* [创建一个分布式网络爬虫](http://geek.csdn.net/news/detail/238859) 
-* [内核模式下的进程隐蔽](http://www.freebuf.com/articles/web/148515.html) 
+* [C++中命名空间的五大常见用法](https://mp.weixin.qq.com/s/Md2yk7hbTicSHq3uLIk4Ag) 
+* [简易RPC框架-心跳与重连机制](http://www.cnblogs.com/ASPNET2008/p/7615973.html) 
+* [简易RPC框架-过滤器机制](http://www.cnblogs.com/ASPNET2008/p/7636276.html) 
+* [简易RPC框架-私有协议栈](http://www.cnblogs.com/ASPNET2008/p/7588822.html) 
+* [开源软件安全现状分析报告](http://www.freebuf.com/articles/terminal/149575.html)
+* [APFS苹果文件格式的小介绍：Apple File System](http://www.cnbeta.com/articles/soft/658529.htm)
+
+> Tech
+* [尼安德特男孩头骨研究](http://www.cnbeta.com/articles/science/658559.htm) 
+* [怡莱霉素E—-抗结核新药](http://www.cnbeta.com/articles/tech/658537.htm)
+* [踢杀”技术—-HIV患者存活的希望](http://www.cnbeta.com/articles/tech/658493.htm)
 
 > Misc
-* [全球近3/4的蜂蜜都沾染了杀虫剂](http://www.cnbeta.com/articles/science/658255.htm) 
-* [亚洲水塔内冰川的变化将改变多条河流的命运](http://www.cnbeta.com/articles/science/658435.htm)
-* [荧光棒为啥一掰就发光](http://hot.cnbeta.com/articles/funny/658357.htm)
-* [老程序员给30年轻程序员的忠告](https://mp.weixin.qq.com/s/keULAjSc-AxnuwRHdpi_oQ) 
+* [为何京东股价在中概股里逆势低迷？](https://news.cnblogs.com/n/579691/) 
+* [核心主管纷纷离职：贾跃亭的法乐第怎么了？](http://www.cnbeta.com/articles/tech/658543.htm) 
