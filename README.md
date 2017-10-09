@@ -21,11 +21,11 @@
 | [kbengine](https://github.com/kbengine/kbengine) | 448 | C++ | MMOG server端引擎 |
 | [butteraugli](https://github.com/google/butteraugli) | 1191 | C++ | 比较两幅图之间的差异 |
 | [zendAPI](https://github.com/Qihoo360/zendAPI) | 56 | C++ | zendAPI 是对 Zend Engine 的 C 接口使用 C++ 的最新标准 C++11 进行而面向对象的封装，从而屏蔽了底层 Zend Engine API 的接口复杂性，加快开发 PHP 扩展的效率 |
+| [gopbuf](https://github.com/akunspy/gopbuf) | 16 | C++/Go | 用C++实现的protobuf编译器，专门编译出对应的go代码 |
 | [webview](https://github.com/zserge/webview) | 305 | C/C++/Golang | 基于WebKit和MSHTML的跨平台webview库 |
 | [alpha_in_erlang](https://github.com/hxfirefox/alpha_in_erlang) | 1 | Erlang | Alpha Go Erlang实现 |
 | [go-git](https://github.com/src-d/go-git) | 1562 | Go | 一个go实现的git系统 |
 | [markdownfmt](https://github.com/shurcooL/markdownfmt) | 531 | Go | 类似于gofmt的markdown文档格式化工具 |
-| [gopbuf](https://github.com/akunspy/gopbuf) | 16 | Go | go实现的protobuf编译器 |
 | [upspin](https://github.com/upspin/upspin) | 3913 | Go | 谷歌支持的共享文件全局命名系统 |
 | [goofys](https://github.com/kahing/goofys) | 975 | Go | 高性能兼容POSIX接口的Amazon S3文件系统实现 |
 | [SerpentAI](https://github.com/SerpentAI/SerpentAI) | 2542 | Python | 一款游戏代理框架，可以创建客户端智能机器人 |
