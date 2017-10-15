@@ -6,6 +6,80 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-10-15
+
+> News
+* [陌陌股价俩月下跌3成 付费用户数量停滞](http://tech.qq.com/a/20171014/000249.htm)
+* [以色列间谍入侵了卡巴斯基公司的网络](http://www.freebuf.com/news/150460.html)
+* [搜狗38%搜索流量来自腾讯](http://www.donews.com/news/detail/4/2970112.html)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [SmallerC](https://github.com/alexfru/SmallerC) | 501 | C | C编译器实现 |
+| [ApsaraCache](https://github.com/alibaba/ApsaraCache) | 81 | C | 阿里基于redis 4.0开发的redis替代方案：支持memcached协议方式存储数据；短连接情况下效率提高了30%。 |
+| [upx](https://github.com/upx/upx) | 1480 | C++ | 可执行文件压缩器 |
+| [easy_profiler](https://github.com/yse/easy_profiler) | 629 | C++ | 轻量的程序cpu、网络和磁盘profile采集器 |
+| [petgraph](https://github.com/bluss/petgraph) | 279 | Rust | 图论相关数据结构实现 |
+| [go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel) | 153 | Go | 基于http2的安全tunnel实现，可以作为ngrok的替代方案 |
+| [meq](https://github.com/teamsaas/meq) | 111 | Go | 一个pub/sub系统实现 |
+| [chaos](https://github.com/siddontang/chaos) | 18 | Go | 分布式系统一致性检测系统 |
+| [go-socks5](https://github.com/armon/go-socks5) | 354 | Go | SOCKS5服务器 |
+| [nakama](https://github.com/heroiclabs/nakama) | 792 | Go | 一款社交游戏服务端 |
+| [syncthing](https://github.com/syncthing/syncthing) | 17734 | Go | 跨服务器文件同步系统 |
+| [tesla](https://github.com/jsgoecke/tesla) | 211 | Go | Tesla Model S控制和查询状态API封装 |
+| [passmaker](https://github.com/bit4woo/passmaker) | 53 | Python | 可以自定义规则的密码字典生成器 |
+| [fuckGFW](https://github.com/wcmbeta/fuckGFW) | 38 | Markdown | 科学上网的资料集合 |
+
+> Blog
+* [在 JS 里写 SQL](http://news.51cto.com/art/201710/554066.htm) 
+* [分布式系统领域经典论文翻译集](http://duanple.blog.163.com/blog/static/709717672011330101333271/) 
+* [蚂蚁金服：让区块链重构互联网技术](https://mp.weixin.qq.com/s/hXy5MyLGGKNn462wYeHsKQ) 
+* [对500万条的鹿晗、关晓彤微博评论进行情感分析](https://mp.weixin.qq.com/s/kZ8B1fiqbmA787cmCnxOvA) 
+
+> Misc
+* [快递公司为何要联手设保险公司：不愿肥水外流](http://www.cnbeta.com/articles/tech/660779.htm) 
+* [二次元困境：尝试了广告、游戏、线下 却依旧未盈利](http://hot.cnbeta.com/articles/comic/660751.htm) 
+* [阿里原初引力波项目首席科学家：在西藏聆听宇宙初啼](http://www.cnbeta.com/articles/tech/660741.htm) 
+
+## 2017-10-14
+
+> News
+* [中国将建全国面部识别系统能在数秒内识别任何公民](http://top.jobbole.com/37669/)
+* [乐视网：前三季度预亏损约16亿元 收入大幅下滑](http://www.donews.com/news/detail/1/2970109.html)
+* [11家特斯拉门徒的“生死时速”](http://www.donews.com/article/detail/4351/10349.html)
+* [高通起诉苹果：要求在中国禁止生产和销售 iPhone](http://www.cnbeta.com/articles/tech/660535.htm)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [bloaty](https://github.com/google/bloaty) | 1184 | C++ | 二进制文件信息查看器 |
+| [luakit](https://github.com/luakit/luakit) | 1 | C & Lua | 一个基于lua的使用了WebKit和GTK+套件的微浏览器框架 |
+| [draco](https://github.com/google/draco) | 1714 | C++ | 用于压缩和解压3D几何网格以及点云 |
+| [enet](https://github.com/lsalzman/enet) | 873 | C | 一个稳定的udp网络框架 |
+| [RakNet](https://github.com/facebookarchive/RakNet) | 2278 | C++ | 一个跨平台游戏网络框架，包含了udp包的处理 |
+| [sapper](https://github.com/sappworks/sapper) | 394 | Rust | 一套轻量的基于hyper的web框架 |
+| [mack](https://github.com/everdev/mack) | 167 | Go | 对AppleScript进行了封装，通过这个库Go可以进行桌面通知和声音控制 |
+| [mapstructure](https://github.com/mitchellh/mapstructure) | 1110 | Go | 通过map构建一个go struct对象 |
+| [firefly-proxy](https://github.com/yinghuocho/firefly-proxy) | 1536 | Go | 一套能翻墙的客户端和服务端实现 |
+| [lolviz](https://github.com/parrt/lolviz) | 380 | Python | Python list&Dictionary 数据结构可视化工具 |
+| [gdog](https://github.com/maldevel/gdog) | 199 | Python | 通过gmail控制windows上运行的后门程序 |
+| [odoo](https://github.com/odoo/odoo) | 7680 | Python | 基于web的商务app，如CRM，网站建设，会记，人力资源，市场采购等 |
+| [Framework7](https://github.com/framework7io/Framework7) | 10877 | Js | 一个H5框架，可以构建iOS和Android系统 |
+
+> Blog
+* [无需开启宏即可渗透：在Office文档中利用DDE执行命令](http://www.freebuf.com/articles/terminal/150285.html) 
+* [剖析SQLite内存破坏漏洞](http://www.freebuf.com/vuls/149521.html) 
+* [深度学习框架中的魔鬼：人工智能系统中的安全问题](http://www.freebuf.com/articles/neopoints/150247.html) 
+* [互联网分层架构之-DAO与服务化](https://mp.weixin.qq.com/s/L3Tu-1DPUhj7i5ZJY1vRDA) 
+* [Greenplum如何避免OOM](https://mp.weixin.qq.com/s/8HI2Rqkt4LNjSbnmcNzdXQ) 
+
+> Misc
+* [为何越加依赖算法，资讯类平台会越加让人讨厌](https://news.cnblogs.com/n/580080/) 
+* [房车编程生活150天](http://blog.jobbole.com/112606/) 
+
 ## 2017-10-13
 
 > News
@@ -19,7 +93,7 @@
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
 | [lh-cpp](https://github.com/LucHermitte/lh-cpp) | 40 | C++ | vim ftp plugin |
-| [libtorrent](https://github.com/arvidn/libtorrent) | 944 | C++ | bittorrent协议实现(记得2004年电报上一篇对bt之父的采访文章中，bt之父痛骂C++，这就尴尬了^_^) |
+| [libtorrent](https://github.com/arvidn/libtorrent) | 944 | C++ | bittorrent协议实现 |
 | [state-threads](https://github.com/ossrs/state-threads) | 298 | C | state-threads的一个分支，通过coroutine模拟了用户级别的multi-threading模型，详细内容请参考下面blog《State Threads回调终结者》 |
 | [tinyvm](https://github.com/jakogut/tinyvm) | 1176 | C | 一个微型轻量的虚拟机实现 |
 | [Collections-C](https://github.com/srdja/Collections-C) | 1443 | C | list, array, hashtable, deque C实现 |
