@@ -1,36 +1,42 @@
-## 2017-10-15
+
+## 2017-10-16
 
 > News
-* [陌陌股价俩月下跌3成 付费用户数量停滞](http://tech.qq.com/a/20171014/000249.htm)
-* [以色列间谍入侵了卡巴斯基公司的网络](http://www.freebuf.com/news/150460.html)
-* [搜狗38%搜索流量来自腾讯](http://www.donews.com/news/detail/4/2970112.html)
+* [微软指责朝鲜开发了WannaCry](https://www.oschina.net/news/89615/korea-wannacry)
+* [马云再造无人加油站](http://cio.51cto.com/art/201710/554096.htm)
+* [巴伦周刊：京东股票目前比阿里更具投资价值 至少能涨30%](http://www.donews.com/news/detail/4/2970139.html)
+* [41家凯悦酒店支付系统被黑客入侵](http://mp.weixin.qq.com/s/-EQt8v73Aa0kdsVgQ_GPOw)
+
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [SmallerC](https://github.com/alexfru/SmallerC) | 501 | C | C编译器实现 |
-| [ApsaraCache](https://github.com/alibaba/ApsaraCache) | 81 | C | 阿里基于redis 4.0开发的redis替代方案：支持memcached协议方式存储数据；短连接情况下效率提高了30%。 |
-| [upx](https://github.com/upx/upx) | 1480 | C++ | 可执行文件压缩器 |
-| [easy_profiler](https://github.com/yse/easy_profiler) | 629 | C++ | 轻量的程序cpu、网络和磁盘profile采集器 |
-| [petgraph](https://github.com/bluss/petgraph) | 279 | Rust | 图论相关数据结构实现 |
-| [go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel) | 153 | Go | 基于http2的安全tunnel实现，可以作为ngrok的替代方案 |
-| [meq](https://github.com/teamsaas/meq) | 111 | Go | 一个pub/sub系统实现 |
-| [chaos](https://github.com/siddontang/chaos) | 18 | Go | 分布式系统一致性检测系统 |
-| [go-socks5](https://github.com/armon/go-socks5) | 354 | Go | SOCKS5服务器 |
-| [nakama](https://github.com/heroiclabs/nakama) | 792 | Go | 一款社交游戏服务端 |
-| [syncthing](https://github.com/syncthing/syncthing) | 17734 | Go | 跨服务器文件同步系统 |
-| [tesla](https://github.com/jsgoecke/tesla) | 211 | Go | Tesla Model S控制和查询状态API封装 |
-| [passmaker](https://github.com/bit4woo/passmaker) | 53 | Python | 可以自定义规则的密码字典生成器 |
-| [fuckGFW](https://github.com/wcmbeta/fuckGFW) | 38 | Markdown | 科学上网的资料集合 |
+| [Libevent](https://github.com/nmathewson/Libevent) | 1107 | C | Libevent代码镜像 |
+| [peloton](https://github.com/cmu-db/peloton) | 911 | C++ | 一个DBMS实现，个人感兴趣地是其中实现了无锁的Bw树、无锁多版本并行控制机制等 |
+| [call_in_stack](https://github.com/yuanzhubi/call_in_stack) | 99 | C++ | 随意定义一个内存区域作为一个函数的执行栈，通过这种方式达到执行coroutine的效果，但是比coroutine更有效 |
+| [recompiler](https://github.com/rexdex/recompiler) | 406 | C++ | 把Xbox360游戏重新编译为到windows可执行文件 |
+| [libva-utils](https://github.com/01org/libva-utils) | 24 | C++ | libva示例以及测试代码，说明VA-API(视频加速API)如何使用 |
+| [pebblesdb](https://github.com/utsaslab/pebblesdb) | 29 | C++ | 一个写友好的KV引擎 |
+| [Sonora](https://github.com/sonoramac/Sonora) | 871 | Object-C | 一款轻量且界面足够漂亮的OS X音乐播放器 |
+| [pure11](https://github.com/pure11/pure11) | 132 | Haskell | 一种强类型语言，代码编译输出是跨平台的C++11代码，然后再被编译为native code |
+| [cosmos](https://github.com/OpenGenus/cosmos) | 2521 | C&C++&Rust&Go&Python&C#&Java&Js&Haskell | 通用算法各种语言高质量实现 |
+| [q](https://github.com/y0ssar1an/q) | 533 | Go | fmt.Print的替代品，做到优雅且高效率的输出 |
+| [lodash](https://github.com/lodash/lodash) | 26832 | Js | 一个具有一致接口、模块化、高性能等特性的 JavaScript 工具库 |
+| [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) | 1 | Markdown | macOS上开源软件、应用、工具等项目列表 |
+| [go-internals](https://github.com/tiancaiamao/go-internals) | 863 | Markdown | 深入解析Go |
 
 > Blog
-* [在 JS 里写 SQL](http://news.51cto.com/art/201710/554066.htm) 
-* [分布式系统领域经典论文翻译集](http://duanple.blog.163.com/blog/static/709717672011330101333271/) 
-* [蚂蚁金服：让区块链重构互联网技术](https://mp.weixin.qq.com/s/hXy5MyLGGKNn462wYeHsKQ) 
-* [对500万条的鹿晗、关晓彤微博评论进行情感分析](https://mp.weixin.qq.com/s/kZ8B1fiqbmA787cmCnxOvA) 
+* [提高代码阅读能力的7种方法](http://geek.csdn.net/news/detail/239738) 
+* [王者荣耀英雄背景的分词报告](http://bigdata.51cto.com/art/201710/554097.htm) 
+* [Unix的yes命令](http://www.techug.com/post/unix-yes-command.html) 
+* [Linux 下10个最“危险”的命令](http://mp.weixin.qq.com/s/nsToGfFLjVLYyQH0FjrFnQ) 
+* [腾讯技术人对渣浪微博技术点评](http://mp.weixin.qq.com/s/hFRiCtz6dtChbf_oWzT8iQ) 
+* [谁又将会杀死 Java？](http://mp.weixin.qq.com/s/P4J8tiAhpH-jmaXpNwtn2g) 
+* [Linux 下访问 I/O 的各种方法](http://mp.weixin.qq.com/s/Tu1EbEB2dzulVOlMIf3iJQ) 
+* [正则表达式](http://mp.weixin.qq.com/s/39WrzPwU0jLaRAFayiCm3A) 
+* [阿里云基于 Go 的微服务架构实践](http://mp.weixin.qq.com/s/Ftd8pFVCrhtppvFjBNSF5Q) 
 
 > Misc
-* [快递公司为何要联手设保险公司：不愿肥水外流](http://www.cnbeta.com/articles/tech/660779.htm) 
-* [二次元困境：尝试了广告、游戏、线下 却依旧未盈利](http://hot.cnbeta.com/articles/comic/660751.htm) 
-* [阿里原初引力波项目首席科学家：在西藏聆听宇宙初啼](http://www.cnbeta.com/articles/tech/660741.htm) 
+* [创业公司CTO：花3个人的钱，招2个人，做4个人的事](http://news.51cto.com/art/201710/554092.htm) 
+* [如何选择技术书籍](http://mp.weixin.qq.com/s/dI4KIeegcW5bpJENQ4Risg) 
