@@ -1,42 +1,41 @@
 
-## 2017-10-16
+## 2017-10-17
 
 > News
-* [微软指责朝鲜开发了WannaCry](https://www.oschina.net/news/89615/korea-wannacry)
-* [马云再造无人加油站](http://cio.51cto.com/art/201710/554096.htm)
-* [巴伦周刊：京东股票目前比阿里更具投资价值 至少能涨30%](http://www.donews.com/news/detail/4/2970139.html)
-* [41家凯悦酒店支付系统被黑客入侵](http://mp.weixin.qq.com/s/-EQt8v73Aa0kdsVgQ_GPOw)
-
+* [iPod之父起诉安卓之父](http://tech.qq.com/a/20171017/009615.htm)
+* [百度福州研发中心被裁撤](http://www.donews.com/news/detail/1/2970294.html)
+* []()
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [Libevent](https://github.com/nmathewson/Libevent) | 1107 | C | Libevent代码镜像 |
-| [peloton](https://github.com/cmu-db/peloton) | 911 | C++ | 一个DBMS实现，个人感兴趣地是其中实现了无锁的Bw树、无锁多版本并行控制机制等 |
-| [call_in_stack](https://github.com/yuanzhubi/call_in_stack) | 99 | C++ | 随意定义一个内存区域作为一个函数的执行栈，通过这种方式达到执行coroutine的效果，但是比coroutine更有效 |
-| [recompiler](https://github.com/rexdex/recompiler) | 406 | C++ | 把Xbox360游戏重新编译为到windows可执行文件 |
-| [libva-utils](https://github.com/01org/libva-utils) | 24 | C++ | libva示例以及测试代码，说明VA-API(视频加速API)如何使用 |
-| [pebblesdb](https://github.com/utsaslab/pebblesdb) | 29 | C++ | 一个写友好的KV引擎 |
-| [Sonora](https://github.com/sonoramac/Sonora) | 871 | Object-C | 一款轻量且界面足够漂亮的OS X音乐播放器 |
-| [pure11](https://github.com/pure11/pure11) | 132 | Haskell | 一种强类型语言，代码编译输出是跨平台的C++11代码，然后再被编译为native code |
-| [cosmos](https://github.com/OpenGenus/cosmos) | 2521 | C&C++&Rust&Go&Python&C#&Java&Js&Haskell | 通用算法各种语言高质量实现 |
-| [q](https://github.com/y0ssar1an/q) | 533 | Go | fmt.Print的替代品，做到优雅且高效率的输出 |
-| [lodash](https://github.com/lodash/lodash) | 26832 | Js | 一个具有一致接口、模块化、高性能等特性的 JavaScript 工具库 |
-| [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) | 1 | Markdown | macOS上开源软件、应用、工具等项目列表 |
-| [go-internals](https://github.com/tiancaiamao/go-internals) | 863 | Markdown | 深入解析Go |
+| [pegasus](https://github.com/XiaoMi/pegasus) | 109 | C++ | 小米云计算团队维护的一套KV存储引擎，主打高性能和强一致性 |
+| [cparse](https://github.com/cparse/cparse) | 59 | C++ |  通过Dijkstra的Shunting-yard算法实现相关表达式的解析  |
+| [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) | 1581 | C++ | 人脸识别库，可以找打人脸轮廓、人脸朝向、各个表情动作相关部位识别以及视线跟踪估计 |
+| [](https://github.com/bombela/backward-cpp) | 799 | C++ | C++堆栈信息优雅输出，当程序core掉的时候特别有用 |
+| [nsjail](https://github.com/google/nsjail) | 749 | C++ | 谷歌出品的基于linux namespaces和seccomp-bpf调用过滤的轻量进程隔离工具 |
+| [Catch](https://github.com/philsquared/Catch) | 5713 | C++&Python | C++单测框架 |
+| [error-prone](https://github.com/google/error-prone) | 3009 | Java | 谷歌出品Java代码静态检查工具，在编译期间发现相关错误 |
+| [fluxion](https://github.com/FluxionNetwork/fluxion) | 467 | Bash | 钓鱼以及破解wifi密码系统软件linset bash实现，且相关功能得到增强 |
+| [gscan_quic](https://github.com/Kisesy/gscan_quic) | 124 | Go | 一个Go语言实现的HTTPS IP可用性扫描工具， 主要作用于 Google Quic IP 的扫描 |
+| [hjson-go](https://github.com/hjson/hjson-go) | 102 | Go | hjson go实现，编译结果是一个命令行工具 |
+| [matcha](https://github.com/gomatcha/matcha) | 2511 | Go | Go跨android和ios应用编程框架 |
+| [chyle](https://github.com/antham/chyle) | 32 | Go | 根据github提交历史构建changelog |
+| [redcon](https://github.com/tidwall/redcon) | 800 | Go | 一个兼容redis协议的服务端框架 |
+| [abelkhan](https://github.com/qianqians/abelkhan) | 83 | C# | c#开发的轻量级的游戏服务器框架，使用mongodb提供数据存储 |
+| [fuck12306](https://github.com/andelf/fuck12306) | 1724 | Python | 12306 图片验证码识别测试 |
+| [data-oriented-design](https://github.com/dbartolini/data-oriented-design) | 369 | Markdown |  面向数据方面系统设计的资源集合，还有一些OOD相关的视频资源列表 |
+| [awesome-cpp](https://github.com/fffaraz/awesome-cpp) | 9821 | Markdown | awesome c++ |
 
 > Blog
-* [提高代码阅读能力的7种方法](http://geek.csdn.net/news/detail/239738) 
-* [王者荣耀英雄背景的分词报告](http://bigdata.51cto.com/art/201710/554097.htm) 
-* [Unix的yes命令](http://www.techug.com/post/unix-yes-command.html) 
-* [Linux 下10个最“危险”的命令](http://mp.weixin.qq.com/s/nsToGfFLjVLYyQH0FjrFnQ) 
-* [腾讯技术人对渣浪微博技术点评](http://mp.weixin.qq.com/s/hFRiCtz6dtChbf_oWzT8iQ) 
-* [谁又将会杀死 Java？](http://mp.weixin.qq.com/s/P4J8tiAhpH-jmaXpNwtn2g) 
-* [Linux 下访问 I/O 的各种方法](http://mp.weixin.qq.com/s/Tu1EbEB2dzulVOlMIf3iJQ) 
-* [正则表达式](http://mp.weixin.qq.com/s/39WrzPwU0jLaRAFayiCm3A) 
-* [阿里云基于 Go 的微服务架构实践](http://mp.weixin.qq.com/s/Ftd8pFVCrhtppvFjBNSF5Q) 
+* [JavaScript 浮点数陷阱及解法](http://web.jobbole.com/92685/) 
+* [用TEB结构实现ShellCode的通用性](http://www.freebuf.com/articles/system/150474.html) 
+* [基于Openresty实现业务安全防护](http://www.freebuf.com/vuls/150571.html) 
+* [互联网产品到底如何量化评估满意度？](https://mp.weixin.qq.com/s/E4CUU4iPgHx86PXDRSdt7Q) 
+* [Android性能测试之CPU耗电性能篇](https://mp.weixin.qq.com/s/x5IzAmbuxjYI-HlG-o6Vwg)
 
 > Misc
-* [创业公司CTO：花3个人的钱，招2个人，做4个人的事](http://news.51cto.com/art/201710/554092.htm) 
-* [如何选择技术书籍](http://mp.weixin.qq.com/s/dI4KIeegcW5bpJENQ4Risg) 
+* [IT人士如何摆脱低情商](https://mp.weixin.qq.com/s/nwRdSnWMyEyaD5vtSAhw7A) 
+* [三位代表中国科技圈的85后技术男眼中的AI](https://mp.weixin.qq.com/s/L_7y5yKXRioMlVt3uZE1JA) 
+* [女人生了孩子后就不会痛经了吗？](https://mp.weixin.qq.com/s/EzeTJT4ij4UQZCqGg7vJOw) 
