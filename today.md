@@ -1,49 +1,35 @@
-## 2017-10-20
+## 2017-10-21
 
 > News
-* [南非三千万公民信息泄露](http://www.freebuf.com/news/151182.html)
-* [美国食药局批准了癌症基因疗法新药](https://news.cnblogs.com/n/580510/)
-* [网易在江西建第二座猪场](https://news.cnblogs.com/n/580514/)
-* [趣店CEO：个人捐520万股用于慈善](http://tech.qq.com/a/20171019/005535.htm)
-* [微软谷歌和W3C把Web文档迁移至MDN](http://top.jobbole.com/37738/)
+* [“国池”宕机1小时 矿工颗粒无收](http://news.mydrivers.com/1/552/552643.htm)
+* [织梦内容管理系统: 有漏洞可无限投票](http://www.freebuf.com/vuls/150317.html)
+* [Porhhub: 用AI和ML来给视频自动分类加标签](http://top.jobbole.com/37747/)
+* [陕西省：自主创业失败可再享1年社保补贴](http://www.cnbeta.com/articles/tech/662833.htm)
+* [中国或于2030年去火星采样](http://www.cnbeta.com/articles/tech/662831.htm)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [websocketpp](https://github.com/zaphoyd/websocketpp) | 1958 | C++ | websocket客户端/服务端实现 |
-| [array_view](https://github.com/rhysd/array_view) | 48 | C++ | 兼容C静态array、C++ vector、C++ array的一个C++数据结构实现 |
-| [gthreads](https://github.com/mpu/gthreads/tree/code0) | 101 | C | 一个支持linux和darwin的轻量coroutine实现 |
-| [LiteBSD](https://github.com/sergev/LiteBSD) | 190 | C | 一个4.4BSD变体，目前只支持PIC32MZ系列硬件，支持基于页的MMU，在512kB内存的系统上足以运行，且可以联网 |
-| [dpvs](https://github.com/iqiyi/dpvs) | 244 | C | 基于DPDK的4层LB实现 |
-| [alacritty](https://github.com/jwilm/alacritty) | 7311 | Rust | 基于GPU加速实现的跨平台终端模拟器 |
-| [search-guard](https://github.com/floragunncom/search-guard) | 1224 | Java | 一个Elasticsearch插件，支持基于TLS的加密、认证和授权 |
-| [foolqq](https://github.com/shiyafeng/foolqq) | 109 | Java | smartqq的替代品，基于图像处理技术操作QQ收发消息，定时截取屏幕，并识别图片关键点像素，确定群会话窗口的位置，并通过剪贴板实现JVM消息和屏幕消息的交换。通过Robot类操作鼠标和键盘。 |
-| [faas](https://github.com/openfaas/faas) | 6362 | Go | 基于Docker&K8s的Serverless框架 |
-| [gg](https://github.com/anydream/gg) | 0 | Go | 一个go语言分支，唯一的feature是允许左大括号单独占用一行 |
-| [xstrings](https://github.com/huandu/xstrings) | 400 | Go | 参考Python、PHP和Ruby语言，补充go官方strings包中一些没有的字符串处理函数 |
-| [fako](https://github.com/wawandco/fako) | 269 | Go | go 单测和模糊测试辅助库，作用与mock同 |
-| [go-nsq](https://github.com/nsqio/go-nsq) | 894 | Go | NSQ队列源码 |
-| [netlink](https://github.com/vishvananda/netlink) | 403 | Go |  |
-| [etcd-operator](https://github.com/coreos/etcd-operator) | 411 | Go | 基于k8s创建、配置和管理 etcd 集群 |
-| [survey](https://github.com/AlecAivazis/survey) | 385 | Go | 一个跨平台交互式终端库 |
-| [vim-awesome](https://github.com/vim-awesome/vim-awesome) | 1131 | Python | vim awesome，集合了几乎全部的流行vim插件的最新版 |
-| [easyquotation](https://github.com/shidenggui/easyquotation) | 619 | Python | 实时获取新浪 / Leverfun 的免费股票以及 level2 十档行情 / 集思路的分级基金行情 |
-| [wechaty](https://github.com/Chatie/wechaty) | 1736 | Js | 基于Docker的Wechat机器人，据说让用户“好用的想哭” |
-| [json-to-go](https://github.com/mholt/json-to-go) | 861 | Js | 把json转换为对应的go类型定义 |
-| [netlink](https://github.com/vishvananda/netlink) | 403 | Go | 一个可用于实现用户进程与内核进程通信的一种特殊的进程间通信的IPC库 |
-
+| [core](https://github.com/mnmlstc/core) | 192 | C++ | 用C++11实现C++14中的一些feature |
+| [goaio](https://github.com/traetox/goaio) | 30 | Go | 纯Go实现的异步io库 |
+| [tfgo](https://github.com/galeone/tfgo) | 556 | Go | 以Go的形式调用Tensorflow |
+| [glot](https://github.com/Arafatk/glot) | 105 | Go | 基于gnuplot的图标绘图工具 |
+| [datasize](https://github.com/c2h5oh/datasize) | 16 | Go | 把一些对人类友好的数据转换为机器能理解的数字，如“1g” |
+| [minikube](https://github.com/kubernetes/minikube) | 5511 | Go & Python | 在虚机或者笔记本上就能让K8s以集群形式跑起来的工具 |
+| [learning-to-learn](https://github.com/deepmind/learning-to-learn) | 3177 | Python | TensorFlow使用例子 |
+| [Point-of-Android](https://github.com/FX-Max/Point-of-Android) | 1238 | Markdown | Android 一些重要知识点解析整理 |
 
 > Blog
-* [世界上第一个时序数据的Middle-Out算法压缩](http://blog.csdn.net/dev_csdn/article/details/78285709) 
-* [日志系统](http://blog.csdn.net/TG229dvt5I93mxaQ5A6U/article/details/78284004) 
-* [符号执行：利用Angr进行简单CTF逆向分析](http://www.freebuf.com/articles/web/150296.html) 
-* [Nmap插件编写之MySQL写库](http://www.freebuf.com/articles/network/150613.html)
-* [前端工程师如何反击爬虫](http://web.jobbole.com/92736/)
-* [WSGI协议](http://python.jobbole.com/88653/) 
-* [消息队列RabbitMQ](https://mp.weixin.qq.com/s/xGmNhpXhLTsIgXxxTR3uhQ)
-* [工业大数据综述](https://mp.weixin.qq.com/s/4PKmZzJyNFX95BJhfmbaXg)
+* [能控制百万肉鸡的GhostFramework](http://www.freebuf.com/articles/terminal/150360.html) 
+* [DeepMind是如何开发最强AlphaGo的](http://www.techug.com/post/how-deepmind-develop-alphago.html) 
+* [一次服务器被黑的应急行动](http://server.51cto.com/sOS-554792.htm) 
+* [放弃Dubbo，选择Spring Cloud实践总结](http://developer.51cto.com/art/201710/554633.htm) 
+* [JVM 调优系列](https://mp.weixin.qq.com/s/efCauVC2Om0gxEZSe-BG2w)
+* [腾讯运维总监聂鑫: 智能化运维之路](https://mp.weixin.qq.com/s/tVoXs_jmnuxJZ02jQSkpFw)
 
 > Misc
-* [换头术](http://www.udpwork.com/item/16463.html) 
-* [9部经典机器人动画](http://www.pingwest.com/eagle-rime/) 
+* [为什么阿里巴巴比百度更像谷歌？](http://www.techug.com/post/not-baidu-alibaba-more-like-google.html) 
+* [为什么Docker接受了Kubernetes](http://www.techug.com/post/why-docker-is-finally-embracing-kubernetes.html) 
+* [海洋风发电](http://www.cnbeta.com/articles/tech/662799.htm) 
+* [大龄程序员鸡汤](https://mp.weixin.qq.com/s/BRP8tz1O5sNI9IaHvhPUzA)
