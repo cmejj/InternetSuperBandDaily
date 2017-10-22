@@ -1,35 +1,41 @@
-## 2017-10-21
+
+## 2017-10-22
 
 > News
-* [“国池”宕机1小时 矿工颗粒无收](http://news.mydrivers.com/1/552/552643.htm)
-* [织梦内容管理系统: 有漏洞可无限投票](http://www.freebuf.com/vuls/150317.html)
-* [Porhhub: 用AI和ML来给视频自动分类加标签](http://top.jobbole.com/37747/)
-* [陕西省：自主创业失败可再享1年社保补贴](http://www.cnbeta.com/articles/tech/662833.htm)
-* [中国或于2030年去火星采样](http://www.cnbeta.com/articles/tech/662831.htm)
+* [摩拜成立出行部门，约架滴滴](http://news.mydrivers.com/1/552/552729.htm)
+* [Snapchat再裁员 股价半年下跌27%](http://tech.qq.com/a/20171021/019606.htm)
+* [微软披露Chrome存在远程执行漏洞](http://www.freebuf.com/news/151215.html)
+* [Mozilla宣布将让增强现实技术标准化](http://www.cnbeta.com/articles/tech/663003.htm)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [core](https://github.com/mnmlstc/core) | 192 | C++ | 用C++11实现C++14中的一些feature |
-| [goaio](https://github.com/traetox/goaio) | 30 | Go | 纯Go实现的异步io库 |
-| [tfgo](https://github.com/galeone/tfgo) | 556 | Go | 以Go的形式调用Tensorflow |
-| [glot](https://github.com/Arafatk/glot) | 105 | Go | 基于gnuplot的图标绘图工具 |
-| [datasize](https://github.com/c2h5oh/datasize) | 16 | Go | 把一些对人类友好的数据转换为机器能理解的数字，如“1g” |
-| [minikube](https://github.com/kubernetes/minikube) | 5511 | Go & Python | 在虚机或者笔记本上就能让K8s以集群形式跑起来的工具 |
-| [learning-to-learn](https://github.com/deepmind/learning-to-learn) | 3177 | Python | TensorFlow使用例子 |
-| [Point-of-Android](https://github.com/FX-Max/Point-of-Android) | 1238 | Markdown | Android 一些重要知识点解析整理 |
+| [json](https://github.com/nlohmann/json) | 6843 | C++ | 一个德国人实现的高质量C++ json库 |
+| [bounter](https://github.com/RaRe-Technologies/bounter) | 323 | C & Python | 基于HyperLogLog algorithm，实现了大量数据中元素个数的估计。本库可供Python调用，相比Python内置的Counter，它速度更快且更节省内存 |
+| [kingdb](https://github.com/goossaert/kingdb) | 193 | C++ | 一个数据可持久化的使用memcache协议的单机KV存储系统实现 |
+| [](https://github.com/lionsoul2014/ip2region) | 1577 | C & Go & Java & Php & Node.js & Python | ip地址定位库 |
+| [futures-rs](https://github.com/alexcrichton/futures-rs) | 1648 | Rust | Rust官方成员给出的一个高并发异步框架 |
+| [petgraph](https://github.com/bluss/petgraph) | 285 | Rust | Graph data structure library |
+| [EasyDataKit](https://github.com/hawk0620/EasyDataKit) | 32 | Objective-C | 基于FMDB封装，支持了类似 ORM 的方式进行数据库操作 |
+| [rtree](https://github.com/davidmoten/rtree) | 548 | Java | 不可变数据结构R-tree和R*-tree实现 |
+| [darwin](https://github.com/GuiaBolso/darwin) | 45 | Go | 数据库模式构建库 |
+| [pgx](https://github.com/jackc/pgx) | 1131 | Go | PostgreSQL driver |
+| [nuclio](https://github.com/nuclio/nuclio) | 263 | Go | 高性能Serverless事件和数据处理框架 |
+| [image_crawler](https://github.com/darrenfantasy/image_crawler) | 29 | Python | 网站图片爬虫(已包含：微博，微信公众号，花瓣网)及免费IP代理 |
+| [immutable-js](https://github.com/facebook/immutable-js) | 21023 | Js | 不可变数据结构实现，js函数式编程的基础 |
+| [object-loops](https://github.com/tjmehta/object-loops) | 29 | Js | 一些函数方法实现，如forEach, map, filter |
+| [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) | 650 | Markdown | awesome cryptography， 里面列出了一下加解密算法的各种语言的实现 |
 
 > Blog
-* [能控制百万肉鸡的GhostFramework](http://www.freebuf.com/articles/terminal/150360.html) 
-* [DeepMind是如何开发最强AlphaGo的](http://www.techug.com/post/how-deepmind-develop-alphago.html) 
-* [一次服务器被黑的应急行动](http://server.51cto.com/sOS-554792.htm) 
-* [放弃Dubbo，选择Spring Cloud实践总结](http://developer.51cto.com/art/201710/554633.htm) 
-* [JVM 调优系列](https://mp.weixin.qq.com/s/efCauVC2Om0gxEZSe-BG2w)
-* [腾讯运维总监聂鑫: 智能化运维之路](https://mp.weixin.qq.com/s/tVoXs_jmnuxJZ02jQSkpFw)
+* [通过伪造Tor隐藏服务实现网络钓鱼的技术分析](http://www.freebuf.com/articles/web/150851.html) 
+* [从银行卡中读出身份证号码](http://www.freebuf.com/articles/terminal/150644.html) 
+* [多功能Python键盘记录工具：Radium](http://www.freebuf.com/sectool/150596.html) 
 
 > Misc
-* [为什么阿里巴巴比百度更像谷歌？](http://www.techug.com/post/not-baidu-alibaba-more-like-google.html) 
-* [为什么Docker接受了Kubernetes](http://www.techug.com/post/why-docker-is-finally-embracing-kubernetes.html) 
-* [海洋风发电](http://www.cnbeta.com/articles/tech/662799.htm) 
-* [大龄程序员鸡汤](https://mp.weixin.qq.com/s/BRP8tz1O5sNI9IaHvhPUzA)
+* [如何找到适合自己的节奏？](http://www.cnblogs.com/mindwind/p/7673805.html) 
+* [业余时间学习技术以及开发项目心得](http://www.techug.com/post/programmer-learn-programming-language-and-develop-side-projects.html) 
+* [考古学家在沙特阿拉伯发现“地狱之门”](http://www.cnbeta.com/articles/science/662633.htm) 
+* [傅盛：关于AlphaGO Zero的几点看法](https://mp.weixin.qq.com/s/GNFeBVIVlQoD0I8YyOc-4Q)
+* [做一名「技术掮客」去变现自己的技术](http://www.cnblogs.com/kid551/p/7699267.html)
+* [左耳朵耗子来教你](https://mp.weixin.qq.com/s/tSxETEHdhqeG3PrWzkB_hQ) - 请和上文一起比对着读，教你如何浮躁起来，如何当掮客或者当科普大师
