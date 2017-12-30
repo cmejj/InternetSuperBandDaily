@@ -6,6 +6,572 @@
 
 每日零碎推荐，不利于记忆沉淀与技术积累，故编辑成篇。技经之，类纬之，日积月累，久久为功。
 
+## 2017-12-30
+
+> News
+* [股神陈一舟收购Trucker Path，布局全球交通](http://www.donews.com/news/detail/1/2981876.html)
+* [每日优鲜旗无人零售B轮融资2亿美金，鼎晖领投](http://www.donews.com/news/detail/2/2981836.html)
+* [哈罗单车再融资10亿](http://www.donews.com/article/detail/4788/10739.html)
+* [人人影视开卖退役硬盘：内含高清大片](http://hot.cnbeta.com/articles/movie/684715.htm)
+* [北京建成中国第三条磁悬浮，今日试运营](http://www.cnbeta.com/articles/tech/684673.htm)
+* [大庆破获"偷电”案:千台机器"挖"比特币](http://www.cnbeta.com/articles/tech/684485.htm)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [sims](https://github.com/rcornwell/sims) | 7 | C++ | B5500, IBM 360, IBM 7000/DEC PDP10 KA10/KI10模拟器 |
+| [CodeTricks](https://github.com/xiaopeifeng/CodeTricks) | 8 | C++ | 一些C++编程技巧 |
+| [algorithms](https://github.com/xtaci/algorithms) | 1950 | C++ | 经典的算法实现和数据结构实现 |
+| [rpmalloc](https://github.com/rampantpixels/rpmalloc) | 580 | C | 一个支持Windows/MacOS/iOS/Linux/Android等平台的内存分配器，16B对齐，多线程情况下性能比tcmalloc/JEMALLOC/LOCKLESS等一大众内存分配器效率高 |
+| [may](https://github.com/Xudong-Huang/may) | 285 | Rust | 一个基于栈的coroutine实现 |
+| [gscan_quic](https://github.com/Kisesy/gscan_quic) | 162 | Go | Google Quic IP扫描工具,支持多种类型的IP扫描, |
+| [envconfig](https://github.com/kelseyhightower/envconfig) | 1024 | Go | 获取环境变量参数值，可以把环境变量多个参数映射到一个struct |
+| [x-crack](https://github.com/netxfly/x-crack) | 5 | Go | 弱口令扫描器，可扫描FTP/SSH/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB |
+| [go-build-template](https://github.com/thockin/go-build-template) | 778 | Go | 一个Go工程makefile/Dockerfile模板 |
+| [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) | 3132 | Markdown | 猫的前端回忆录:Js语言底层原理、 CSS、Angular、React、Vue、Node、Gulp等知识合集 |
+
+> Blog
+* [腾讯蜜罐捕获高危IoT蠕虫Okiru](http://www.freebuf.com/articles/paper/158464.html) 
+* [Burpsuite插件的使用](http://www.freebuf.com/sectool/158005.html) 
+* [微信小游戏适配层原理](https://mp.weixin.qq.com/s/JDqiCt3uM3-5Fp19WZYA4g) 
+* [美团点评高可用数据库架构演进](http://developer.51cto.com/art/201712/562358.htm) 
+* [一个刷支付宝大额红包的逻辑漏洞](http://developer.51cto.com/art/201712/562440.htm)
+* [分布式事务三阶段提交协议的实现](https://www.cnblogs.com/bluedoctor/p/8146604.html)
+* [基于Ubuntu docker环境下进行以太坊实践](https://mp.weixin.qq.com/s/wqrjArT6p4EWsEnAQygHrQ)
+* [支持向量机 SVM 算法](https://mp.weixin.qq.com/s/zaYEBDcOi-lCU2XmkkNTXw)
+
+> Misc
+* [二次元公司们](http://www.donews.com/news/detail/3/2981463.html) 
+* [中国发现1.3亿年前恐龙蛋化石](http://www.cnbeta.com/articles/tech/684565.htm) 
+
+
+## 2017-12-29
+
+> News
+* [中移动主要领导薪酬:尚冰李跃工资一样多](http://www.cnbeta.com/articles/tech/684201.htm)
+* [博士毕业必发“C刊”论文遭质疑：C刊僧多粥少](http://www.cnbeta.com/articles/science/684061.htm)
+* [比特币挖矿东亚三强](http://www.donews.com/news/detail/4/2981471.html)
+* [贾跃亭两套学区房被封](http://www.cnbeta.com/articles/tech/684087.htm)
+* [王海告“六个核桃”：喝了以后没变聪明](http://www.cnbeta.com/articles/tech/684051.htm)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [marian](https://github.com/marian-nmt/marian) | 160 | C++ | 由Adam Mickiewicz University in Poznań (AMU)和University of Edinburgh共同维护的一套Neural Machine Translation框架，兼容Nematus和DL4MT |
+| [godot](https://github.com/godotengine/godot) | 12071 | C++ | 一套适用于多平台的高质量2D&3D游戏引擎 |
+| [anbox](https://github.com/anbox/anbox) | 308 | C++ | 通过容器的方法(user, pid, uts, net, mount, ipc六个维度)轻量快速地在linux上启动一个全套的Android系统，接着qemu技术在任何平台上都可以启动OpenGL ES渲染 |
+| [haven](https://github.com/guardianproject/haven) | 3242 | Java | 一款android app，通过收集的传感器、摄像头、话筒等接口把手机作为一个安保设备使用，作者背后貌似是一群左翼政治积极分子 |
+| [plush](https://github.com/gobuffalo/plush) | 134 | Go | 模板实现，作者自定义了一套模板语言 |
+| [spotify](https://github.com/zmb3/spotify) | 177 | Go | spotify web接口封装 |
+| [peb-dns](https://github.com/pahf-ops/peb-dns) | 12 | Python | 安好房运维团队出品的适用于中小型公司的多IDC的分布式DNS管理平台 |
+| [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) | 10358 | Markdown | 微信小程序开发资源汇总 |
+| [rust-learning](https://github.com/ctjhoa/rust-learning) | 2488 | Markdown | 一系列学习Rust的文章、视频、博客等资源集合 |
+
+> Blog
+* [3D位置语音](https://www.cnblogs.com/qcloud1001/p/8136183.html)  
+* [阿里搜索与AI](http://mp.weixin.qq.com/s/g4X9VSsGPTjnbRhj4C3EVg) 
+* [Service Mesh与微服务](http://mp.weixin.qq.com/s/0TeZOLoFdQQjKNXxTw5wPA)
+* [前后端分离](http://mp.weixin.qq.com/s/FSZFbR7PVt8BGkhM_lu8-w)
+* [系统架构与具体落地](http://mp.weixin.qq.com/s/CZstkP51T8vte6P7u-Ni1A)
+
+> Misc
+* [海洋双漩涡“烟圈”](http://www.cnbeta.com/articles/science/684005.htm) 
+* [程序员的发展方向和薪资待遇](http://mp.weixin.qq.com/s/MIWWdxSjESWtcFVmnEg57g) 
+* [2018年互联网发展趋势预测](http://mp.weixin.qq.com/s/2P9I_-Z8mIio25bs57dtPA) 
+* [2017DevOps调查报告](http://mp.weixin.qq.com/s/8vhY9IhkYR-nfwzjZzCkJQ)
+* [从共享单车到共享女友](http://mp.weixin.qq.com/s/g4E5cKQe3_qPxtk9nJCsIg)
+
+
+## 2017-12-28
+
+> News
+* [体内操纵免疫球蛋白致病开关](http://mp.weixin.qq.com/s/Xm5m6HIPQftPikgbTnIUeg) 
+* [北斗芯片累计销量5000万片](http://www.cnbeta.com/articles/tech/683707.htm)
+* [火绒怼腾讯，用户表示：周鸿祎可是内裤都敢脱掉的人](https://news.cnblogs.com/n/585906/)
+* [互金十年，九死一生](http://www.donews.com/article/detail/4162/10725.html)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [reptyr](https://github.com/nelhage/reptyr) | 2668 | C | 一个神奇的工具，可以把后台运行的进程接管到当前terminal所在的session group使之前端运行 |
+| [mtcp](https://github.com/eunyoung14/mtcp) | 821 | C | 一个用户态的高度可扩展的TCP协议栈实现 |
+| [haxm](https://github.com/intel/haxm) | 400 | C | 利用Intel虚拟技术进行硬件加速IA架构的虚拟机运行技术，支持Windows/macOS |
+| [anyupload](https://github.com/dianbaer/anyupload) | 201 | Java | 一个极度纯净的上传插件，通过简单调整就可以融入到任何项目，支持多文件上传、上传速率动态控制、真实进度监控kb/s、分块生成MD5、分块上传、MD5校验秒传、暂停、取消等 |
+| [mgmt](https://github.com/purpleidea/mgmt) | 1012 | Go | 下一代分布式、事件驱动的配置管理系统 |
+| [go-sqlite3](https://github.com/mattn/go-sqlite3) | 2181 | Go | sqlite3 go语言驱动包 |
+| [go-kibana](https://github.com/ewilde/go-kibana) | 2 | Go | kibana client |
+| [w8scan](https://github.com/boy-hack/w8scan) | 220 | Python&Php | 一个附带UI前端的一款模仿bugscan的漏洞扫描器 |
+| [xunfeng](https://github.com/ysrc/xunfeng) | 1189 | Python | 一款适用于企业内网的漏洞快速应急/巡航扫描系统,通过搜索功能可清晰的了解内部网络资产分布情况，并且可指定漏洞插件对搜索结果进行快速漏洞检测并输出结果报表 |
+| [awesome-python-books](https://github.com/jobbole/awesome-python-books) | 627 | Markdown | Python技术书列表 |
+| [go-perfbook](https://github.com/dgryski/go-perfbook) | 209 | Markdown | Go性能优化之道 |
+
+> Blog
+* [2017JavaScript调查报告](http://mp.weixin.qq.com/s/hQbTZSJrHTv_rxlqZhu_6w)
+* [Gartner数据库技术发展方向预测](https://mp.weixin.qq.com/s/IIg9_5NYs7npEQaJRXfYiA) 
+* [数据仓库：Apache HAWQ](http://mp.weixin.qq.com/s/Hg3nkNYxlAElIja90Q9mSg) 
+* [log4go的输出优化](https://www.cnblogs.com/ccpaging/p/8125265.html) 
+* [Go语言是DevOps的Python](http://news.51cto.com/art/201712/562198.htm)
+* [分布式系统消息模式总结](https://www.cnblogs.com/bluedoctor/p/8127122.html)
+* [以太坊源码：网络服务分析](http://mp.weixin.qq.com/s/yJAwLYbrD9AHLqmlZvy_WA)
+
+> Misc
+* [普朗克、亨利·莫塞莱和罗伯特·胡克](http://mp.weixin.qq.com/s/u6WXjLQPWak0DAVAQXCMOw) 
+* [磁铁抵抗抑郁](http://www.cnbeta.com/articles/science/683701.htm) 
+* [128位电脑](http://www.cnbeta.com/articles/tech/683905.htm)
+
+
+## 2017-12-27
+
+> News
+* [化疗增强癌细胞活性：更强的增殖和侵袭能力](http://mp.weixin.qq.com/s/hrTsmzs1vanaDiI0L7bS_A)
+* [纽约禁止电动自行车上街](http://www.cnbeta.com/articles/tech/683451.htm)
+* [Slax 9.3Linux圣诞前发布](http://bbs.chinaunix.net/thread-4291534-1-1.html)
+* [中国移动支付逼近30万亿，支付宝占一半](https://news.cnblogs.com/n/585843/)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [libvips](https://github.com/jcupitt/libvips) | 1775 | C | 一个只需要很少量内存且运行更快的2D图像处理库，功能则堪比imagemagic |
+| [bgfx](https://github.com/bkaradzic/bgfx) | 4012 | C | 一个跨平台（几乎所有的支持GL/Direct3D的PC和移动平台）的图形渲染库 |
+| [AndPermission](https://github.com/yanzhenjie/AndPermission) | 2977 | Java | 针对中国开发者的国产机兼容方案 |
+| [blade](https://github.com/lets-blade/blade) | 3190 | Java | 一个Java8 + Netty4实现的快速轻量MVC网络框架 |
+| [CRoaring](https://github.com/RoaringBitmap/CRoaring) | 738 | Java | Roaring bitmap(一种压缩bitmap算法)实现 |
+| [gocrush](https://github.com/cchamplin/gocrush) | 11 | Go | CRUSH算法实现 |
+| [cayley](https://github.com/cayleygraph/cayley) | 10833 | Go | 一个开源的图数据库，数据可以存入Bolt/LevelDB/MongoDB/ElasticSearch/PostgreSQL/CockroachDB/MySQL等DB中，也可以存在内存中，过期则被淘汰 |
+| [ipd](https://github.com/mpolden/ipd) | 774 | Go | 获取域名所在的城市、国家、ip等信息 |
+| [spotctl](https://github.com/jingweno/spotctl) | 35 | Go | Spotify命令行音乐播放器 |
+| [noise](https://github.com/flynn/noise) | 162 | Go | Noise Protocol Framework |
+| [vegeta](https://github.com/tsenart/vegeta) | 6840 | Go | 一个HTTP压测工具 |
+| [gofakeit](https://github.com/brianvoe/gofakeit) | 68 | Go | 高性能随机数产生器 |
+| [xid](https://github.com/rs/xid) | 491 | Go | 全局唯一ID生成库，作者认为自己的算法在id的内存size和可移植性都比UUID/shortuuid/Snowflake/Mongo优秀 |
+| [BlackHolePy](https://github.com/linkerlin/BlackHolePy) | 130 | Python | 一个迷你型的DNS（代理）服务器，它的主要特色：支持TCP DNS并支持白名单，从而在防止DNS污染的同时支持了内部私有域名解析 |
+| [esp_wifi_repeater](https://github.com/martin-ger/esp_wifi_repeater) | 765 | Python | 基于esp8266和esp8285的WiFi NAT router |
+| [howto-make-more-money](https://github.com/easychen/howto-make-more-money) | 2105 | Markdown | 程序员如何优雅的挣零花钱 |
+
+> Blog
+* [锁的实现原理](https://www.cnblogs.com/wewill/p/8111215.html) 
+* [手指静脉识别](https://www.cnblogs.com/DOMLX/p/8111507.html) 
+* [探活与服务](https://www.cnblogs.com/haolujun/p/8086557.html) 
+* [QQ相册后台存储架构与跨IDC容灾](https://www.cnblogs.com/qcloud1001/p/8118833.html) 
+* [微博Mesh服务化改造](http://mp.weixin.qq.com/s/XZVCHZZzCX8wwgNKZtsmcA)
+* [Andoid中RxJava 2多线程编程](http://mp.weixin.qq.com/s/5g835huiUJav92qYXYGqyQ)
+* [Java并发synchronized的实现原理](http://mp.weixin.qq.com/s/l66ZV6fDcAdZcQz8hfRR8g)
+* [P2P视频直播带宽降低75%](http://mp.weixin.qq.com/s/ryojkLRb1x02pr0KSFzP9Q)
+* [京东高可用网关与容错实践](http://mp.weixin.qq.com/s/2DR8KGSYYk7P-B_uVpF4Fw)
+* [阿里数据库极致弹性能力](http://mp.weixin.qq.com/s/X8fdVKoiGx1chxVjtvk1tw)
+* [腾讯移动分析系统](http://mp.weixin.qq.com/s/KI55VL3qlzvOL3qqXUU9uQ)
+* [腾讯全链路日志监控](http://mp.weixin.qq.com/s/n3tLNG6i98XK7DlEwZuzyg)
+
+> Misc
+* [噬菌体疗法](http://tech.163.com/17/1227/00/D6KDBNIO00097U81.html) 
+* [七个科学发现](http://dy.163.com/v2/article/detail/D6LA1MIF05149J7G.html) 
+* [劳拉姐姐的胸部变化史](http://hot.cnbeta.com/articles/game/683075.htm) 
+* [2017中国DDoS报告](http://www.freebuf.com/articles/paper/158270.html)
+* [数字媒体7%定律](http://www.cioage.com/art/201712/562102.htm)
+* [抓不住风口的魅族](http://www.cnbeta.com/articles/tech/683275.htm)
+* [学习使你度过中年危机](https://mp.weixin.qq.com/s/2WlLghD0TfOkU1vO9Ohlaw)
+* [运维20年](http://mp.weixin.qq.com/s/Xv1e1WPhtqdr16ncb4EsMw)
+
+## 2017-12-26
+
+> News
+* [苹果将开源Lisa](http://news.51cto.com/art/201712/561995.htm)
+* [京东打算把拍拍做成咸鱼](http://www.donews.com/article/detail/4362/10708.html)
+* [百度起诉王劲的背后：狙击腾讯注资](http://www.cnbeta.com/articles/tech/683199.htm)
+* [中兴营收不及华为五分之一](http://www.cnbeta.com/articles/tech/683159.htm)
+* [温州精神病院康宁医院港股破发](http://mp.weixin.qq.com/s/N9FItaX2HE6JTG_KnR2b7A)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) | 26 | C++ | 一个可以处理MOD/WAV/FLAC/MIDI/MP3/AAC等音频格式的库 |
+| [radare2](https://github.com/radare/radare2) | 6263 | C | 一个几乎可在所有unix系统上运行的逆向分析框架，包含了一系列的相关工具 |
+| [zfs](https://github.com/zfsonlinux/zfs) | 2908 | C | 一个运行在linux之上的zfs实现 |
+| [retrolambda](https://github.com/orfjackal/retrolambda) | 3349 | Java | 给Java5/6/7三个版本添加Java8的lamda表达式feature |
+| [uilive](https://github.com/gosuri/uilive) | 607 | Go | 一个可实时更新命令行结果输出库，譬如实时更新下载速度、安装进度和cpu利用率等 |
+| [xsec-traffic](https://github.com/netxfly/xsec-traffic) | 63 | Go | 一个轻量级的恶意流量分析程序，包括传感器sensor和服务端server 2个组件，sensor支持采集TCP和UDP的五元组信息 |
+| [launcher](https://github.com/kolide/launcher) | 66 | Go | 一个轻量的基于facebook osquery系统的客户端，可通过grpc与远程osquery简历一个安全的通信通道 |
+| [gocui](https://github.com/jroimartin/gocui) | 2124 | Go | 用最少的代码实现一个命令行系统 |
+| [jiacrontab](https://github.com/iwannay/jiacrontab) | 30 | Go | 提供可视化界面的定时任务管理工具 |
+| [FoolNLTK](https://github.com/rockyzhengwu/FoolNLTK) | 38 | Python | 基于BiLSTM模型训练而成的开源中文分词，很可能是最准的开源中文分词 |
+| [hovercards](https://github.com/kogg/hovercards) | 163 | Js | 一个chrome插件，可以查看youtube/twitter/reddit/soundcloud/imgur/instagram等网站的每个网页里相关资源的链接地址 |
+| [databank](https://github.com/blockchain-university/databank) | 370 | Markdown | 区块链技术相关的论文、文档 |
+
+> Blog
+* [基于Redis千万级用户排行榜最佳实践](https://yq.aliyun.com/articles/312562?spm=5176.100238.spm-cont-list.224.yvMrlS) 
+* [IoT网络的一些特征](https://yq.aliyun.com/articles/313832?spm=5176.100238.spm-cont-list.149.yvMrlS) 
+* [移动环境的httpDNS](https://yq.aliyun.com/articles/310235?spm=5176.100238.spm-cont-list.13.yvMrlS) 
+* [PCDN实现flash无延时直播技术](https://yq.aliyun.com/articles/310656?spm=5176.100238.spm-cont-list.1.yvMrlS) 
+* [MessagePack介绍](https://www.cnblogs.com/stulzq/p/8039933.html)
+* [赶集mysql军规](http://mp.weixin.qq.com/s/oQstfRFuGOvUVnElRqS5aw)
+* [基于配置的日志结构化转换实现](http://mp.weixin.qq.com/s/YG0N11hTmpEUQvcD-apP1Q)
+
+> Misc
+* [一个中老年人的一封信](http://blog.sciencenet.cn/blog-3374969-1091351.html) 
+* [为何人类还没发现外星人](http://www.cnbeta.com/articles/science/683207.htm)
+* [海洋里变色大师](http://blog.sciencenet.cn/blog-976008-1091400.html) 
+* [丁丁越长越好？](http://tech.163.com/17/1226/00/D6HQUTFH00097U81.html) 
+* [一个程序员6年的浏览器收藏夹](https://yq.aliyun.com/articles/312028?spm=5176.100238.spm-cont-list.234.yvMrlS)
+* [滴滴花了3亿的支付牌照](https://yq.aliyun.com/articles/313833?spm=5176.100238.spm-cont-list.75.yvMrlS)
+
+## 2017-12-25
+
+> News
+* [王劲：掌握百度无人驾驶所有秘密，创业挖墙角](http://dy.163.com/v2/article/detail/D6EI43GL0519D3BI.html) 
+* [洋码头C轮融资不低于1亿美元](http://tech.163.com/17/1114/16/D37DCRQB00097U7R.html)
+* [以色列将推出官方数字货币](http://www.donews.com/news/detail/1/2980836.html)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [swapdb](https://github.com/JingchengLi/swapdb) | 162 | C++ | 借鉴操作系统的缓存机制实现一个新的redis存储引擎，将redis内存数据冷热分离，将冷数据快速存储 |
+| [wrk2](https://github.com/giltene/wrk2) | 1137 | C | 一个HTTP压测工具 |
+| [retools](https://github.com/agustingianni/retools) | 27 | C++ | 针对ARMv7和Mach-O开发的一个逆向工程库，包括了反汇编、模拟器和二进制文件分析器等工具包 |
+| [chi](https://github.com/go-chi/chi) | 2947 | Go | 基于context且兼容net/http的可让调用者快速添加REST API的一个golang库，代码不超过1000行，超级轻量 |
+| [numericalgo](https://github.com/DzananGanic/numericalgo) | 7 | Go | 一个数值计算库，一切都是作者自己实现，无第三方依赖 |
+| [zebrapack](https://github.com/glycerine/zebrapack) | 136 | Go | 一个可以认为是gobs v2的数据序列化库，但是速度更快，且对其他语言更友好 |
+| [trousseau](https://github.com/oleiade/trousseau) | 840 | Go | 基于文件机制的KV存储系统，把数据存储在一个加密的文件中，支持OpenPGP和AES256两种加密方式 |
+
+> Blog
+* [人工智能助手 = 人工智障？](http://tech.163.com/17/0120/08/CB78G89U00097U80.html) 
+* [为什么要利用NLP做情感分析？](https://yq.aliyun.com/articles/307617?spm=5176.100238.spm-cont-list.17.vdfiRF) 
+* [广告主产品推词中的NLP](https://yq.aliyun.com/articles/304719?spm=5176.100238.spm-cont-list.61.vdfiRF) 
+* [IoT日志](https://yq.aliyun.com/articles/304602?spm=5176.100238.spm-cont-list.57.vdfiRF) 
+* [谷歌Tacotron 2: 仅由语音和相应的文本训练得到的TTS](http://bbs.chinaunix.net/thread-4291492-1-1.html)
+* [隔离网络环境下的数据渗透技术：Meterpreter DNS](http://www.freebuf.com/articles/web/157279.html)
+* [Git的4个阶段的撤销更改](http://www.techug.com/post/undo-on-4-stage-of-git-commint.html)
+* [K8s可以做哪些容器编排](http://mp.weixin.qq.com/s/MplMZbzAaZZdbTt-_s7_aQ)
+* [Kubernetes的工业级实践JDOS](http://mp.weixin.qq.com/s/vyUi1V4pmYQr5_9T2Qqygg)
+												
+> Misc
+* [再生医学](http://tech.163.com/17/1225/00/D6F8I5AT00097U81.html) 
+* [2017年是挖矿木马元年](http://www.freebuf.com/articles/paper/157537.html) 
+
+					
+## 2017-12-24
+
+> News
+* [2017中国智能手机市场：OV增长停滞，小米挤占乐视手机市场](http://www.donews.com/article/detail/4660/10695.html)
+* [四川发现近52万吨超大型锂矿](http://www.cnbeta.com/articles/science/682747.htm)
+* [中老人也开始抛弃有线电视](http://www.cnbeta.com/articles/tech/682721.htm)
+* [日本人才大量输出中韩](http://www.cnbeta.com/articles/tech/682771.htm)
+* [斯诺登开发了一款可隔绝间谍行为的安卓APP](http://www.cnbeta.com/articles/soft/682769.htm)
+* [南京共享摩托车](http://www.cnbeta.com/articles/tech/682677.htm)
+* [A站获阿里投资，B站考虑在美国十亿美元IPO](http://www.cnbeta.com/articles/tech/682665.htm)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [blackbird](https://github.com/butor/blackbird) | 2881 | C++ | 比特币多交易平台间套利系统 |
+| [wireshark](https://github.com/wireshark/wireshark) | 1130 | C | wireshark源代码 |
+| [glslang](https://github.com/KhronosGroup/glslang) | 659 | C++ | OpenGL高阶着色语言 |
+| [mesa](https://github.com/mesa3d/mesa) | 116 | C | OpenGL的开源实现mesa代码镜像 |
+| [wemux](https://github.com/zolrath/wemux) | 2875 | C++ | 一个依赖tmux的运行在mac之上的多用户终端 |
+| [auto](https://github.com/google/auto) | 5988 | Java | google出品的的Java源代码生成器，谷歌保证生成的代码高质量 |
+| [pgweb](https://github.com/sosedoff/pgweb) | 4717 | Go | Web版PostgreSQL管理系统，可跨平台使用 |
+| [tunny](https://github.com/Jeffail/tunny) | 645 | Go | golang goroutine pool |
+| [benthos](https://github.com/Jeffail/benthos) | 158 | Go | 支持数据在消息队列之间来回传递，目前支持ZMQ4(PUSH, PULL, SUB, PUB)/Nanomsg/Scalability Protocols(PUSH, PULL, SUB, PUB)/RabbitMQ (AMQP 0.91)/NSQ/NATS/NATS Streaming/Redis(Pub/Sub)/Kafka，传输的时候可以指定一个内存buffer或者磁盘文件作为中间缓冲，兼顾效率和延迟 |
+| [xingo](https://github.com/viphxin/xingo) | 311 | Go | xingo是免费、开源、可定制、可扩展、节点支持“热更新”的高性能分布式服务器开发框架 |
+| [mock-conn](https://github.com/jordwest/mock-conn) | 8 | Go | golang net.Conn mock库 |
+| [gorocksdb](https://github.com/tecbot/gorocksdb) | 272 | Go | RocksDB go封装库 |
+| [nanoid](https://github.com/ai/nanoid) | 3488 | Js | 本库可生成长度达179B的唯一字符串ID，对URL友好 |
+| [storage-lru](https://github.com/yahoo/storage-lru) | 36 | Js | LRU库 |
+| [awesome-docker](https://github.com/veggiemonk/awesome-docker) | 8968 | Markdown | awesome docker |
+
+> Blog
+* [2017前端技术发展回顾](http://web.jobbole.com/93377/) 
+* [展望2018数据库新趋势](http://database.51cto.com/art/201712/560820.htm) 
+* [MySQL：InnoDB同步机制](http://database.51cto.com/art/201712/561072.htm) 
+* [快速自检Linux是否被黑客入侵过](http://www.freebuf.com/articles/system/157597.html) 
+* [Linux下恶意文件大规模共性分析探讨](http://www.freebuf.com/articles/system/157102.html)
+* [资源文件系统的设计](https://blog.codingnow.com/2017/12/resource_file_system.html#more)
+
+> Misc
+* [大发现：中科大团队揭秘免疫细胞促进早期胎儿发育](https://mp.weixin.qq.com/s/fPSG56OK7Xo3V3MXoEDEhw) 
+* [第一位不系绳太空行走的宇航员](http://www.cnbeta.com/articles/science/682773.htm) 
+* [朱啸虎与中年危机](http://www.cnbeta.com/articles/tech/682733.htm) 
+* [再论朱啸虎与中年危机](https://mp.weixin.qq.com/s/AAjsC_i6TJGqwJJ-9nIR6g)
+
+
+## 2017-12-23
+
+> News
+* [百度：王劲离职未归还电脑打印机](http://www.cnbeta.com/articles/tech/682403.htm)
+* [王劲：景驰总部将搬回中国](http://www.cnbeta.com/articles/tech/682333.htm)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [citus](https://github.com/citusdata/citus) | 2427 | C | 可扩展的PostgreSQL代理 |
+| [lacc](https://github.com/larmel/lacc) | 188 | C | 一款用C89实现的运行于x86_64之上的C语言编译器，作者这个项目仅仅是为了练手，不具备生成环境使用价值 |
+| [rr](https://github.com/mozilla/rr) | 2928 | C++ | 能够保存一个进程和线程的堆栈现场，并可重现相关现场重复执行之 |
+| [CompressTools-Android](https://github.com/lexluthors/CompressTools-Android) | 145 | C++ & Java | 安卓图片压缩终极解决方案，可能是最接近微信图片压缩的库，采用底层压缩 |
+| [linkerd](https://github.com/linkerd/linkerd) | 3238 | Scala | 一个工业级的可运行在任何平台的service mesh框架 |
+| [enterbj](https://github.com/amlun/enterbj) | 73 | Go | 一个独具中国特色的项目：辅助办理进京证，可以接入第三方API做到消息通知等 |
+| [fireworq](https://github.com/fireworq/fireworq) | 285 | Go | 一个轻量的不依赖具体语言的任务队列系统，因为接口使用的协议是HTTP；任务执行失败也不会丢弃，因为任务存储在RDBMS(MySQL)里；通过primary/backup方式实现高可用 |
+| [robotgo](https://github.com/go-vgo/robotgo) | 2388 | Go | 通过监听全局事件实现跨平台控制鼠标键盘位图屏幕 
+ |
+| [stats](https://github.com/montanaflynn/stats) | 875 | Go | 本库提供了关于统计学方面的运算函数，作为go标准库的补充 |
+| [gosl](https://github.com/cpmech/gosl) | 965 | Go | Go语言科学计算库，实现了可通用的几何计算、随机数生成、概率分布、优化算法等方面函数 |
+| [open-paperless](https://github.com/zhoubear/open-paperless) | 920 | Python | 扫描纸质文档并制定索引存档 |
+| [Underwater-Acoustic-Communication-System](https://github.com/Sampson-Lee/Underwater-Acoustic-Communication-System) | 3 | Markdown | 水声通信系统，硬件包括潜水器框架、迷你PC和STM32主控板等，软件包括RTX 、CAN、Socket等，项目的目标是建立一个提供在水下自由平稳移动的水下测试平台 |
+| [awesome-security](https://github.com/sbilly/awesome-security) | 2359 | Markdown | 一个安全方面的知识、网络软件和工具列表 |
+| [EveryDaySport](https://github.com/hoosin/EveryDaySport) | 371 | Markdown | 如何做一个健康的程序员 |
+
+> Blog
+* [弹性伸缩服务实战](http://www.cnblogs.com/haolujun/p/8075226.html) 
+* [BST性能分析&改进思路](http://www.cnblogs.com/hongshijie/p/8087624.html) 
+* [语音视频SDK如何实现超低延迟优化](http://zhuanlan.51cto.com/art/201712/561780.htm) 
+* [游戏实时语音解决方案](http://zhuanlan.51cto.com/art/201712/561779.htm) 
+* [听声辨位](http://zhuanlan.51cto.com/art/201712/561778.htm)
+* [PostgreSQL 查询成本模型](http://blog.jobbole.com/113358/)
+* [苹果手游代充灰色产业揭秘](http://www.freebuf.com/articles/paper/157719.html)
+* [Linux下恶意文件大规模共性分析探讨](http://www.freebuf.com/articles/system/157102.html)
+* [Go语言总结](https://mp.weixin.qq.com/s/d5LkkuMgp8AN6ouyUneVKw)
+* [应用部署的六种策略](https://mp.weixin.qq.com/s/1r4feSe5XQcx-6UqhZau7Q)
+
+> Misc
+* [蛇颈龙曾经在南极水域出没](http://www.cnbeta.com/articles/science/682603.htm) 
+* [绿叶蔬菜会减缓老年人认知下降](http://www.cnbeta.com/articles/science/682595.htm) 
+* [生命起源于岩石与海水反应](http://www.cnbeta.com/articles/tech/682571.htm) 
+* [爱奇艺CTO汤兴：《孙子兵法》的管理之道](http://developer.51cto.com/art/201712/561740.htm)
+
+## 2017-12-22
+
+> News
+* [南方周末官网曾被植入挖矿脚本](http://tech.163.com/17/1220/16/D644UB3I00097U7T.html)
+* [王学宗：朱啸虎欠我两个道歉](https://news.cnblogs.com/n/585492/)
+* [朱啸虎：一位50后让我赚了很多钱](http://tech.163.com/17/1221/08/D65RS2HA00097U7R.html)
+* [任正非令华为云3年超阿里5年追亚马逊](http://dy.163.com/v2/article/detail/D65QS2IT0519D3BI.html)
+* [百度起诉王劲要求赔偿5000万](http://tech.163.com/17/1222/08/D68D6TRQ00098IEO.html)
+* [牛根生帮助贾跃亭获泰国国家石油公司投资](http://www.cnbeta.com/articles/tech/681945.htm)
+* [韩春雨再调查：河北科大被曝曾组织论文买卖](http://tech.163.com/17/1220/21/D64LM2TP00097U81.html) 
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [REDasm](https://github.com/Dax89/REDasm) | 15 | C++ | 仅依赖QT的跨平台反编译器，能否反编译PSX/ELF/PE(EXE)三种可执行文件格式，支持的硬件平台有x86/MIPS/ARM |
+| [psips](https://github.com/AndyA/psips) | 141 | C | 可以复制SPS/PPS h264视频流重定向到一个新的目的地 |
+| [turicreate](https://github.com/apple/turicreate) | 5001 | C++ | 一个分布式机器学习框架，支持处理文本、图像、音视频和传感器数据，让你专注于任务处理而非算法设计 |
+| [libdill](https://github.com/sustrik/libdill) | 645 | C++ | 向go一样在C++中并行编程 |
+| [massgate](https://github.com/ubisoftinc/massgate) | 282 | C++ | 一个2006年开发的叫做Conflict的游戏后台 |
+| [30dayMakeOS](https://github.com/yourtion/30dayMakeOS) | 1064 | C | 《30天自制操作系统》源码中文版 |
+| [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) | 2088 | Java |  |
+| [go-libp2p](https://github.com/libp2p/go-libp2p) | 831 | Go | 一个p2p库 |
+| [haproxyconsole](https://github.com/youngsterxyf/haproxyconsole) | 91 | Go | 主从HAProxy负载均衡任务管理系统 |
+| [Stacer](https://github.com/oguzhaninan/Stacer) | 2743 | Go | 本库提供了一个优秀的UI界面，可以对linux进行监控和运行优化 |
+| [istio](https://github.com/istio/istio) | 1 | Go | 即service mesh集大成者istio源码 |
+| [memcached-operator](https://github.com/ianlewis/memcached-operator) | 86 | Go | 一个k8s memcached分布式部署框架 |
+| [zmq4](https://github.com/pebbe/zmq4) | 587| Go | zmp的go客户端 |
+| [w9scan](https://github.com/boy-hack/w9scan) | 21 | Python | 一款兼容bugscan插件的扫描器 |
+| [hotel](https://github.com/typicode/hotel) | 6985 | Js | 一个简单的进程管理器，在浏览器里运行node.js程序 |
+| [GCTT](https://github.com/studygolang/GCTT) | 189 | Markdown | GCTT (Go Chinese Translation Team) 是 Go中文网（studygolang.com) 翻译组，负责从国外优秀媒体翻译 Go 相关的技术、教程、资讯、杂文等内容 |
+| [high-speed-downloader](https://github.com/high-speed-downloader/high-speed-downloader) | 46 | Markdown | 支持Windows和Mac的真正的百度网盘不限速工具 |
+| [MySQL](https://github.com/zhangshuaiming/MySQL) | 6 | Markdown | MySQL运维及开发规范 |
+| [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) | 927 | Markdown | Kubernetes中文指南/实践手册 |
+| [scikit-learn-doc-zh](https://github.com/apachecn/scikit-learn-doc-zh) | 278 | Markdown | 基于 Python 语言的机器学习工具scikit-learn(sklearn) 官方文档中文版 |
+
+> Blog
+* [探究H5的不同表现手法](http://tgideas.qq.com/webplat/info/news_version3/804/7104/7105/m5723/201507/359834.shtml) 
+* [Java CompletableFuture详解](http://developer.51cto.com/art/201712/561631.htm) 
+* [深度神经网络为何很难训练](http://ai.51cto.com/art/201712/561681.htm) 
+* [Node、PHP、Java、GoI/O性能大比拼](http://blog.csdn.net/dev_csdn/article/details/78864095) 
+* [OCR识别票据原理](http://www.cnblogs.com/qcloud1001/p/8081438.html)
+* [阿里九年双11的云化架构演进和升级](http://mp.weixin.qq.com/s/GrpCJLa4oQvXnz2sVlxJ6w)
+* [从零开始写一个运行在K8s上的程序](http://mp.weixin.qq.com/s/2LGPmyZToeNmZ8G9trOi3A)
+
+> Misc
+* [六种碱基的全新生命体](http://tech.163.com/17/1220/15/D6437S6A00097U81.html) 
+* [软体机器人电池](http://tech.163.com/17/1220/22/D64PJOLS00097U81.html) 
+* [加睾丸素会干扰内分泌系统](http://tech.163.com/17/1222/00/D67HC0DV00097U81.html)
+* [2017西方文明十大考古发现](http://www.cnbeta.com/articles/science/682267.htm)
+* [超导技术最新进展](http://www.cnbeta.com/articles/tech/682249.htm)
+* [约会成功与否与是进化的问题: 人生而不平等](http://www.cnbeta.com/articles/science/682225.htm)
+* [中国开发者现状](https://news.cnblogs.com/n/585507/)
+* [中国互联网30年](https://news.cnblogs.com/n/585525/)
+
+## 2017-12-21
+
+> News
+* [CAR-T治疗实体瘤迎来重大突破](http://mp.weixin.qq.com/s/r6rzxbaZfjHicedGM1PfWg)
+* [上海广升安卓固件仍在收集短信联系人信息](http://www.freebuf.com/news/157620.html)
+* [LINE领投摩拜日本子公司A轮融资](http://www.donews.com/news/detail/1/2980242.html)
+* [雅百特虚构了70%的利润](http://mp.weixin.qq.com/s/7u_aV0M-gjDkpE0HJNZXEQ)
+* [运行MINIX3的IntelME漏洞百出](http://biz.51cto.com/art/201712/561514.htm)
+* [Chrome将于2月15日正式封锁劣质广告](https://news.cnblogs.com/n/585417/)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [logpipe](https://github.com/calvinwilliams/logpipe) | 8 | C | 日志收集工具 |
+| [bcc](https://github.com/iovisor/bcc) | 3959 | C++ | 基于BPF的linux IO性能分析、网络监控工具集 |
+| [multitail](https://github.com/flok99/multitail) | 287 | C | 在命令行上同时tail输出多个log文件，支持颜色高亮、过滤和合并 |
+| [clok](https://github.com/raystubbs/clok) | 2 | C | 一个基于引用超时实现的简单的gc系统 |
+| [go-queue](https://github.com/yireyun/go-queue) | 69 | Go | Disruptor无锁队列实现 |
+| [btree](https://github.com/google/btree) | 976 | Go | 谷歌出品的B树实现 |
+| [struc](https://github.com/lunixbochs/struc) | 227 | Go | encoding/binary库替代者 |
+| [NATBypass](https://github.com/cw1997/NATBypass) | 231 | Go | 一款lcx在golang下的实现，实现内网穿透，可用作端口转发工具 |
+| [s](https://github.com/zquestz/s) | 1498 | Go | 一款终端网络搜索工具 |
+| [inmap](https://github.com/TalkingData/inmap) | 424 | Js | 地图绘制库 |
+| [databank](https://github.com/blockchain-university/databank) | 334 | Markdown | 区块链技术相关的论文、文档 |
+
+> Blog
+* [SQLMap功能移植](http://www.freebuf.com/articles/web/157321.html) 
+* [线上抓娃娃方案技术选型](http://news.51cto.com/art/201712/561515.htm) 
+* [分布式系统的架构套路](http://zhuanlan.51cto.com/art/201712/561516.htm) 
+* [程序员升级打怪路线图](http://news.51cto.com/art/201712/561563.htm) 
+* [美团外卖自动化运维体系建设](http://os.51cto.com/art/201712/560483.htm)
+* [机器学习十大常用算法](http://ai.51cto.com/art/201712/561181.htm)
+* [Docker镜像构建演化史](https://mp.weixin.qq.com/s/6--iyRTiAtpSpsLd0Tgf8w)
+* [一万亿张图片的存储架构](http://mp.weixin.qq.com/s/RDqryPk75uNTKH-YOznu_A)
+* [视觉 AI 技术落地实践](http://mp.weixin.qq.com/s/KEemv6uiDOE_8cIPJb9z-Q)
+* [Service Mesh与微服务](http://mp.weixin.qq.com/s/Q_jJjNYZycZQk0789w2fjw)
+* [阿里Tair的热点数据散列机制](http://mp.weixin.qq.com/s/93wAyqIbwwSo5G803LGcag)
+
+> Misc
+* [基因编辑治疗遗传耳聋](http://www.cnbeta.com/articles/science/681889.htm) 
+* [勒索软件发展简史](http://www.freebuf.com/articles/neopoints/157328.html)  
+* [中国信通院：2017-2018年互联网发展趋势报告](http://bbs.chinaunix.net/thread-4291369-1-1.html)
+
+## 2017-12-20
+
+> News
+* [北大乔杰与汤富酬在《自然遗传学》发表人类胚胎发育机制最新研究成果](http://mp.weixin.qq.com/s/B3oY0485jEIn1p_c966Jww)
+* [冯津伟入职阿里参与语音项目](http://www.cnbeta.com/articles/tech/681453.htm)
+* [元力1.6亿收购广州冰鸟:对赌3年净利润9000万](http://www.donews.com/news/detail/3/2980149.html)
+* [2017年中国电竞收入730亿元,移动端增长102%](http://www.donews.com/news/detail/3/2980101.html)
+* [滴滴3亿元正式收购支付牌照](http://www.donews.com/news/detail/1/2979964.html)
+* [工信部：我国网速很好很强大](http://www.donews.com/technology/detail/20056728)
+* [美国公布WannaCry真凶是朝鲜](http://www.freebuf.com/news/157594.html)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [openh264](https://github.com/cisco/openh264) | 2808 | C++ | 开源版H.264编解码库 |
+| [SFML](https://github.com/SFML/SFML) | 3878 | C++ | 一个简单、快速、跨平台、基于oop的多媒体库，提供了访问窗口、图形接口、音频和网络等接口，且能被C/.Net/Ruby/Python等语言调用 |
+| [bluez-alsa](https://github.com/Arkq/bluez-alsa) | 110 | C | 一个蓝牙声音设备控制库 |
+| [openaptx](https://github.com/Arkq/openaptx) | 2 | C++ | apt-X逆向分析工具 |
+| [smali](https://github.com/JesusFreke/smali) | 2367 | Java | Android dalvik可识别的十六进制文件 assembler/disassembler  |
+| [incubator-skywalking](https://github.com/apache/incubator-skywalking) | 2030 | Java | 一个分布式调用链跟踪系统和应用性能监控系统 |
+| [jade4j](https://github.com/neuland/jade4j) | 584 | Java | 不使用任何js的jade模块处理库 |
+| [hystrix-go](https://github.com/afex/hystrix-go) | 839 | Go | Netflix出品的容错系统 |
+| [nba-live](https://github.com/xwjdsh/nba-live) | 3 | Go | 在终端看NBA，只支持中文 |
+| [go-smbios](https://github.com/digitalocean/go-smbios) | 19 | Go | 能访问设备的SMBIOS和DMI接口的go语言库 |
+| [rerun](https://github.com/VojtechVitek/rerun) | 8 | Go | 一个轻量的file watch库，当watch的文件有更新后200ms内它会执行配置文件指定的命令 |
+| [transfer.sh](https://github.com/dutchcoders/transfer.sh) | 4754 | Go | 可在Amazon S3和本地文件系统之间进行文件共享的系统，包含一个server端实现 |
+| [musicbox](https://github.com/darknessomi/musicbox) | 5014 | Python | 网易云音乐命令行版本 |
+| [tensorlayer](https://github.com/zsdonghao/tensorlayer) | 2873 | Python |  Deep Learning and Reinforcement Learning Library based on TensorFlow |
+| [Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition) | 1784 | Python | 基于TensorFlow的中文普通话和英文语音识别库 |
+| [awesome-datascience](https://github.com/bulutyazilim/awesome-datascience) | 5207 | Markdown | 大数据科学相关资源列表   |
+| [magictools](https://github.com/ellisonleao/magictools) | 4472 | Markdown | 面向游戏开发人员的一些动画图形图像、AI、声音等方面的资料和工具集合 |
+
+> Blog
+* [甲方安全](http://www.freebuf.com/articles/neopoints/156914.html) 
+* [如何给微信下钩子](http://www.freebuf.com/articles/web/156944.html) 
+* [深度学习专业成长路径](https://news.cnblogs.com/n/585302/) 
+* [未来无人驾驶车辆的的用户体验路径图](http://mux.baidu.com/634) 
+* [未来AI交互](http://mux.baidu.com/508)
+* [MySQL7条优化建议](http://mp.weixin.qq.com/s/9knU6HqFQyhspvudtqNLew)
+* [MySQL 死锁与日志二三事](http://mp.weixin.qq.com/s/Chw-gnlbetn7Dy1o3ziztw)
+* [弹性深度学习在K8s中的实践](http://mp.weixin.qq.com/s/CANe1S-uJf9w71FDbcwspQ)
+
+> Misc
+* [地球深层的生命](http://www.cnbeta.com/articles/tech/681447.htm) 
+* [35亿年前的化石](http://www.cnbeta.com/articles/tech/681425.htm) 
+* [傅盛：领导力的核心不是高情商](http://mp.weixin.qq.com/s/6as4Gx_Bi0rjcKouImM1Jg) 
+
+## 2017-12-19
+
+> News
+* [收购告吹,映客前途堪忧](http://www.cnbeta.com/articles/tech/681063.htm)
+* [中国CPU指令集重复建设](http://www.cnbeta.com/articles/tech/681015.htm)
+* [亚瑟·C.克拉克诞辰百年](http://www.cnbeta.com/articles/tech/680957.htm)
+* [QQ音乐计划2018年进行10亿美元IPO，估值百亿](http://www.donews.com/news/detail/1/2979961.html)
+* [Gartner预测2020年命令行界面使用率只有30%](http://network.51cto.com/art/201712/561325.htm)
+* [滴滴进军台湾](http://tech.163.com/17/1219/07/D60JS7AM00097U7R.html)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [iguana](https://github.com/qicosmos/iguana) | 101 | C++ | 可以把struct数据以json、xml或者任何一种自定义的格式序列化到磁盘，并在程序编译的时候根据数据动态反射出来相应的struct‘结构定义 |
+| [date](https://github.com/HowardHinnant/date) | 766 | C++ | 基于C++11/14/17的chrono库实现的关于date和timezone的时间处理库 |
+| [NFCGUI](https://github.com/RadioWar/NFCGUI) | 84 | C++ | 一款图形化NFC协议安全分析工具，主要针对Mifare卡，基于libnfc完成 |
+| [pushpin](https://github.com/fanout/pushpin) | 1845 | C++ | WebSocket/HTTP streaming/HTTP long-polling代理，而这个代理与后端服务之间则使用HTTP短连接，所以后代server可以很方便地采用任何有web支持的语言实现 |
+| [backoff](https://github.com/cenkalti/backoff) | 16 | Go | 指数回退算法实现 |
+| [go-astilectron](https://github.com/asticode/go-astilectron) | 1013 | Go | 基于HTML/JS/CSS构建跨平台GUI系统 |
+| [minimock](https://github.com/gojuno/minimock) | 302 | Go | 一个mock库 |
+| [cr](https://github.com/cirocosta/cr) | 225 | Go | 通过配置实现任务最大并发 |
+| [go-runewidth](https://github.com/mattn/go-runewidth) | 108 | Go | 获取rune字符串的长度 |
+| [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) | 4583 | Python | 一个简单的tensorflow教程 |
+| [geolocator](https://github.com/onury/geolocator) | 392 | Js | 实现根据ip查找地理位置、地理位置距离估算等功能 |
+| [schnack](https://github.com/gka/schnack) | 510 | Js | 实现一个类似于disque的后台服务 |
+| [thinking](https://github.com/toxotguo/thinking) | 36 | Markdown | 一些以太坊和区块链经典论文文档 |
+| [math-as-code](https://github.com/Jam3/math-as-code) | 3704 | Markdown | 一份通过对比数学符号和JavaScript代码来帮助开发者更容易了解数学符号的参考，帮助游戏程序员学习图形学学术论文 |
+| [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) | 667 | Markdown | computational biology方面的深度学习论文集 |
+| [ChineseSTS](https://github.com/IAdmireu/ChineseSTS) | 11 | Markdown | 中文文本语义相似度语料库 |
+
+> Blog
+* [十个Linux网络监视工具](http://os.51cto.com/art/201712/561233.htm) 
+* [中文词法分析器](http://blog.sciencenet.cn/blog-362400-1090054.html) 
+* [云端架构技术揭秘（上）](https://cloud.tencent.com/community/article/995589) 
+* [云端架构技术揭秘（下）](https://cloud.tencent.com/community/article/591372)
+* [浏览器安全](http://mp.weixin.qq.com/s/Wpy04kDKOWgpz0qEEWC2EQ) 
+* [京东服务市场系统](http://mp.weixin.qq.com/s/uVWqGLinN4Pj7s24Z7abqw)
+* [百亿访问量监控平台](http://mp.weixin.qq.com/s/c_6dfT7OpHoqeAzgfc1TxA)
+* [区块链技术](http://mp.weixin.qq.com/s/rRWJcHtY9v6DmM2ZE_cZoQ)
+* [阿里百万级QPS资源调度系统](http://mp.weixin.qq.com/s/znr_oRlG_Y30K1XUwupwpg)
+
+> Misc
+* [磷虾将大气中的碳转移到了大海深处](http://www.cnbeta.com/articles/science/680919.htm) 
+* [首次发现跳蛛捕食蝌蚪](http://tech.163.com/photoview/0AI20009/16164.html#p=D52UOS5S0AI20009NOS) 
+* [017年Mcafee中国地区网络犯罪调查报告](http://www.freebuf.com/articles/paper/157310.html) 
+* [南北战争中的华裔军人](http://blog.sciencenet.cn/blog-1122825-1089985.html)
+
+## 2017-12-18
+
+> News
+* [红帽高管预测：Rust2018年取代C/C++](https://news.cnblogs.com/n/585155/)
+* [小米在美国：两年内拿下运营商](http://www.cnbeta.com/articles/tech/680671.htm)
+* [中华网论坛宣布关闭](http://www.cnbeta.com/articles/tech/680669.htm)
+* [魅族：2017年出货量接近2000万台](http://www.cnbeta.com/articles/tech/680723.htm)
+* [贾跃亭宣布完成超10亿美元A轮融资](http://www.donews.com/news/detail/1/2979758.html)
+* [火星殖民](http://www.cnbeta.com/articles/science/680739.htm)
+
+> Github Repo
+
+| Project Name | Stars | Lang | Description |
+| :----------- | :---- | :--- | :---------- |
+| [pixterm](https://github.com/eliukblau/pixterm) | 394 | Go | 在ANSI终端绘制彩色图像，可以显示JPEG/PNG/GIF/BMP/TIFF/WebP等图像格式，可以参考这个原理制作终端游戏 |
+| [ratelimit](https://github.com/yangwenmai/ratelimit) | 24 | Go | 基于令牌桶算法和漏桶算法来实现的限速限流 |
+| [Fast-Git-Clone](https://github.com/gulzar1996/Fast-Git-Clone) | 4 | dos | 一个windows小工具，可以在右键添加快速git clone github repo的快捷方式，具体使用方式请参见本repo readme的gif动画 |
+| [alerta](https://github.com/alerta/alerta) | 953 | Python | 一个监控告警web系统 |
+| [ms](https://github.com/zeit/ms) | 1206 | Js | 一个js时间转换库，能把诸如“2 days”等人可以理解的时间字符串转换为对应的以毫秒为单位的数字 |
+
+> Blog
+* [keepalived使用](http://www.cnblogs.com/clsn/p/8052649.html) 
+* [领域驱动设计(DDD)与微服务](http://www.cnblogs.com/wayfarer/p/2017-ddd-submit-china.html) 
+* [限界上下文的边界](http://zhuanlan.51cto.com/art/201712/561200.htm) 
+* [企业应用架构](http://www.techug.com/post/alibaba-expert-talk-about-arch.html) 
+* [基于token的多平台身份认证架构设计](https://www.cnblogs.com/beer/p/6029861.html)
+
+> Misc
+* [Reddit如何让读者为内容造血](http://www.techug.com/post/reddit-myth.html) 
+* [噬菌体维持人体健康](http://blog.sciencenet.cn/blog-1208826-1087127.html) 
+* [用人工智能评职称和论文](http://blog.sciencenet.cn/blog-1636782-1090141.html) 
+* [人体微生态](http://blog.sciencenet.cn/blog-786113-1090120.html)
+
 ## 2017-12-17
 
 > News
@@ -158,7 +724,7 @@
 | [trojan](https://github.com/trojan-gfw/trojan) | 165 | C++ | 科学上网工具，基于TLS实现了多种协议，可以突破ISP网络流量限制 |
 | [tbox](https://github.com/tboox/tbox) | 1534 | C | C版本boost库，提供了stream, asio, regex, container, algorithm ...), so t等众多子库 |
 | [Sparkle](https://github.com/sparkle-project/Sparkle) | 3571 | Object-C | 一个macOS库，可用于软件自动更新 |
-| [checkup](https://github.com/sourcegraph/checkup) | 1941 | Go |  |
+| [checkup](https://github.com/sourcegraph/checkup) | 1941 | Go | 分布式的，无锁的，自托管的健康检查工具，拥有一个cli工具和状态页面 |
 | [goreuse](https://github.com/dc0d/goreuse) | 24 | Go | 一个go语言工具，可以把package下所有的代码整理进一个单独的go源码文件，有利于代码复用 |
 | [bleve](https://github.com/blevesearch/bleve) | 3677 | Go | Couchbase出品的团队Go语言开发的索引/检索库,它支持常索引、检索、过滤、排序、聚合、高亮等feature |
 | [fast-skiplist](https://github.com/sean-public/fast-skiplist) | 15 | Go | 快速线程安全的skiplist |
@@ -195,7 +761,6 @@
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [CRoaring](https://github.com/RoaringBitmap/CRoaring) | 202 | C | Roaring bitmap(一种压缩bitmap算法)实现 |
 | [goldendict](https://github.com/goldendict/goldendict) | 1598 | C++ | 跨linux、mac和windows三大平台的分布式字典实现，其跨平台GUI编程库、多语言处理以及相关的数据结构甚有参考价值 |
 | [retdec](https://github.com/avast-tl/retdec) | 157 | C++ | 基于LLVM的二进制可执行文件分析工具，可处理ELF, PE, Mach-O, COFF, AR (archive), Intel HEX等格式，可获取编译器和打包信息、加载项、debug(DWARF, PDB)信息、C++类层次(RTTI, vtables)信息、编译器 (GCC, MSVC, Borland)构造的符号表、调用流程图等信息 |
 | [qlbridge](https://github.com/araddon/qlbridge) | 54 | Go | 一个sql中间层实现，可以把sql语句解释为相关执行接口，具体使用参考本项目的code example |
@@ -557,7 +1122,7 @@
 | [ybc](https://github.com/valyala/ybc) | 324 | C | 高效支持进程Blob型数据cache，支持把数据持久化到ssd或者sata盘 |
 | [udptunnel](https://github.com/astroza/udptunnel) | 427 | C++ | 支持基于UDP隧道传输TCP/UDP/ICMP数据包 |
 | [Hoard](https://github.com/emeryberger/Hoard) | 360 | C++ | 一个跨 Linux, Windows, Mac, and Solaris四大操作系统的高效内存malloc库实现，特别针对多线程或者多进程就行了优化 |
-| [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | 7465 | C++ | sqlite数据浏览器 |
+| [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | 7465 | C++ | 可运行在linux/MacOS之上的sqlite数据浏览器 |
 | [klib](https://github.com/attractivechaos/klib) | 1 | C | 一个实现了double hashing、btree、ksort、动态数组、单链表、string和一些数学函数的C库 |
 | [gofresh](https://github.com/divan/gofresh) | 126 | Go | 一个go 工程依赖检查终端工具，可以查看一个工程import的依赖是否有更新 |
 | [metallb](https://github.com/google/metallb) | 91 | Go | 基于BGP的k8s网络负载均衡器 |
@@ -1904,7 +2469,7 @@
 | [BaiduPCS](https://github.com/GangZhuo/BaiduPCS) | 1948 | C | 百度网盘命令行工具 |
 | [go-diff](https://github.com/sourcegraph/go-diff) | 108 | Go | go实现的diff工具 |
 | [trillian](https://github.com/google/trillian) | 1678 | Go | 一个谷歌出品的分布式KV存储引擎，主要结构是Merkle tree，通过append-only log来保证数据的安全性 |
-| [hamt.go](https://github.com/raviqqe/hamt.go) | 59 | Go | 高效利用内存的map和set实现，其数据是immutable的，类似于函数式语言中的相关类型 |
+| [hamt](https://github.com/raviqqe/hamt) | 59 | Go | 高效利用内存的map和set实现，其数据是immutable的，类似于函数式语言中的相关类型 |
 | [walk](https://github.com/lxn/walk) | 2122 | Go | 一个windows GUI tookkit，可以用于windows GUI编程 |
 | [prest](https://github.com/prest/prest) | 1500 | Go | 可以为psql数据库提供RESTFul接口 |
 | [rend](https://github.com/Netflix/rend) | 712 | Go | Netflix出品的一个memcached代理，可以把数据缓存在同机上的memcached或者基于SSD的L2 cache，主要用于取代EVCache |
@@ -3519,7 +4084,7 @@
 | [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) | 1515 | | 用于渗透测试或者密码攻击的字典 |
 | [instabot.py](https://github.com/instabot-py/instabot.py) | 1627 | Python | Instagram机器人 |
 | [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) | 8269 | Js | 第三方wechat客户端，可以在mac和linux上运行 |
-| [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 1617 |  | mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开 |
+| [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) | 1617 | Object-C | mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开 |
 | [go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet) | 1 | Markdown | golang要点以及代码示例 |
 
 > Blog
