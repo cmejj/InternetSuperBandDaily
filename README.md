@@ -317,8 +317,7 @@
 | [linkerd](https://github.com/linkerd/linkerd) | 3238 | Scala | 一个工业级的可运行在任何平台的service mesh框架 |
 | [enterbj](https://github.com/amlun/enterbj) | 73 | Go | 一个独具中国特色的项目：辅助办理进京证，可以接入第三方API做到消息通知等 |
 | [fireworq](https://github.com/fireworq/fireworq) | 285 | Go | 一个轻量的不依赖具体语言的任务队列系统，因为接口使用的协议是HTTP；任务执行失败也不会丢弃，因为任务存储在RDBMS(MySQL)里；通过primary/backup方式实现高可用 |
-| [robotgo](https://github.com/go-vgo/robotgo) | 2388 | Go | 通过监听全局事件实现跨平台控制鼠标键盘位图屏幕 
- |
+| [robotgo](https://github.com/go-vgo/robotgo) | 2388 | Go | 通过监听全局事件实现跨平台控制鼠标键盘位图屏幕 |
 | [stats](https://github.com/montanaflynn/stats) | 875 | Go | 本库提供了关于统计学方面的运算函数，作为go标准库的补充 |
 | [gosl](https://github.com/cpmech/gosl) | 965 | Go | Go语言科学计算库，实现了可通用的几何计算、随机数生成、概率分布、优化算法等方面函数 |
 | [open-paperless](https://github.com/zhoubear/open-paperless) | 920 | Python | 扫描纸质文档并制定索引存档 |
