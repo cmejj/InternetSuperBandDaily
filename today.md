@@ -1,39 +1,40 @@
-
-## 2017-12-30
+## 2018-01-01
 
 > News
-* [股神陈一舟收购Trucker Path，布局全球交通](http://www.donews.com/news/detail/1/2981876.html)
-* [每日优鲜旗无人零售B轮融资2亿美金，鼎晖领投](http://www.donews.com/news/detail/2/2981836.html)
-* [哈罗单车再融资10亿](http://www.donews.com/article/detail/4788/10739.html)
-* [人人影视开卖退役硬盘：内含高清大片](http://hot.cnbeta.com/articles/movie/684715.htm)
-* [北京建成中国第三条磁悬浮，今日试运营](http://www.cnbeta.com/articles/tech/684673.htm)
-* [大庆破获"偷电”案:千台机器"挖"比特币](http://www.cnbeta.com/articles/tech/684485.htm)
+* [Github上出现PS4 4.05固件的内核漏洞利用说明](http://www.freebuf.com/news/158565.html)
+* [中国的人工智能核心所需要数据远远多于任何国家](http://www.cnbeta.com/articles/tech/684815.htm)
+* [刘慈欣《流浪地球》电影发布预告](http://hot.cnbeta.com/articles/movie/684449.htm)
+* [风波中的王劲：国内基地在深圳湾区，离腾讯很近](http://www.donews.com/article/detail/4162/10736.html)
+* [钉钉用户过亿](http://dy.163.com/v2/article/detail/D6U3E32905118QTB.html)
+* [摩拜入局共享汽车，友商：欢迎但不看好](http://dy.163.com/v2/article/detail/D6U0FG6A05118K7K.html)
 
 > Github Repo
 
 | Project Name | Stars | Lang | Description |
 | :----------- | :---- | :--- | :---------- |
-| [sims](https://github.com/rcornwell/sims) | 7 | C++ | B5500, IBM 360, IBM 7000/DEC PDP10 KA10/KI10模拟器 |
-| [CodeTricks](https://github.com/xiaopeifeng/CodeTricks) | 8 | C++ | 一些C++编程技巧 |
-| [algorithms](https://github.com/xtaci/algorithms) | 1950 | C++ | 经典的算法实现和数据结构实现 |
-| [rpmalloc](https://github.com/rampantpixels/rpmalloc) | 580 | C | 一个支持Windows/MacOS/iOS/Linux/Android等平台的内存分配器，16B对齐，多线程情况下性能比tcmalloc/JEMALLOC/LOCKLESS等一大众内存分配器效率高 |
-| [may](https://github.com/Xudong-Huang/may) | 285 | Rust | 一个基于栈的coroutine实现 |
-| [gscan_quic](https://github.com/Kisesy/gscan_quic) | 162 | Go | Google Quic IP扫描工具,支持多种类型的IP扫描, |
-| [envconfig](https://github.com/kelseyhightower/envconfig) | 1024 | Go | 获取环境变量参数值，可以把环境变量多个参数映射到一个struct |
-| [x-crack](https://github.com/netxfly/x-crack) | 5 | Go | 弱口令扫描器，可扫描FTP/SSH/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB |
-| [go-build-template](https://github.com/thockin/go-build-template) | 778 | Go | 一个Go工程makefile/Dockerfile模板 |
-| [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) | 3132 | Markdown | 猫的前端回忆录:Js语言底层原理、 CSS、Angular、React、Vue、Node、Gulp等知识合集 |
+| [xv6-public](https://github.com/mit-pdos/xv6-public) | 1418 | C | 在X86之上重构了Dennis Ritchie和Ken Thompson写的Unix v6 |
+| [dnsforwarder](https://github.com/holmium/dnsforwarder) | 755 | C | 一套简单的跨平台DNS转发代理 |
+| [elasticsearch-rtf](https://github.com/medcl/elasticsearch-rtf) | 1859 | Java | 基于Elasticsearch 5.1.1实现的elasticsearch中文发行版，针对中文集成了相关插件 |
+| [gspt](https://github.com/erikdubbelboer/gspt) | 31 | Go | linux setproctitle实现，用来改变进程名称 |
+| [stolon](https://github.com/sorintlab/stolon) | 1134 | Go | 可以在k8s之上部署PostgreSQL高可用管理工具 |
+| [skylark](https://github.com/google/skylark) | 805 | Go | 谷歌出品的一个类似于python的语言，为谷歌自己的构建工具Bazel提供了一套可扩展的规则框架 |
+| [dns](https://github.com/miekg/dns) | 2516 | Go | 一套go语言实现的集成及所有功能的DNS系统集大成者 |
+| [pcie_injector](https://github.com/enjoy-digital/pcie_injector) | 8 | Python | 一套基于Artix7 FPGA的PCIe设备，可以连接DDR3和FTDI USB 3.0 FT601芯片，可以用于CPU和PCIe设备之间的安全研究，整套设备成本低于5万美刀  |
+| [ps](https://github.com/neekey/ps) | 74 | Js | 一个node.js实现的ps工具，可以列出系统当前运行的进程列表 |
+| [ui-stack](https://github.com/gigobyte/ui-stack) | 150 | Js | chrome扩展，自由查看网站的框架和库 |
 
 > Blog
-* [腾讯蜜罐捕获高危IoT蠕虫Okiru](http://www.freebuf.com/articles/paper/158464.html) 
-* [Burpsuite插件的使用](http://www.freebuf.com/sectool/158005.html) 
-* [微信小游戏适配层原理](https://mp.weixin.qq.com/s/JDqiCt3uM3-5Fp19WZYA4g) 
-* [美团点评高可用数据库架构演进](http://developer.51cto.com/art/201712/562358.htm) 
-* [一个刷支付宝大额红包的逻辑漏洞](http://developer.51cto.com/art/201712/562440.htm)
-* [分布式事务三阶段提交协议的实现](https://www.cnblogs.com/bluedoctor/p/8146604.html)
-* [基于Ubuntu docker环境下进行以太坊实践](https://mp.weixin.qq.com/s/wqrjArT6p4EWsEnAQygHrQ)
-* [支持向量机 SVM 算法](https://mp.weixin.qq.com/s/zaYEBDcOi-lCU2XmkkNTXw)
+* [Google Guava Bloom filter源码分析及基于Redis Bitmaps的重构](http://blog.jobbole.com/113396/) 
+* [Mysql 备份恢复与xtrabackup备份](https://www.cnblogs.com/clsn/p/8138015.html) 
+* [腾讯海外计费系统架构演进](https://cloud.tencent.com/developer/article/1007502l) 
+* [MongoDB Mmap 引擎分析](https://cloud.tencent.com/developer/article/1004385) 
+* [如何使用私有网络部署全球同服游戏服务](https://cloud.tencent.com/developer/article/1004424)
+* [2017企业安全威胁统一应对指南](http://www.freebuf.com/news/topnews/155412.html)
 
 > Misc
-* [二次元公司们](http://www.donews.com/news/detail/3/2981463.html) 
-* [中国发现1.3亿年前恐龙蛋化石](http://www.cnbeta.com/articles/tech/684565.htm) 
+* [创业中年人](https://mp.weixin.qq.com/s/e8IBWhXhxZdHfTeGBVZ9qg)
+* [视力表测试为什么用字母E？](http://www.cnbeta.com/articles/tech/684817.htm) 
+* [数学家让·皮诶尔·赛尔](https://mp.weixin.qq.com/s/FrGzkNtVwPhK12OcO9bDgQ)
+* [罂粟科植物的花](http://blog.sciencenet.cn/blog-3319332-1092246.html) 
+* [烟草业买通科学家隐瞒致癌事实半世纪](http://blog.sciencenet.cn/blog-2966991-1092257.html)
+* [糖才是最广泛的「毒品」，与心血管疾病和癌症发病相关](https://mp.weixin.qq.com/s/c1rrQDZoNlW1fs26CZ9buA) 
